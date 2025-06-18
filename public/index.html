@@ -1,0 +1,1795 @@
+<!DOCTYPE html><html lang="en-US"><head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>
+  District Siddharthnagar Government of UP | Birth place of Lord Buddha | India  </title>
+      <style>
+    @font-face {
+      font-family: 'icomoon';
+      src: url("fonts/icomoon.eot");
+      src: url("fonts/icomoon.eot#iefix") format("embedded-opentype"), url("fonts/icomoon.ttf") format("truetype"), url("fonts/icomoon.woff") format("woff"), url("images/icomoon.svg#icomoon") format("svg");
+      font-weight: normal;
+      font-style: normal; }
+  </style>
+  <link rel="profile" href="http://gmpg.org/xfn/11">
+  
+    <meta name="robots" content="max-image-preview:large">
+	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
+	<meta name="description" content="Birth place of Lord Buddha">
+<meta name="keywords" content="Home">
+<script>
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.1.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.1.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/siddharthnagar.nic.in\/wp-includes\/js\/wp-emoji-release.min.js"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83d\udc26\u200d\ud83d\udd25","\ud83d\udc26\u200b\ud83d\udd25")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+</script>
+<link rel="stylesheet" id="theme-my-login-css" href="css/theme-my-login.css" media="all">
+<style id="wp-emoji-styles-inline-css">
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel="stylesheet" id="wp-block-library-css" href="css/style.min.css" media="all">
+<style id="classic-theme-styles-inline-css">
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id="global-styles-inline-css">
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel="stylesheet" id="base-css-css" href="css/base.css" media="all">
+<link rel="stylesheet" id="extra-feature-css-css" href="css/extra.features.css" media="all">
+<link rel="stylesheet" id="contact-form-7-css" href="css/styles.css" media="all">
+<link rel="stylesheet" id="parichay-login-css-css" href="css/login.css" media="all">
+<link rel="stylesheet" id="wsl-widget-css" href="css/style.css" media="all">
+<link rel="stylesheet" id="sliderhelper-css-css" href="css/sliderhelper.css" media="all">
+<link rel="stylesheet" id="main-css-css" href="css/style_1.css" media="all">
+<link rel="stylesheet" id="js_composer_front-css" href="css/js_composer.min.css" media="all">
+<link rel="stylesheet" id="fontawesome-css" href="css/font-awsome.css" media="all">
+<link rel="stylesheet" id="extra_css-css" href="css/extra.css" media="screen">
+<script src="js/jquery.min.js" id="jquery-core-js"></script>
+<script src="js/jquery-migrate.min.js" id="jquery-migrate-js"></script>
+<script src="js/themed-profiles.js" id="tml-themed-profiles-js"></script>
+<script src="js/core.min.js" id="jquery-ui-core-js"></script>
+<script src="js/external.js" id="external-link-js"></script>
+<link rel="canonical" href="https://siddharthnagar.nic.in/">
+<link rel="shortlink" href="https://siddharthnagar.nic.in/">
+    <style>
+        #map_canvas {width: 100%;height: 500px;border: 2px solid #3872ac;position: relative;}
+        .markerLoader {width: 100px;position: absolute;top: 50%;left: 50%;margin-left: -50px;margin-top: -50px;}
+        .markerLoader img {width: 100%;}
+        .googleMarkerOptions{ width: 500px; float: right; margin-bottom: 15px; }
+        .googleMarkerOptions > form{ display: flex; align-items: center;}
+        .googleMarkerOptions select{ height: auto; padding: 6px 10px; margin: 0 5px; border-radius: 4px;}
+        .googleMarkerOptions select.radius{ width:auto; }
+        .googleMarkerOptions #utility_type{ width: 100%; margin-left: 0;}
+        .googleMarkerOptions > form .btn{ border-radius: 4px; margin-right: 0;}
+        .googleMarkerOptions > form .btn:focus{ outline: none;}
+        .googleMarkerOptions > form .nearby-img{ width: 40px; margin-right: 10px;}
+        .googleMapMarker{ display: inline-block; width: 100%;}
+        body.contrast .googleMapMarkerInfoHOlder {background: #000;padding: 8px 14px 54px;}
+        .googleMapMarkerLocationList {margin-top: 25px;}
+        .googleMapMarkerLocationList ul {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            grid-gap: 20px;
+            padding: 0;
+            word-break: break-word;
+        }
+        .googleMapMarkerLocationList li {
+            list-style: none;
+            padding: 12px;
+            box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.25);
+        }
+        /*
+                .googleMapMarkerLocationList li:nth-child(7n-2), .googleMapMarkerLocationList li:nth-child(7n-1), .googleMapMarkerLocationList li:nth-child(7n){grid-column: span 4;}
+        */
+        @media screen and (max-width: 1199px){
+            .googleMapMarkerLocationList ul{grid-template-columns: repeat(3, 1fr);}
+        }
+        @media screen and (max-width: 992px){
+            .googleMapMarkerLocationList ul{grid-template-columns: repeat(2, 1fr);}
+        }
+        @media screen and (max-width: 575px){
+            .googleMapMarkerLocationList ul{grid-template-columns: repeat(1, 1fr);}
+        }
+        @media screen and (max-width: 640px){
+            .googleMarkerOptions{ width: 100%;}
+            .googleMarkerOptions > form{ display:block; text-align:center;}
+            .googleMarkerOptions #utility_type{ width:100%;}
+            .googleMarkerOptions > form .nearby-img{ display:none;}
+            .googleMarkerOptions select.radius{ margin: 10px 0;}
+            .googleMarkerOptions > form .btn{ font-size:1.1em;}
+        }
+    </style>
+        <noscript>
+        <style>
+            #topBar #accessibility ul li .goiSearch, #topBar1 #accessibility ul li .goiSearch{ visibility: visible;}
+            #topBar #accessibility ul li .socialIcons ul, #topBar1 #accessibility ul li .socialIcons ul { background: #fff !important;}
+            #topBar #accessibility ul li .goiSearch, #topBar1 #accessibility ul li .goiSearch{ right: 0; left: inherit;}
+            .nav li a:focus > ul { left: 0; opacity: 0.99;}
+            a:focus, button:focus, .carasoleflex-wrap .flexslider .slides > li a:focus, .flexslider .slides>li a:focus
+            { outline: 3px solid #ff8c00 !important;}
+            .flexslider .slides>li { display:block;}
+            .nav li.active > a, .nav li > a:hover, .nav li > a:focus, .nav ul li a:hover,
+            .mva7-thc-activetheme-district-theme-13 .nav li:hover > a, .mva7-thc-activetheme-district-theme-13 .nav li.active > a, .home-13 .nav li:hover > a, .home-13 .nav li.active > a{color:#ffffff;}
+            .nav li:hover > a{ border-top:none; color:#ffffff;}
+            .nav li.active > a{ border:0;}
+            .nav ul{ opacity:1; left:0; position:static !important; width:auto; border:0;}
+            .nav li{ position:static !important; display:block; float:none; border:0 !important;}
+            .nav li>a { float:none; display:block; background-color:rgba(146,38,4,0.75) !important; color:#ffffff; margin:0; padding:12px 20px !important; border-radius:0; border-bottom:1px solid #ffffff !important; position:static !important; border-top:0; font-size:14px !important;}
+            .nav ul.sub-menu li >a{ background-color:rgba(146,38,4,1); font-size:12px !important;}
+            ul li .socialIcons{ visibility:visible !important;}
+            .mva7-thc-activetheme-district-theme .nav li > a,
+            .mva7-thc-activetheme-district-theme .nav li.active > a{ background-color:#9e6b22 !important;}
+            .mva7-thc-activetheme-district-theme .nav ul.sub-menu li >a{ background-color:#f3b45b !important;}
+
+            .mva7-thc-activetheme-district-theme-2 .menuWrapper,
+            .mva7-thc-activetheme-district-theme-6 .menuWrapper,
+            .mva7-thc-activetheme-district-theme-7 .menuWrapper,
+            .mva7-thc-activetheme-district-theme-8 .menuWrapper,
+            .mva7-thc-activetheme-district-theme-9 .menuWrapper,
+            .mva7-thc-activetheme-district-theme-10 .menuWrapper,
+            .mva7-thc-activetheme-district-theme-11 .menuWrapper,
+            .mva7-thc-activetheme-district-theme-13 .menuWrapper,
+            .mva7-thc-activetheme-district-theme-14 .menuWrapper,
+            .mva7-thc-activetheme-district-theme-15 .menuWrapper{ background-color:#ffffff;}
+
+            .mva7-thc-activetheme-district-theme-2 .nav li > a,
+            .mva7-thc-activetheme-district-theme-2 .nav li.active > a{ background-color:rgba(63,77,184,0.75) !important;}
+            .mva7-thc-activetheme-district-theme-2 .nav ul.sub-menu li >a{ background-color:rgba(63,77,184,1) !important;}
+
+            .mva7-thc-activetheme-district-theme-3 .nav li > a,
+            .mva7-thc-activetheme-district-theme-3 .nav li.active > a,
+            .mva7-thc-activetheme-district-theme-5 .nav li > a,
+            .mva7-thc-activetheme-district-theme-5 .nav li.active > a{ background-color:rgba(212,60,60,0.75) !important;}
+            .mva7-thc-activetheme-district-theme-3 .nav ul.sub-menu li >a,
+            .mva7-thc-activetheme-district-theme-5 .nav ul.sub-menu li >a{ background-color:rgba(212,60,60,1) !important;}
+
+            .mva7-thc-activetheme-district-theme-4 .nav li > a,
+            .mva7-thc-activetheme-district-theme-4 .nav li.active > a{ background-color:rgba(184,48,88,0.75) !important;}
+            .mva7-thc-activetheme-district-theme-4 .nav ul.sub-menu li >a{ background-color:rgba(184,48,88,1) !important;}
+
+            .mva7-thc-activetheme-district-theme-6 .nav li > a,
+            .mva7-thc-activetheme-district-theme-6 .nav li.active > a{ background-color:rgba(16,91,122,0.75) !important;}
+            .mva7-thc-activetheme-district-theme-6 .nav ul.sub-menu li >a{ background-color:rgba(16,91,122,1) !important;}
+
+            .mva7-thc-activetheme-district-theme-7 .nav li > a,
+            .mva7-thc-activetheme-district-theme-7 .nav li.active > a{ background-color:rgba(2,20,80,0.75) !important;}
+            .mva7-thc-activetheme-district-theme-7 .nav ul.sub-menu li >a{ background-color:rgba(2,20,80,1) !important;}
+
+            .mva7-thc-activetheme-district-theme-8 .nav li > a,
+            .mva7-thc-activetheme-district-theme-8 .nav li.active > a{ background-color:rgba(0,144,145,0.65) !important;}
+            .mva7-thc-activetheme-district-theme-8 .nav ul.sub-menu li >a{ background-color:rgba(0,144,145,1) !important;}
+
+            .mva7-thc-activetheme-district-theme-9 .nav li > a,
+            .mva7-thc-activetheme-district-theme-9 .nav li.active > a{ background-color:rgba(60,125,20,0.75) !important;}
+            .mva7-thc-activetheme-district-theme-9 .nav ul.sub-menu li >a{ background-color:rgba(60,125,20,1) !important;}
+
+            .mva7-thc-activetheme-district-theme-10 .nav li > a,
+            .mva7-thc-activetheme-district-theme-10 .nav li.active > a{ background-color:rgba(233,13,65,0.70) !important;}
+            .mva7-thc-activetheme-district-theme-10 .nav ul.sub-menu li >a{ background-color:rgba(233,13,65,1) !important;}
+
+            .mva7-thc-activetheme-district-theme-11 .nav li > a,
+            .mva7-thc-activetheme-district-theme-11 .nav li.active > a{ background-color:rgba(104,57,127,0.75) !important;}
+            .mva7-thc-activetheme-district-theme-11 .nav ul.sub-menu li >a{ background-color:rgba(104,57,127,1) !important;}
+
+            .mva7-thc-activetheme-district-theme-13 .nav li > a,
+            .mva7-thc-activetheme-district-theme-13 .nav li.active > a{ background-color:rgba(0,0,0,0.75) !important;}
+            .mva7-thc-activetheme-district-theme-13 .nav ul.sub-menu li >a{ background-color:rgba(0,0,0,1) !important;}
+
+            .mva7-thc-activetheme-district-theme-14 .nav li > a,
+            .mva7-thc-activetheme-district-theme-14 .nav li.active > a{ background-color:rgba(0,120,175,0.75) !important;}
+            .mva7-thc-activetheme-district-theme-14 .nav ul.sub-menu li >a{ background-color:rgba(0,120,175,1) !important;}
+
+            .mva7-thc-activetheme-district-theme-15 .nav li > a,
+            .mva7-thc-activetheme-district-theme-15 .nav li.active > a{ background-color:rgba(150,86,104,0.75) !important;}
+            .mva7-thc-activetheme-district-theme-15 .nav ul.sub-menu li >a{ background-color:rgba(150,86,104,1) !important;}y
+
+            /*for high contrast css*/
+            .contrast #topBar #accessibility ul li .socialIcons ul, .contrast #topBar1 #accessibility ul li .socialIcons ul,
+            .contrast .nav li>a, .contrast .nav ul.sub-menu li >a,
+            .contrast.mva7-thc-activetheme-district-theme .nav li.active > a,
+            .contrast.mva7-thc-activetheme-district-theme .nav ul.sub-menu li >a,
+            .contrast.mva7-thc-activetheme-district-theme-2 .menuWrapper,
+            .contrast.mva7-thc-activetheme-district-theme-6 .menuWrapper,
+            .contrast.mva7-thc-activetheme-district-theme-7 .menuWrapper,
+            .contrast.mva7-thc-activetheme-district-theme-8 .menuWrapper,
+            .contrast.mva7-thc-activetheme-district-theme-9 .menuWrapper,
+            .contrast.mva7-thc-activetheme-district-theme-10 .menuWrapper,
+            .contrast.mva7-thc-activetheme-district-theme-11 .menuWrapper,
+            .contrast.mva7-thc-activetheme-district-theme-13 .menuWrapper,
+            .contrast.mva7-thc-activetheme-district-theme-14 .menuWrapper,
+            .contrast.mva7-thc-activetheme-district-theme-15 .menuWrapper,
+            .contrast.mva7-thc-activetheme-district-theme-2 .nav li > a,
+            .contrast.mva7-thc-activetheme-district-theme-2 .nav li.active > a,
+            .contrast.mva7-thc-activetheme-district-theme-2 .nav ul.sub-menu li >a,
+            .contrast.mva7-thc-activetheme-district-theme-3 .nav li > a,
+            .contrast.mva7-thc-activetheme-district-theme-3 .nav li.active > a,
+            .contrast.mva7-thc-activetheme-district-theme-5 .nav li > a,
+            .contrast.mva7-thc-activetheme-district-theme-5 .nav li.active > a,
+            .contrast.mva7-thc-activetheme-district-theme-3 .nav ul.sub-menu li >a,
+            .contrast.mva7-thc-activetheme-district-theme-5 .nav ul.sub-menu li >a,
+            .contrast.mva7-thc-activetheme-district-theme-4 .nav li > a,
+            .contrast.mva7-thc-activetheme-district-theme-4 .nav li.active > a,
+            .contrast.mva7-thc-activetheme-district-theme-4 .nav ul.sub-menu li >a,
+            .contrast.mva7-thc-activetheme-district-theme-6 .nav li > a,
+            .contrast.mva7-thc-activetheme-district-theme-6 .nav li.active > a,
+            .contrast.mva7-thc-activetheme-district-theme-6 .nav ul.sub-menu li >a,
+            .contrast.mva7-thc-activetheme-district-theme-7 .nav li > a,
+            .contrast.mva7-thc-activetheme-district-theme-7 .nav li.active > a,
+            .contrast.mva7-thc-activetheme-district-theme-7 .nav ul.sub-menu li >a,
+            .contrast.mva7-thc-activetheme-district-theme-8 .nav li > a,
+            .contrast.mva7-thc-activetheme-district-theme-8 .nav li.active > a,
+            .contrast.mva7-thc-activetheme-district-theme-8 .nav ul.sub-menu li >a,
+            .contrast.mva7-thc-activetheme-district-theme-9 .nav li > a,
+            .contrast.mva7-thc-activetheme-district-theme-9 .nav li.active > a,
+            .contrast.mva7-thc-activetheme-district-theme-9 .nav ul.sub-menu li >a,
+            .contrast.mva7-thc-activetheme-district-theme-10 .nav li > a,
+            .contrast.mva7-thc-activetheme-district-theme-10 .nav li.active > a,
+            .contrast.mva7-thc-activetheme-district-theme-10 .nav ul.sub-menu li >a,
+            .contrast.mva7-thc-activetheme-district-theme-11 .nav li > a,
+            .contrast.mva7-thc-activetheme-district-theme-11 .nav li.active > a,
+            .contrast.mva7-thc-activetheme-district-theme-11 .nav ul.sub-menu li >a,
+            .contrast.mva7-thc-activetheme-district-theme-13 .nav li > a,
+            .contrast.mva7-thc-activetheme-district-theme-13 .nav li.active > a,
+            .contrast.mva7-thc-activetheme-district-theme-13 .nav ul.sub-menu li >a,
+            .contrast.mva7-thc-activetheme-district-theme-14 .nav li > a,
+            .contrast.mva7-thc-activetheme-district-theme-14 .nav li.active > a,
+            .contrast.mva7-thc-activetheme-district-theme-14 .nav ul.sub-menu li >a,
+            .contrast.mva7-thc-activetheme-district-theme-15 .nav li > a,
+            .contrast.mva7-thc-activetheme-district-theme-15 .nav li.active > a,
+            .contrast.mva7-thc-activetheme-district-theme-15 .nav ul.sub-menu li >a,
+            body.contrast
+            { background-color:#000 !important;}
+            .contrast a, .contrast .socialIcons.select-lang a{ color:#ffff00 !important;}
+            body.contrast, .contrast p, .contrast div, .contrast table{ color: #fff !important}
+        </style>
+    </noscript>
+    <link rel="alternate" href="https://siddharthnagar.nic.in/" hreflang="x-default"><meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress.">
+<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="https://siddharthnagar.nic.in/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]--><style data-type="vc_shortcodes-custom-css">.vc_custom_1519469448357{margin-top: 30px !important;margin-bottom: 30px !important;}.vc_custom_1509966838810{padding-bottom: 25px !important;background-color: #f5f2f2 !important;}.vc_custom_1509962199792{background-color: #100e32 !important;}.vc_custom_1510030217493{margin-right: 10px !important;margin-left: 10px !important;background-color: #f5f2f2 !important;}.vc_custom_1510030204939{margin-right: 10px !important;margin-left: 10px !important;background-color: #f5f2f2 !important;}.vc_custom_1510030176807{margin-left: 10px !important;background-color: #f5f2f2 !important;}.vc_custom_1500617027978{padding-top: 0px !important;}</style><noscript><style> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript>  <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+  <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+<script src="https://siddharthnagar.nic.in/wp-content/themes/district-theme/js/html5shiv.min.js"></script>
+<script src="https://siddharthnagar.nic.in/wp-content/themes/district-theme/js/respond.min.js"></script>
+<![endif]-->
+<script>
+  var ajaxurl = "https://siddharthnagar.nic.in/wp-admin/admin-ajax.php";
+</script>
+<script src="js/wp-emoji-release.min.js" defer=""></script></head>
+
+<body class="home wp-singular page-template-default page page-id-2609 wp-theme-district-theme mva7-thc-activetheme-district-theme lang-en wpb-js-composer js-comp-ver-5.4.7 vc_responsive">
+    <header>
+      <div id="topBar" class="wrapper make-accessible-header">
+        <div class="container">
+          <div aria-label="Primary">
+            <div id="accessibility">
+              <ul id="accessibilityMenu">
+                <li><a href="#SkipContent" class="skip-to-content" title="Skip to main content"><span class="icon-skip-to-main responsive-show"></span><strong class="responsive-hide">SKIP TO MAIN CONTENT</strong></a></li>
+                <li><a lang="hi" href="http://up.gov.in/" aria-label="उत्तर प्रदेश सरकार - External Regional Language Site that opens in a new window" title="उत्तर प्रदेश सरकार - External Regional Language Site that opens in a new window">
+	              उत्तर प्रदेश सरकार</a></li>
+                <li><a lang="en" href="http://up.gov.in/">Government of Uttar Pradesh</a></li>
+                <li class="searchbox">
+                  <a href="javascript:void(0);" title="Site Search" aria-label="Site Search" role="button" data-toggle="dropdown">
+                    <img class="show-con" src="images/search-icon.png" title="Search Icon" alt="Search Icon">
+                  </a>
+                  <div class="goiSearch">
+                    <form onsubmit="return search_validation()" action="https://siddharthnagar.nic.in/" method="get">
+                        <label for="search" class="hide">Search</label>
+                        <input type="hidden" id="csrf_nonce" name="csrf_nonce" value="1d38c56e4e"><input type="hidden" name="_wp_http_referer" value="/">                        <input type="search" title="Enter Text" name="s" id="search" value="">
+                        <button type="submit" title="Search"><small class="tcon">Search</small><span class="icon-search" aria-hidden="true"></span></button>
+                    </form>
+                    </div>
+                </li>
+                                <li>
+                  <a href="#" title="Social Media Links" class="show-social-links" role="button" data-toggle="dropdown">
+                    <img class="show-con" src="images/social-icon.png" title="Social Icon" alt="Social Icon">
+                    <span class="off-css">Social Media Links</span>
+                  </a>                  
+                  <ul class="socialIcons">
+                                          <li><a href="https://www.facebook.com/dmsdr" target="_blank" aria-label="Facebook | External site that opens in a new window"><img src="images/ico-facebook.png" title="Facebook | External site that opens in a new window" alt="Facebook, External Link that opens in a new window"></a></li>
+                                                              <li><a href="https://twitter.com/login?redirect_after_login=%2Faccount%2Faccess" target="_blank" aria-label="Twitter | External site that opens in a new window"><img src="images/ico-twitter.png" class="x-icon" title="Twitter | External site that opens in a new window" alt="Twitter | External site that opens in a new window"></a></li>
+                                                              <li><a href="https://www.youtube.com/watch?v=aH21BZMt5sc" target="_blank" aria-label="Youtube | External site that opens in a new window"><img src="images/ico-youtube.png" title="Youtube | External site that opens in a new window" alt="Youtube | External site that opens in a new window"></a></li>
+                                      </ul>
+                </li>
+                                <li>
+                  <a href="https://siddharthnagar.nic.in/site-map/" title="Sitemap">
+                    <img class="show-con" src="images/sitemap-icon.png" title="Sitemap Icon" alt="Sitemap Icon">
+                    <span class="off-css">Site Map</span>
+                  </a>
+                </li>
+                <li>
+                  <a href="javascript:void(0);" title="Accessibility Links" aria-label="Accessibility Links" class="accessible-icon" role="button" data-toggle="dropdown">
+                    <img class="show-con" src="images/accessibility.png" title="Accessibility Icon" alt="Accessibility Icon">
+                    <span class="off-css">Accessibility Links</span>
+                  </a>
+                  <ul class="accessiblelinks textSizing" aria-label="Font size and Contrast controls">
+                    <li class="fontSizeEvent"><a data-selected-text="selected" data-event-type="increase" href="javascript:void(0);" data-label="Font Size Increase" aria-label="Font Size Increase" title="Font Size Increase"><span aria-hidden="true">A+</span><span class="off-css"> Font Size Increase</span></a></li>
+                    <li class="fontSizeEvent"><a data-selected-text="selected" data-event-type="normal" href="javascript:void(0);" data-label="Normal Font" aria-label="Normal Font - Selected" title="Normal Font - Selected"><span aria-hidden="true">A</span><span class="off-css"> Normal Font - Selected</span></a></li>
+                    <li class="fontSizeEvent"><a data-selected-text="selected" data-event-type="decrease" href="javascript:void(0);" data-label="Font Size Decrease" aria-label="Font Size Decrease" title="Font Size Decrease"><span aria-hidden="true">A-</span><span class="off-css"> Font Size Decrease</span></a></li>
+                    <li class="highContrast dark tog-con">
+                        <a href="javascript:void(0);" aria-label="High Contrast" title="High Contrast"><span aria-hidden="true">A</span> <span class="tcon">High Contrast</span></a>
+                    </li>
+                    <li class="highContrast light">
+                        <a class="link-selected" href="javascript:void(0);" aria-label="Normal Contrast - Selected" title="Normal Contrast - Selected"><span aria-hidden="true">A</span> <span class="tcon">Normal Contrast - Selected</span></a>
+                    </li>
+                  </ul>
+                </li>
+                                <li>
+                  <a href="javascript:void(0);" class="change-language link-selected" aria-label="English - Selected" title="English - Selected" role="button" data-toggle="dropdown">
+                    English                  </a>
+                  <ul class="socialIcons select-lang">
+                                        <li class="lang-item lang-item-134 lang-item-hi mFocus"><a lang="hi" hreflang="hi-IN" href="https://siddharthnagar.nic.in/hi/" aria-label="हिन्दी" title="हिन्दी">हिन्दी</a></li>
+                                        </ul>
+                </li>
+                              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="wrapper header-wrapper">
+        <div class="container header-container">
+          <div class="logo">
+            <a href="https://siddharthnagar.nic.in/" title="Go to home" class="emblem" rel="home">
+                              <img class="site_logo" height="100" id="logo" src="images/2018022493.png" alt="logogovtUP">
+              
+            <div class="logo-text">
+                              <strong lang="hi" class="site_name_regional">सिद्धार्थनगर </strong>
+                                                              <h1 class="site_name_english">Siddharthnagar</h1>
+                                          </div>
+          </a>
+        </div>
+          
+          <div class="header-right clearfix">
+            <div class="right-content clearfix">
+              <div class="float-element">
+                                                      <a aria-label="Digital India - External site that opens in a new window" href="http://www.digitalindia.gov.in/" target="_blank" title="Digital India">
+                      <img class="sw-logo" height="95" src="images/2018062262.png" alt="digitalindia">
+                    </a>
+                                </div>
+            </div>
+          </div>
+          <a class="menuToggle" href="javascript:void(0);" aria-label="Mobile Menu"> <span class="icon-menu"></span><span class="tcon">Menu Toggle</span></a>
+        </div>
+      </div>
+
+
+
+<div class="menuWrapper">
+
+  <div class="menuMoreText hide">More</div>
+
+
+  <div class="container">
+    <nav class="menu"><ul id="menu-header-en" class="nav clearfix"><li id="menu-item-2658" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-2658 active "><a href="https://siddharthnagar.nic.in/" aria-current="page">HOME</a></li>
+<li id="menu-item-21718" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-21718"><a href="https://siddharthnagar.nic.in/about-district/">About District</a>
+<ul class="sub-menu">
+	<li id="menu-item-2736" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2736"><a href="https://siddharthnagar.nic.in/history/">HISTORY</a></li>
+	<li id="menu-item-2492" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2492"><a href="https://siddharthnagar.nic.in/about-district/whos-who/">Who’s Who</a></li>
+	<li id="menu-item-22214" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22214"><a href="https://siddharthnagar.nic.in/map-of-district/">Map of District</a></li>
+	<li id="menu-item-20707" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-20707"><a href="https://siddharthnagar.nic.in/about-district/district-at-a-glance/">District at a Glance</a></li>
+	<li id="menu-item-21871" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-21871"><a href="https://siddharthnagar.nic.in/administrative-setup/">Administrative Setup</a>
+	<ul class="sub-menu">
+		<li id="menu-item-20633" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20633"><a href="https://siddharthnagar.nic.in/administrative-setup/development/">Development</a></li>
+		<li id="menu-item-20794" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20794"><a href="https://siddharthnagar.nic.in/administrative-setup/police/">Police</a></li>
+		<li id="menu-item-20807" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20807"><a href="https://siddharthnagar.nic.in/administrative-setup/education/">Education</a></li>
+		<li id="menu-item-22663" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22663"><a href="https://siddharthnagar.nic.in/administrative-setup/tehsil/">Tehsil</a></li>
+		<li id="menu-item-22664" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22664"><a href="https://siddharthnagar.nic.in/administrative-setup/block/">Block</a></li>
+		<li id="menu-item-22665" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22665"><a href="https://siddharthnagar.nic.in/administrative-setup/police-station/">Police Station</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-2777" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2777"><a href="https://siddharthnagar.nic.in/directory/">Directory</a>
+<ul class="sub-menu">
+	<li id="menu-item-20610" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20610"><a href="https://siddharthnagar.nic.in/list-of-collectors/">List of Collectors</a></li>
+	<li id="menu-item-20635" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20635"><a href="https://siddharthnagar.nic.in/district-level/">District Level Officers</a></li>
+	<li id="menu-item-20630" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20630"><a href="https://siddharthnagar.nic.in/helpline-number/">HELPLINE NUMBER</a></li>
+	<li id="menu-item-23915" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-23915"><a href="https://cdn.s3waas.gov.in/s385d8ce590ad8981ca2c8286f79f59954/uploads/2024/03/2024031973.pdf">List of recognized Press Representatives</a></li>
+	<li id="menu-item-21870" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-21870"><a href="https://siddharthnagar.nic.in/public-utilities/">Public Utilities</a>
+	<ul class="sub-menu">
+		<li id="menu-item-21874" class="menu-item menu-item-type-taxonomy menu-item-object-public-utility-category menu-item-21874"><a href="https://siddharthnagar.nic.in/public-utility-category/banks/">Banks</a></li>
+		<li id="menu-item-21875" class="menu-item menu-item-type-taxonomy menu-item-object-public-utility-category menu-item-21875"><a href="https://siddharthnagar.nic.in/public-utility-category/colleges/">Colleges/Universities</a></li>
+		<li id="menu-item-21878" class="menu-item menu-item-type-taxonomy menu-item-object-public-utility-category menu-item-21878"><a href="https://siddharthnagar.nic.in/public-utility-category/electricity/">Electricity</a></li>
+		<li id="menu-item-21879" class="menu-item menu-item-type-taxonomy menu-item-object-public-utility-category menu-item-21879"><a href="https://siddharthnagar.nic.in/public-utility-category/hospitals/">Hospitals</a></li>
+		<li id="menu-item-21880" class="menu-item menu-item-type-taxonomy menu-item-object-public-utility-category menu-item-21880"><a href="https://siddharthnagar.nic.in/public-utility-category/municipality/">Municipalities</a></li>
+		<li id="menu-item-21882" class="menu-item menu-item-type-taxonomy menu-item-object-public-utility-category menu-item-21882"><a href="https://siddharthnagar.nic.in/public-utility-category/postal/">Postal</a></li>
+		<li id="menu-item-21881" class="menu-item menu-item-type-taxonomy menu-item-object-public-utility-category menu-item-21881"><a href="https://siddharthnagar.nic.in/public-utility-category/ngos/">NGOs</a></li>
+		<li id="menu-item-21883" class="menu-item menu-item-type-taxonomy menu-item-object-public-utility-category menu-item-21883"><a href="https://siddharthnagar.nic.in/public-utility-category/schools/">Schools</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-2829" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2829"><a href="https://siddharthnagar.nic.in/tourism/">Tourism</a>
+<ul class="sub-menu">
+	<li id="menu-item-2828" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2828"><a href="https://siddharthnagar.nic.in/how-to-reach/">How to Reach Siddharth Nagar</a></li>
+	<li id="menu-item-22474" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22474"><a href="https://siddharthnagar.nic.in/accommodationhotel-resort-dharamshala/">ACCOMMODATION (HOTEL/RESORT/DHARAMSHALA)</a></li>
+	<li id="menu-item-2827" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2827"><a href="https://siddharthnagar.nic.in/places-of-interest/">Places of Interest</a></li>
+	<li id="menu-item-22462" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22462"><a href="https://siddharthnagar.nic.in/tourist-places/">Tourist Places</a></li>
+</ul>
+</li>
+<li id="menu-item-21736" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-21736"><a href="https://siddharthnagar.nic.in/citizen-services/">Citizen Services</a>
+<ul class="sub-menu">
+	<li id="menu-item-22600" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-22600"><a href="https://edistrict.up.gov.in/edistrictup/">SSDG PORTAL</a></li>
+	<li id="menu-item-22601" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-22601"><a href="http://164.100.181.16/mcitizen/Login/Login.aspx">ONLINE CITIZEN CERVICES</a></li>
+	<li id="menu-item-22602" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-22602"><a href="https://eforms.nic.in/">E-FORMS OF NIC SERVICES</a></li>
+	<li id="menu-item-22603" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-22603"><a href="https://email.gov.in/">NIC-EMAIL</a></li>
+	<li id="menu-item-22605" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-22605"><a href="https://servicedesk.nic.in/">NIC SERVICE DESK</a></li>
+	<li id="menu-item-22606" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-22606"><a href="https://webcast.gov.in/">WEBCAST</a></li>
+	<li id="menu-item-22607" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-22607"><a href="https://digilocker.gov.in/">DIGITAL LOCKER</a></li>
+</ul>
+</li>
+<li id="menu-item-22502" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-22502"><a href="#">Notices</a>
+<ul class="sub-menu">
+	<li id="menu-item-21926" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-21926"><a href="https://siddharthnagar.nic.in/events/">Events</a></li>
+	<li id="menu-item-22770" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-22770"><a href="https://siddharthnagar.nic.in/notice_category/announcements/">Notice Board</a></li>
+	<li id="menu-item-22530" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-22530"><a href="https://siddharthnagar.nic.in/notice_category/tenders/">Tenders</a></li>
+</ul>
+</li>
+<li id="menu-item-23400" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-23400"><a href="https://siddharthnagar.nic.in/siddharthnagar-mahotsav-2025">Siddharthnagar Mahotsav</a></li>
+<li id="menu-item-20848" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-20848"><a href="https://siddharthnagar.nic.in/deo-portal">DEO Portal</a></li>
+<li id="menu-item-22945" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-22945"><a href="https://siddharthnagar.nic.in/survey-2018/">Survey 2018</a>
+<ul class="sub-menu">
+	<li id="menu-item-22946" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22946"><a href="https://siddharthnagar.nic.in/survey-2018/survey2018-ww-womenpension/">Pension Scheme For Destitute Women</a></li>
+	<li id="menu-item-22947" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22947"><a href="https://siddharthnagar.nic.in/survey2018-sw-oldagepension/">Old Age Pension/Farmer Pension</a></li>
+	<li id="menu-item-22948" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22948"><a href="https://siddharthnagar.nic.in/survey2018-epd-disabledpension/">Pension For Disabled</a></li>
+	<li id="menu-item-22949" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22949"><a href="https://siddharthnagar.nic.in/survey2018-fcs-eligiblehousehold/">Household Eligible For Ration Card</a></li>
+	<li id="menu-item-22950" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22950"><a href="https://siddharthnagar.nic.in/survey2018-rd-cmayg/">Chief Minister Awaas Yojna-Grameen</a></li>
+	<li id="menu-item-22951" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22951"><a href="https://siddharthnagar.nic.in/survey2018-ud-pmay/">Prime Minister Awaas Yojna-Urban</a></li>
+	<li id="menu-item-22997" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22997"><a href="https://siddharthnagar.nic.in/survey2018-mhfw-healthprotection/">National Health Protection Scheme</a></li>
+</ul>
+</li>
+<li id="menu-item-2477" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2477"><a href="https://siddharthnagar.nic.in/photo-gallery/?customize_changeset_uuid=d135e4c6-8943-49f5-940d-aea1578840a9">Media Gallery</a>
+<ul class="sub-menu">
+	<li id="menu-item-21746" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21746"><a href="https://siddharthnagar.nic.in/photo-gallery/">PHOTO GALLERY</a></li>
+</ul>
+</li>
+<li id="menu-item-20844" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-20844"><a href="https://siddharthnagar.nic.in/rti">RTI</a></li>
+<li id="menu-item-28472" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28472"><a href="https://siddharthnagar.nic.in/one-district-one-product-kalanamak-rice/">One District One Product (Kalanamak Rice)</a></li>
+</ul></nav>
+  </div>
+</div>
+<div class="clearfix"></div>
+<div id="overflowMenu">
+  <div class="ofMenu">
+    <ul>
+
+    </ul>
+  </div>
+    <a title="Close" href="javascript:void(0);" class="closeMenu"><span class="icon-close" aria-hidden="true"></span> Close</a>
+</div>
+</header>
+
+<main>
+<div class="wrapper bodyWrapper no_padding">
+    <div class="container home-1">
+        <div id="SkipContent"></div>
+    <div class="row">
+      <div class="col-12">
+                  
+            <div id="post-2609" class="post-2609 page type-page status-publish hentry">
+		<div data-vc-full-width="true" data-vc-full-width-init="false" data-vc-stretch-content="true" class="vc_row wpb_row vc_row-fluid vc_row-no-padding"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper">        <div id="slide" class="home-slider full-cntrl-center-caption-bottom nav-white  flexslider ">
+            <ul class="slides">
+
+                                    <li>
+                        <a href="https://cbpssubscriber.mygov.in/aff/fr9Ap8608OHWeScK">
+                            <img decoding="async" src="https://cbpssubscriber.mygov.in/assets/uploads/juGajmc1gOVBUtt5" id="_fr9Ap8608OHWeScK" alt="No Image" onload="javascript:(function(){if(typeof _done == 'undefined' || !_done){this.setAttribute('src', this.getAttribute('src')+'?'+Math.floor((Math.random() * 100) + 1)); _done=true;}}).call(this)">
+                        </a>
+                    </li>
+                
+                                            <li>
+                                                                    <a href="https://adiprasaran.tribal.gov.in/" target="_blank">
+                                        <img src="images/2024112057.jpg" alt="ALT Janjatiya Gaurav Diwas">                                                                                <div class="container">
+                                            <div class="slide-caption">
+                                            <p class="heading3">Janjatiya Gaurav Diwas</p>
+                                            <p></p>
+
+                                            </div>
+                                        </div>
+                                                                            </a>
+                                                                </li>
+                                                        <li>
+                                                                    <a href="https://harghartiranga.com/" target="_blank">
+                                        <img src="images/2022081041.jpg" alt="Har Ghar Tiranga">                                                                                <div class="container">
+                                            <div class="slide-caption">
+                                            <p class="heading3">HAR GHAR TIRANGA</p>
+                                            <p></p>
+
+                                            </div>
+                                        </div>
+                                                                            </a>
+                                                                </li>
+                                                        <li>
+                                                                    <a href="https://siddharthnagar.nic.in" target="_blank">
+                                        <img src="images/2018021724.jpg" alt="ALT District Magistrate Office">                                                                                <div class="container">
+                                            <div class="slide-caption">
+                                            <p class="heading3">District Magistrate Office</p>
+                                            <p></p>
+
+                                            </div>
+                                        </div>
+                                                                            </a>
+                                                                </li>
+                                                        <li>
+                                                                    <a href="https://siddharthnagar.nic.in" target="_blank">
+                                        <img src="images/2022061646.jpeg" alt="ambedkar-sabhagar">                                                                                <div class="container">
+                                            <div class="slide-caption">
+                                            <p class="heading3">Ambedkar Sabhagaar</p>
+                                            <p></p>
+
+                                            </div>
+                                        </div>
+                                                                            </a>
+                                                                </li>
+                                                        <li>
+                                                                    <a href="https://siddharthnagar.nic.in" target="_blank">
+                                        <img src="images/2022061664.jpg" alt="Kapilvastu-alt">                                                                                <div class="container">
+                                            <div class="slide-caption">
+                                            <p class="heading3">Kapilvastu</p>
+                                            <p></p>
+
+                                            </div>
+                                        </div>
+                                                                            </a>
+                                                                </li>
+                                                        <li>
+                                                                    <a href="https://siddharthnagar.nic.in" target="_blank">
+                                        <img src="images/2019090997.png" alt="Alt KAPILVASTU">                                                                                <div class="container">
+                                            <div class="slide-caption">
+                                            <p class="heading3">Kaplivastu</p>
+                                            <p></p>
+
+                                            </div>
+                                        </div>
+                                                                            </a>
+                                                                </li>
+                                                        <li>
+                                <img src="images/2019090990.jpg" alt="Alt KAPILVASTU">                                                                        <div class="container">
+                                        <div class="slide-caption">
+                                        <p class="heading3">Kaplivastu</p>
+                                            <p></p>
+
+                                        </div>
+                                    </div>
+                                                                                                    </li>
+                                                        <li>
+                                <img src="images/2025050125.jpg" alt="Collectorate">                                                                        <div class="container">
+                                        <div class="slide-caption">
+                                        <p class="heading3">Collectorate Gate</p>
+                                            <p></p>
+
+                                        </div>
+                                    </div>
+                                                                                                    </li>
+                                        </ul>
+        </div>
+        <script>
+           jQuery(document).ready(function($) {
+            // Slider
+            
+            $('.home-slider').flexslider({
+                animation: ($('body').hasClass('rtl'))?"fade":"slide",
+                directionNav: true,
+                prevText: "<span class='hide'>Previous</span>",
+                nextText: "<span class='hide'>Next</span>",
+                pausePlay: true,
+                pauseText: "<span class='hide'>Pause</span>",
+                playText: "<span class='hide'>Play</span>",
+                controlNav: false,
+                start: function(slider){
+                $('body').find('.flexslider').resize();
+                    if(slider.count==1){
+                        slider.pausePlay.parent().remove();
+                    }
+                    $('.home-slider ul.slides li.clone a').each(function() {
+                        $(this).replaceWith($(this).html());
+                    })
+                }
+
+            });
+        });
+
+    </script>
+	<div class="wrapper" id="skipCont"></div>
+    </div></div></div></div><div class="vc_row-full-width vc_clearfix"></div><div class="vc_row wpb_row vc_row-fluid vc_custom_1519469448357 vc_row-o-equal-height vc_row-o-content-top vc_row-flex"><div class="wpb_column vc_column_container vc_col-sm-3"><div class="vc_column-inner "><div class="wpb_wrapper">
+		<div class="gen-list no-border no-bg padding-20 border-radius-medium big-icon-list   normal-font ">
+		<h2 class="heading3">DISTRICT AT A GLANCE</h2>		<ul>
+						<li class="  ">
+								<a href="https://siddharthnagar.nic.in/administrative-setup/tehsil/" target=" _blank" style="">
+								<span class="list-icon blue-bg icon-municipal border-radius-none"></span>
+				
+				<div class="list-text blue-color"><span>5</span>Tehsils				</div>
+								</a>
+			 				</li>
+								<li class="  ">
+								<a href="https://siddharthnagar.nic.in/administrative-setup/block/" target=" _blank" style="">
+								<span class="list-icon green-bg icon-banks border-radius-none"></span>
+				
+				<div class="list-text green-color"><span>14</span>Blocks				</div>
+								</a>
+			 				</li>
+								<li class="  ">
+								<a href="https://siddharthnagar.nic.in/administrative-setup/police-station/" target=" _blank" style="">
+								<span class="list-icon red-bg icon-police-station border-radius-none"></span>
+				
+				<div class="list-text red-color"><span>18</span>Police Station				</div>
+								</a>
+			 				</li>
+						</ul>
+				</div>
+		</div></div></div><div class="wpb_column vc_column_container vc_col-sm-3 vc_col-has-fill"><div class="vc_column-inner vc_custom_1510030217493"><div class="wpb_wrapper">    <div class="events-wrapper  with-bg ">
+        <h2 class="heading3">EVENTS</h2>
+                <div class="no-events"> There is no Event.</div>
+                </div>
+        
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			
+		</div>
+	</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-3 vc_col-has-fill"><div class="vc_column-inner vc_custom_1510030204939"><div class="wpb_wrapper">
+		<div class="gen-list no-border no-bg padding-0 border-radius-none small-icon-list   normal-font ">
+		<h2 class="heading3">INFORMATION</h2>		<ul>
+						<li class="  ">
+								<a href="https://cdn.s3waas.gov.in/s385d8ce590ad8981ca2c8286f79f59954/uploads/2024/12/2024123130.jpg" title="Calender Year 2025" style="">
+								<span class="list-icon blue-bg icon-calender-check border-radius-medium"></span>
+								<div class="list-text">Calender Year 2025				</div>
+								</a>
+			 				</li>
+								<li class="  ">
+								<a href="https://siddharthnagar.nic.in/excise-department-e-lottry-for-2025-26/" title="Excise Department E-lottry for 2025-26" style="">
+								<span class="list-icon blue-bg icon-accommodation border-radius-medium"></span>
+								<div class="list-text">Excise Department				</div>
+								</a>
+			 				</li>
+								<li class="  ">
+								<a href="https://vdsai.com/kalanamak/" target=" _blank" style="">
+								<span class="list-icon blue-bg icon-agriculture border-radius-medium"></span>
+								<div class="list-text">Kala Namak Rice Export Promotion Board				</div>
+								</a>
+			 				</li>
+								<li class="  ">
+								<a href="https://cdn.s3waas.gov.in/s385d8ce590ad8981ca2c8286f79f59954/uploads/2024/10/2024102677.pdf" style="">
+								<span class="list-icon blue-bg icon-accommodation border-radius-medium"></span>
+								<div class="list-text">Cyber Security Awareness				</div>
+								</a>
+			 				</li>
+								<li class="  ">
+								<a href="https://siddharthnagar.nic.in/eoffice/" title="eOffice" style="">
+								<span class="list-icon blue-bg icon-group-line border-radius-medium"></span>
+								<div class="list-text">eOffice				</div>
+								</a>
+			 				</li>
+								<li class="  ">
+								<a href="https://siddharthnagar.nic.in/latest-happenings/" target=" _blank" style="">
+								<span class="list-icon red-bg icon-news border-radius-medium"></span>
+								<div class="list-text">Latest Happenings				</div>
+								</a>
+			 				</li>
+								<li class="  ">
+								<a href="https://siddharthnagar.nic.in/ayushman-bharat/" target=" _blank" style="">
+								<span class="list-icon blue-bg icon-health border-radius-medium"></span>
+								<div class="list-text">Ayushman Bharat				</div>
+								</a>
+			 				</li>
+								<li class="  ">
+								<a href="https://siddharthnagar.nic.in/flood-and-disaster-management-action-plan-2018/" target=" _blank" style="">
+								<span class="list-icon green-bg icon-pdf border-radius-medium"></span>
+								<div class="list-text">Flood and Disaster Management Action Plan - 2018				</div>
+								</a>
+			 				</li>
+								<li class="  ">
+								<a href="https://siddharthnagar.nic.in/district-level/" title="Telephone Directory" target=" _blank" style="">
+								<span class="list-icon orange-bg icon-phone border-radius-medium"></span>
+								<div class="list-text">Telephone Directory				</div>
+								</a>
+			 				</li>
+								<li class="  ">
+								<a href="https://siddharthnagar.nic.in/helpline-number/" title="Helpline" target=" _blank" style="">
+								<span class="list-icon gray-bg icon-support border-radius-medium"></span>
+								<div class="list-text">Helpline				</div>
+								</a>
+			 				</li>
+						</ul>
+				</div>
+		</div></div></div><div class="wpb_column vc_column_container vc_col-sm-3 vc_col-has-fill"><div class="vc_column-inner vc_custom_1510030176807"><div class="wpb_wrapper"><div class="wpb_gmaps_widget wpb_content_element">
+	<h2 class="wpb_heading wpb_map_heading">Siddharthnagar Map</h2>	<div class="wpb_wrapper">
+		<div class="wpb_map_wraper">
+			<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d454009.2794497989!2d82.6019972948031!3d27.252175993157344!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3996c4ae6af210c9%3A0x9983449db5a00573!2sSiddharthnagar%2C+Uttar+Pradesh!5e0!3m2!1sen!2sin!4v1519383705073" width="600" height="300" frameborder="0" style="border:0" allowfullscreen=""></iframe>		</div>
+	</div>
+</div>
+</div></div></div></div><div data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid vc_custom_1509966838810 vc_row-has-fill"><div class="wpb_column vc_column_container vc_col-sm-3"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<div>
+<h3>ABOUT DISTRICT</h3>
+<p align="justify">(Hindi: सिद्धार्थनगर , Urdu: <span dir="rtl">سدھارتھ نگر</span> ‎) is one of the 75 districts of Uttar Pradesh state in Northern India. Naugarh town is the district headquarters. Naugarh is also a Railway Station on Gorakhpur-Anandnagar-Gonda broad-gauge line. Siddharth Nagar district is a part of Basti division. The district is known for the ruins of the Shakya Janapada, at Piprahwa which is 22 km away from the district headquarters Naugarh.</p>
+<p><a href="/about-district/">Read More</a></p>
+</div>
+
+		</div>
+	</div>
+
+		<div class="gen-list no-border no-bg padding-0 border-radius-none arrow-list  col-two normal-font ">
+		<h2 class="heading3">AT A GLANCE</h2>		<ul>
+						<li class="  ">
+								<div class="list-anchor">
+								<span class="list-icon -bg  border-radius-round"></span>
+								<div class="list-text"><strong>Area:</strong>2,895 Sq.Km. 				</div>
+							 </div>
+			 				</li>
+								<li class="  ">
+								<div class="list-anchor">
+								<span class="list-icon -bg  border-radius-round"></span>
+								<div class="list-text"><strong>Rvenue Villages:</strong>2545				</div>
+							 </div>
+			 				</li>
+								<li class="  ">
+								<div class="list-anchor">
+								<span class="list-icon -bg  border-radius-round"></span>
+								<div class="list-text"><strong>Language:</strong>Hindi				</div>
+							 </div>
+			 				</li>
+								<li class="  ">
+								<div class="list-anchor">
+								<span class="list-icon -bg  border-radius-round"></span>
+								<div class="list-text"><strong>Population:</strong>2,559,297				</div>
+							 </div>
+			 				</li>
+								<li class="  ">
+								<div class="list-anchor">
+								<span class="list-icon -bg  border-radius-round"></span>
+								<div class="list-text"><strong>Male:</strong>1,295,095				</div>
+							 </div>
+			 				</li>
+								<li class="  ">
+								<div class="list-anchor">
+								<span class="list-icon -bg  border-radius-round"></span>
+								<div class="list-text"><strong>Female:</strong>1,264,202				</div>
+							 </div>
+			 				</li>
+						</ul>
+				</div>
+		</div></div></div><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="vc_tta-container" data-vc-action="collapse"><div class="vc_general vc_tta vc_tta-tabs vc_tta-color-grey vc_tta-style-classic vc_tta-shape-rounded vc_tta-spacing-1 hor-hometab1 vc_tta-tabs-position-top vc_tta-controls-align-left hor-hometab1"><div class="vc_tta-tabs-container"><ul class="vc_tta-tabs-list"><li class="vc_tta-tab vc_active" data-vc-tab=""><a href="#whats-new-tab" data-vc-tabs="" data-vc-container=".vc_tta"><span class="vc_tta-title-text">WHAT'S NEW</span></a></li><li class="vc_tta-tab" data-vc-tab=""><a href="#1525783355074-6b9a4d4d-7665" data-vc-tabs="" data-vc-container=".vc_tta"><span class="vc_tta-title-text">Tenders</span></a></li><li class="vc_tta-tab" data-vc-tab=""><a href="#1533192371119-002ec8e2-edf0" data-vc-tabs="" data-vc-container=".vc_tta"><span class="vc_tta-title-text"> Recruitment</span></a></li><li class="vc_tta-tab" data-vc-tab=""><a href="#1609828134539-ce3a4a03-7d1f" data-vc-tabs="" data-vc-container=".vc_tta"><span class="vc_tta-title-text">Notice</span></a></li></ul></div><div class="vc_tta-panels-container"><div class="vc_tta-panels"><div class="vc_tta-panel vc_active" id="whats-new-tab" data-vc-content=".vc_tta-panel-body"><div class="vc_tta-panel-heading"><h4 class="vc_tta-panel-title"><a href="#whats-new-tab" data-vc-accordion="" data-vc-container=".vc_tta-container"><span class="vc_tta-title-text">WHAT'S NEW</span></a></h4></div><div class="vc_tta-panel-body">    <div class="content-view gen-list  no-border no-bg  padding-0 border-radius-none default-list ">
+                 <ul>
+                            <li id="post-29379">
+                            <a href="https://siddharthnagar.nic.in/notice/district-minority-welfare-officer-siddharthnagar-2/">District Minority Welfare Officer, Siddharthnagar.</a>
+                                        </li>
+                                                    <li id="post-29375">
+                            <a href="https://siddharthnagar.nic.in/notice/excise-4th-phase-e-lottery-result/">Excise 4th phase e-lottery Result</a>
+                                        </li>
+                                                    <li id="post-29372">
+                            <a href="https://siddharthnagar.nic.in/notice/jila-graamodyog-office-4/">Jila Graamodyog office</a>
+                                        </li>
+                                                    <li id="post-29346">
+                            <a href="https://siddharthnagar.nic.in/notice/jila-graamodyog-office/">Jila Graamodyog office</a>
+                                        </li>
+                                                    <li id="post-29301">
+                            <a href="https://siddharthnagar.nic.in/notice/list-of-recognized-schools-from-pre-primary-to-class-12-on-u-dias-portal/">List of recognized schools from pre-primary to class 12 on UDISE portal</a>
+                                        </li>
+                                                    <li id="post-29289">
+                            <a href="https://siddharthnagar.nic.in/notice/sand-replenishment-study-report/">Sand replenishment study report</a>
+                                        </li>
+                                                    <li id="post-29233">
+                            <a href="https://siddharthnagar.nic.in/notice/prohibitory-order-under-section-163-2/">Prohibitory Order Under Section-163</a>
+                                        </li>
+                                                    <li id="post-29201">
+                            <a href="https://siddharthnagar.nic.in/notice/details-of-the-committee-formed-for-the-implementation-of-sexual-harassment-of-women-at-workplace-prevention-prohibition-and-redressal-act-2013/">Details of the committee formed for the implementation of Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal) Act-2013.</a>
+                                        </li>
+                            
+                            </ul>
+            </div>
+    </div></div><div class="vc_tta-panel" id="1525783355074-6b9a4d4d-7665" data-vc-content=".vc_tta-panel-body"><div class="vc_tta-panel-heading"><h4 class="vc_tta-panel-title"><a href="#1525783355074-6b9a4d4d-7665" data-vc-accordion="" data-vc-container=".vc_tta-container"><span class="vc_tta-title-text">Tenders</span></a></h4></div><div class="vc_tta-panel-body">      <div class="gen-list  no-border no-bg  padding-0 border-radius-none default-list ">
+      <ul class="nopostfound" data-found="false"><li style="list-style-type:none;">No post to display</li></ul>        </div>
+    
+      </div></div><div class="vc_tta-panel" id="1533192371119-002ec8e2-edf0" data-vc-content=".vc_tta-panel-body"><div class="vc_tta-panel-heading"><h4 class="vc_tta-panel-title"><a href="#1533192371119-002ec8e2-edf0" data-vc-accordion="" data-vc-container=".vc_tta-container"><span class="vc_tta-title-text"> Recruitment</span></a></h4></div><div class="vc_tta-panel-body">      <div class="gen-list  no-border no-bg  padding-0 border-radius-none default-list ">
+      <ul class="nopostfound" data-found="false"><li style="list-style-type:none;">No post to display</li></ul>        </div>
+    
+      </div></div><div class="vc_tta-panel" id="1609828134539-ce3a4a03-7d1f" data-vc-content=".vc_tta-panel-body"><div class="vc_tta-panel-heading"><h4 class="vc_tta-panel-title"><a href="#1609828134539-ce3a4a03-7d1f" data-vc-accordion="" data-vc-container=".vc_tta-container"><span class="vc_tta-title-text">Notice</span></a></h4></div><div class="vc_tta-panel-body">        <div class="content-view gen-list  no-border no-bg  padding-0 border-radius-medium default-list ">
+                    <ul>
+                            <li>
+                                            <a href="https://siddharthnagar.nic.in/notice/district-minority-welfare-officer-siddharthnagar-2/">District Minority Welfare Officer, Siddharthnagar.</a>
+                                                </li>
+                                <li>
+                                            <a href="https://siddharthnagar.nic.in/notice/excise-4th-phase-e-lottery-result/">Excise 4th phase e-lottery Result</a>
+                                                </li>
+                                <li>
+                                            <a href="https://siddharthnagar.nic.in/notice/jila-graamodyog-office-4/">Jila Graamodyog office</a>
+                                                </li>
+                                <li>
+                                            <a href="https://siddharthnagar.nic.in/notice/jila-graamodyog-office/">Jila Graamodyog office</a>
+                                                </li>
+                                <li>
+                                            <a href="https://siddharthnagar.nic.in/notice/list-of-recognized-schools-from-pre-primary-to-class-12-on-u-dias-portal/">List of recognized schools from pre-primary to class 12 on UDISE portal</a>
+                                                </li>
+                        </ul>
+                        <a href="https://siddharthnagar.nic.in/notice_category/announcements/" target=" _blank" class="btn btn-sm btn-gov" aria-label="View More" title="View More">View More</a>
+                        </div>
+        
+      </div></div></div></div></div></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-3"><div class="vc_column-inner "><div class="wpb_wrapper">
+    
+    <div class="col-3 singlebox withbg ">
+        
+                <div class="box-1 ">
+            <div class="khowMinisterBox">
+                <div class="khowMinisterBoxImg">
+                    <img decoding="async" class="round-icon" src="images/2024062997.jpg" alt="DM">
+                </div>
+                <div class="MinisterProfile">
+                <span class="Pname">District Magistrate</span>
+                <span class="Pdesg">Dr. Rajaganapathy R, IAS</span>
+                                 <div class="social-icocntr">
+                 
+                 <a aria-label="Facebook opens a new window" href="https://www.facebook.com/dmsdr/" title="Facebook opens a new window" target="_blank"><span class="icon-facebook"></span><span class="tcon">Facebook</span></a>
+                              
+                 <a aria-label="Twitter opens a new window" href="https://twitter.com/dmsid1?lang=en" target="_blank" title="Twitter opens a new window"><span class="icon-twitter"></span><span class="tcon">Twitter</span></a>
+                                               </div>
+                                                <ul>
+                                  <li><a href="https://siddharthnagar.nic.in/about-district/dms-profile/" aria-label="PROFILE" title="PROFILE" target=" _blank" class="withbg"><span class="icon-articles"></span>PROFILE</a></li>
+                                                   <li><a href="https://siddharthnagar.nic.in/about-district/whos-who/" aria-label="CONTACT" title="CONTACT" target=" _blank" class="withbg"><span class="icon-phone"></span>CONTACT</a></li>
+                                  </ul>
+                              </div>
+            </div>
+        </div>
+                </div>
+
+    </div></div></div></div><div class="vc_row-full-width vc_clearfix"></div><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-7"><div class="vc_column-inner "><div class="wpb_wrapper">	
+		<div class="gen-list no-border no-bg padding-0 border-radius-none box-list   normal-font ">
+		<h2 class="heading3">FIND SERVICES</h2>		<ul>
+						<li class="blue-bg  border-radius-medium">
+				<a href="https://siddharthnagar.nic.in/service-category/certificates/" title="Certificates">
+									<span class="list-icon icon-certificate border-radius-round"></span>
+								<div class="list-text">Certificates				</div>
+								</a>
+				</li>
+								<li class="green-bg  border-radius-medium">
+				<a href="https://siddharthnagar.nic.in/service-category/bills/" title="Bills">
+									<span class="list-icon icon-taxes-2 border-radius-round"></span>
+								<div class="list-text">Bills				</div>
+								</a>
+				</li>
+								<li class="red-bg  border-radius-medium">
+				<a href="https://siddharthnagar.nic.in/service-category/civil-supplies/" title="Civil Supplies">
+									<span class="list-icon icon-supply-2 border-radius-round"></span>
+								<div class="list-text">Civil Supplies				</div>
+								</a>
+				</li>
+								<li class="orange-bg  border-radius-medium">
+				<a href="https://siddharthnagar.nic.in/service-category/revenue-court/" title="Revenue Court">
+									<span class="list-icon icon-law border-radius-round"></span>
+								<div class="list-text">Revenue Court				</div>
+								</a>
+				</li>
+								<li class="gray-bg  border-radius-medium">
+				<a href="https://siddharthnagar.nic.in/service-category/revenue/" title="Revenue">
+									<span class="list-icon icon-revenue border-radius-round"></span>
+								<div class="list-text">Revenue				</div>
+								</a>
+				</li>
+								<li class="light-grey-bg  border-radius-medium">
+				<a href="https://siddharthnagar.nic.in/service-category/social-justice/" title="Social Justice">
+									<span class="list-icon icon-justice border-radius-round"></span>
+								<div class="list-text">Social Justice				</div>
+								</a>
+				</li>
+						</ul>
+				</div>
+		</div></div></div><div class="wpb_column vc_column_container vc_col-sm-5"><div class="vc_column-inner "><div class="wpb_wrapper">		<h2 class="heading3">PUBLIC UTILITIES</h2>		<div class="gen-list no-bg no-border normal-font  col-two padding-0 statistics-list ">
+		<ul>
+						
+				<li>
+				<a href="https://siddharthnagar.nic.in/public-utility-category/banks/" title="Banks">
+				<span class="list-icon border-radius-none blue-bg">7</span>
+								<div class="list-text">Banks</div>
+				</a>
+				</li>
+								
+				<li>
+				<a href="https://siddharthnagar.nic.in/public-utility-category/colleges/" title="Colleges/Universities">
+				<span class="list-icon border-radius-none green-bg">4</span>
+								<div class="list-text">Colleges/Universities</div>
+				</a>
+				</li>
+								
+				<li>
+				<a href="https://siddharthnagar.nic.in/public-utility-category/electricity/" title="Electricity">
+				<span class="list-icon border-radius-none red-bg">3</span>
+								<div class="list-text">Electricity</div>
+				</a>
+				</li>
+								
+				<li>
+				<a href="https://siddharthnagar.nic.in/public-utility-category/hospitals/" title="Hospitals">
+				<span class="list-icon border-radius-none orange-bg">1</span>
+								<div class="list-text">Hospitals</div>
+				</a>
+				</li>
+								
+				<li>
+				<a href="https://siddharthnagar.nic.in/public-utility-category/municipality/" title="Municipalities">
+				<span class="list-icon border-radius-none gray-bg">11</span>
+								<div class="list-text">Municipalities</div>
+				</a>
+				</li>
+								
+				<li>
+				<a href="https://siddharthnagar.nic.in/public-utility-category/ngos/" title="NGOs">
+				<span class="list-icon border-radius-none light-grey-bg">1</span>
+								<div class="list-text">NGOs</div>
+				</a>
+				</li>
+								
+				<li>
+				<a href="https://siddharthnagar.nic.in/public-utility-category/postal/" title="Postal">
+				<span class="list-icon border-radius-none blue-bg">1</span>
+								<div class="list-text">Postal</div>
+				</a>
+				</li>
+								
+				<li>
+				<a href="https://siddharthnagar.nic.in/public-utility-category/schools/" title="Schools">
+				<span class="list-icon border-radius-none green-bg">2</span>
+								<div class="list-text">Schools</div>
+				</a>
+				</li>
+						</ul>
+				</div>
+		</div></div></div></div><div data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid vc_custom_1509962199792 vc_row-has-fill"><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="vc_tta-container" data-vc-action="collapse"><div class="vc_general vc_tta vc_tta-tabs vc_tta-color-white vc_tta-style-classic vc_tta-shape-square vc_tta-spacing-1 home-slider-tab vc_tta-tabs-position-top vc_tta-controls-align-left home-slider-tab"><div class="vc_tta-tabs-container"><ul class="vc_tta-tabs-list"><li class="vc_tta-tab vc_active" data-vc-tab=""><a href="#photos-tab" data-vc-tabs="" data-vc-container=".vc_tta"><i class="vc_tta-icon fa fa-picture-o"></i><span class="vc_tta-title-text">Photos</span></a></li><li class="vc_tta-tab" data-vc-tab=""><a href="#videos-tab" data-vc-tabs="" data-vc-container=".vc_tta"><i class="vc_tta-icon fa fa-video-camera"></i><span class="vc_tta-title-text">Videos</span></a></li></ul></div><div class="vc_tta-panels-container"><div class="vc_tta-panels"><div class="vc_tta-panel vc_active" id="photos-tab" data-vc-content=".vc_tta-panel-body"><div class="vc_tta-panel-heading"><h4 class="vc_tta-panel-title"><a href="#photos-tab" data-vc-accordion="" data-vc-container=".vc_tta-container"><i class="vc_tta-icon fa fa-picture-o"></i><span class="vc_tta-title-text">Photos</span></a></h4></div><div class="vc_tta-panel-body">    <div class="carasoleflex-wrap dark-bg   ">
+                 <div class="galleryMeta">
+            <div class="photo-glry-title"><h2 class="heading3">Photo Gallery</h2></div>
+            <div class="photo-glry-viewall right-content">
+            <a href="https://siddharthnagar.nic.in/photo-gallery/" target=" _blank" aria-label="View All" title="View All" class="link">View All</a> </div>
+        </div>
+        <div class="HomeGalleryCarasole flexslider">
+<ul class="slides">
+                        
+                                    <li class="fancyShare">
+                                    <div class="galleryThumb">
+                                    <a href="https://cdn.s3waas.gov.in/s385d8ce590ad8981ca2c8286f79f59954/uploads/2025/05/2025050179-1024x683.jpeg" class="fancybox" title="Inauguration of Collectorate gate" rel="PhotoGallery">
+                                     <img decoding="async" src="images/2025050179-r55nqbz38js79bp96yep07x582y08a1izbdp4zzoio.jpeg" alt="Collectorate gate 1">
+                                    </a>
+                                                                        <div class="hide fancySocial clearfix">
+                                         <div class="socialBox">
+                                           <ul>
+                                             <li><a href="https://www.facebook.com/sharer/sharer.php?u=https://siddharthnagar.nic.in/&t=Inauguration+of+Collectorate+gate" onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=300,width=600');return false;" target="_blank" title="Share on Facebook"><span class="icon-facebook"></span><span class="off-css">Share on Facebook</span></a>
+                                               </li>
+                                               <li>
+                                                 <a href="https://twitter.com/share?url=https://siddharthnagar.nic.in/&via=TWITTER_HANDLE&text=Inauguration+of+Collectorate+gate" onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=300,width=600');return false;" target="_blank" title="Share on Twitter"><span class="icon-twitter"></span><span class="off-css">Share on Twitter</span></a>
+                                                 </li>
+                                               </ul>
+                                             </div>
+                                           </div>
+                                     </div>
+
+                                </li>
+                                
+                                    <li class="fancyShare">
+                                    <div class="galleryThumb">
+                                    <a href="https://cdn.s3waas.gov.in/s385d8ce590ad8981ca2c8286f79f59954/uploads/2025/05/2025050136-1024x461.jpg" class="fancybox" title="Collectorate Gate Siddharthnagar" rel="PhotoGallery">
+                                     <img decoding="async" src="images/2025050136-r55lqedq7zb8rm6s8d1iove8njhs65h0ra2zzonaow.jpg" alt="Collectorate Gate SDN">
+                                    </a>
+                                                                        <div class="hide fancySocial clearfix">
+                                         <div class="socialBox">
+                                           <ul>
+                                             <li><a href="https://www.facebook.com/sharer/sharer.php?u=https://siddharthnagar.nic.in/&t=Collectorate+Gate+Siddharthnagar" onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=300,width=600');return false;" target="_blank" title="Share on Facebook"><span class="icon-facebook"></span><span class="off-css">Share on Facebook</span></a>
+                                               </li>
+                                               <li>
+                                                 <a href="https://twitter.com/share?url=https://siddharthnagar.nic.in/&via=TWITTER_HANDLE&text=Collectorate+Gate+Siddharthnagar" onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=300,width=600');return false;" target="_blank" title="Share on Twitter"><span class="icon-twitter"></span><span class="off-css">Share on Twitter</span></a>
+                                                 </li>
+                                               </ul>
+                                             </div>
+                                           </div>
+                                     </div>
+
+                                </li>
+                                
+                                    <li class="fancyShare">
+                                    <div class="galleryThumb">
+                                    <a href="https://cdn.s3waas.gov.in/s385d8ce590ad8981ca2c8286f79f59954/uploads/2022/12/2022123027-1024x682.jpg" class="fancybox" title="SpaceLab at a govt. school in HasudiAsaunpur GramPanchayat under Siddharthnagar District in UttarPradesh set-up with convergence of funds from Central Finance Commission Grants & other Government Schemes, helps promoting the spirit of experiential learning among school kids." rel="PhotoGallery">
+                                     <img decoding="async" src="images/2022123027-pzx9gcqek2rcfkjueu980e43ddqgwftf2dp3fmrylc.jpg" alt="SpaceLab4">
+                                    </a>
+                                                                        <div class="hide fancySocial clearfix">
+                                         <div class="socialBox">
+                                           <ul>
+                                             <li><a href="https://www.facebook.com/sharer/sharer.php?u=https://siddharthnagar.nic.in/&t=SpaceLab+at+a+govt.+school+in+HasudiAsaunpur+GramPanchayat+under+Siddharthnagar+District+in+UttarPradesh+set-up+with+convergence+of+funds+from+Central+Finance+Commission+Grants+%26+other+Government+Schemes%2C+helps+promoting+the+spirit+of+experiential+learning+among+school+kids." onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=300,width=600');return false;" target="_blank" title="Share on Facebook"><span class="icon-facebook"></span><span class="off-css">Share on Facebook</span></a>
+                                               </li>
+                                               <li>
+                                                 <a href="https://twitter.com/share?url=https://siddharthnagar.nic.in/&via=TWITTER_HANDLE&text=SpaceLab+at+a+govt.+school+in+HasudiAsaunpur+GramPanchayat+under+Siddharthnagar+District+in+UttarPradesh+set-up+with+convergence+of+funds+from+Central+Finance+Commission+Grants+%26+other+Government+Schemes%2C+helps+promoting+the+spirit+of+experiential+learning+among+school+kids." onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=300,width=600');return false;" target="_blank" title="Share on Twitter"><span class="icon-twitter"></span><span class="off-css">Share on Twitter</span></a>
+                                                 </li>
+                                               </ul>
+                                             </div>
+                                           </div>
+                                     </div>
+
+                                </li>
+                                
+                                    <li class="fancyShare">
+                                    <div class="galleryThumb">
+                                    <a href="https://cdn.s3waas.gov.in/s385d8ce590ad8981ca2c8286f79f59954/uploads/2022/12/2022123078-1024x768.jpg" class="fancybox" title="SpaceLab at a govt. school in HasudiAsaunpur GramPanchayat under Siddharthnagar District in UttarPradesh set-up with convergence of funds from Central Finance Commission Grants & other Government Schemes, helps promoting the spirit of experiential learning among school kids." rel="PhotoGallery">
+                                     <img decoding="async" src="images/2022123078-pzx9i7gy1bapbvuwl53qff9tjqlj2y6czk0kia10bk.jpg" alt="SpaceLab3">
+                                    </a>
+                                                                        <div class="hide fancySocial clearfix">
+                                         <div class="socialBox">
+                                           <ul>
+                                             <li><a href="https://www.facebook.com/sharer/sharer.php?u=https://siddharthnagar.nic.in/&t=SpaceLab+at+a+govt.+school+in+HasudiAsaunpur+GramPanchayat+under+Siddharthnagar+District+in+UttarPradesh+set-up+with+convergence+of+funds+from+Central+Finance+Commission+Grants+%26+other+Government+Schemes%2C+helps+promoting+the+spirit+of+experiential+learning+among+school+kids." onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=300,width=600');return false;" target="_blank" title="Share on Facebook"><span class="icon-facebook"></span><span class="off-css">Share on Facebook</span></a>
+                                               </li>
+                                               <li>
+                                                 <a href="https://twitter.com/share?url=https://siddharthnagar.nic.in/&via=TWITTER_HANDLE&text=SpaceLab+at+a+govt.+school+in+HasudiAsaunpur+GramPanchayat+under+Siddharthnagar+District+in+UttarPradesh+set-up+with+convergence+of+funds+from+Central+Finance+Commission+Grants+%26+other+Government+Schemes%2C+helps+promoting+the+spirit+of+experiential+learning+among+school+kids." onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=300,width=600');return false;" target="_blank" title="Share on Twitter"><span class="icon-twitter"></span><span class="off-css">Share on Twitter</span></a>
+                                                 </li>
+                                               </ul>
+                                             </div>
+                                           </div>
+                                     </div>
+
+                                </li>
+                                
+                                    <li class="fancyShare">
+                                    <div class="galleryThumb">
+                                    <a href="https://cdn.s3waas.gov.in/s385d8ce590ad8981ca2c8286f79f59954/uploads/2022/12/2022123033-1024x682.jpg" class="fancybox" title="SpaceLab at a govt. school in HasudiAsaunpur GramPanchayat under Siddharthnagar District in UttarPradesh set-up with convergence of funds from Central Finance Commission Grants & other Government Schemes, helps promoting the spirit of experiential learning among school kids." rel="PhotoGallery">
+                                     <img decoding="async" src="images/2022123033-pzx9iaagltekapqt4obm4wk7bw7mq1hjzxz0y3wtsw.jpg" alt="SpaceLab2">
+                                    </a>
+                                                                        <div class="hide fancySocial clearfix">
+                                         <div class="socialBox">
+                                           <ul>
+                                             <li><a href="https://www.facebook.com/sharer/sharer.php?u=https://siddharthnagar.nic.in/&t=SpaceLab+at+a+govt.+school+in+HasudiAsaunpur+GramPanchayat+under+Siddharthnagar+District+in+UttarPradesh+set-up+with+convergence+of+funds+from+Central+Finance+Commission+Grants+%26+other+Government+Schemes%2C+helps+promoting+the+spirit+of+experiential+learning+among+school+kids." onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=300,width=600');return false;" target="_blank" title="Share on Facebook"><span class="icon-facebook"></span><span class="off-css">Share on Facebook</span></a>
+                                               </li>
+                                               <li>
+                                                 <a href="https://twitter.com/share?url=https://siddharthnagar.nic.in/&via=TWITTER_HANDLE&text=SpaceLab+at+a+govt.+school+in+HasudiAsaunpur+GramPanchayat+under+Siddharthnagar+District+in+UttarPradesh+set-up+with+convergence+of+funds+from+Central+Finance+Commission+Grants+%26+other+Government+Schemes%2C+helps+promoting+the+spirit+of+experiential+learning+among+school+kids." onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=300,width=600');return false;" target="_blank" title="Share on Twitter"><span class="icon-twitter"></span><span class="off-css">Share on Twitter</span></a>
+                                                 </li>
+                                               </ul>
+                                             </div>
+                                           </div>
+                                     </div>
+
+                                </li>
+                                
+                                    <li class="fancyShare">
+                                    <div class="galleryThumb">
+                                    <a href="https://cdn.s3waas.gov.in/s385d8ce590ad8981ca2c8286f79f59954/uploads/2022/12/2022123065-1024x682.jpg" class="fancybox" title="SpaceLab at a govt. school in HasudiAsaunpur GramPanchayat under Siddharthnagar District in UttarPradesh set-up with convergence of funds from Central Finance Commission Grants & other Government Schemes, helps promoting the spirit of experiential learning among school kids." rel="PhotoGallery">
+                                     <img decoding="async" src="images/2022123065-pzx9p99daky4elm9f6t04n89xrumt85vyg5o2zkpnk.jpg" alt="SpaceLab1">
+                                    </a>
+                                                                        <div class="hide fancySocial clearfix">
+                                         <div class="socialBox">
+                                           <ul>
+                                             <li><a href="https://www.facebook.com/sharer/sharer.php?u=https://siddharthnagar.nic.in/&t=SpaceLab+at+a+govt.+school+in+HasudiAsaunpur+GramPanchayat+under+Siddharthnagar+District+in+UttarPradesh+set-up+with+convergence+of+funds+from+Central+Finance+Commission+Grants+%26+other+Government+Schemes%2C+helps+promoting+the+spirit+of+experiential+learning+among+school+kids." onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=300,width=600');return false;" target="_blank" title="Share on Facebook"><span class="icon-facebook"></span><span class="off-css">Share on Facebook</span></a>
+                                               </li>
+                                               <li>
+                                                 <a href="https://twitter.com/share?url=https://siddharthnagar.nic.in/&via=TWITTER_HANDLE&text=SpaceLab+at+a+govt.+school+in+HasudiAsaunpur+GramPanchayat+under+Siddharthnagar+District+in+UttarPradesh+set-up+with+convergence+of+funds+from+Central+Finance+Commission+Grants+%26+other+Government+Schemes%2C+helps+promoting+the+spirit+of+experiential+learning+among+school+kids." onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=300,width=600');return false;" target="_blank" title="Share on Twitter"><span class="icon-twitter"></span><span class="off-css">Share on Twitter</span></a>
+                                                 </li>
+                                               </ul>
+                                             </div>
+                                           </div>
+                                     </div>
+
+                                </li>
+                                
+                                    <li class="fancyShare">
+                                    <div class="galleryThumb">
+                                    <a href="https://cdn.s3waas.gov.in/s385d8ce590ad8981ca2c8286f79f59954/uploads/2022/06/2022061633-1024x683.jpg" class="fancybox" title="HDFC The public toilet constructed by Bank Parivartan in Vikas Bhawan was inaugurated by Mr. Sanjeev Ranjan and Mr. Pulkit Garg." rel="PhotoGallery">
+                                     <img decoding="async" src="images/2022061633-pqedph6xfl1yr9uokusnoce27exr69d0uybf5vu28w.jpg" alt="HDFC2">
+                                    </a>
+                                                                        <div class="hide fancySocial clearfix">
+                                         <div class="socialBox">
+                                           <ul>
+                                             <li><a href="https://www.facebook.com/sharer/sharer.php?u=https://siddharthnagar.nic.in/&t=HDFC+The+public+toilet+constructed+by+Bank+Parivartan+in+Vikas+Bhawan+was+inaugurated+by+Mr.+Sanjeev+Ranjan+and+Mr.+Pulkit+Garg." onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=300,width=600');return false;" target="_blank" title="Share on Facebook"><span class="icon-facebook"></span><span class="off-css">Share on Facebook</span></a>
+                                               </li>
+                                               <li>
+                                                 <a href="https://twitter.com/share?url=https://siddharthnagar.nic.in/&via=TWITTER_HANDLE&text=HDFC+The+public+toilet+constructed+by+Bank+Parivartan+in+Vikas+Bhawan+was+inaugurated+by+Mr.+Sanjeev+Ranjan+and+Mr.+Pulkit+Garg." onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=300,width=600');return false;" target="_blank" title="Share on Twitter"><span class="icon-twitter"></span><span class="off-css">Share on Twitter</span></a>
+                                                 </li>
+                                               </ul>
+                                             </div>
+                                           </div>
+                                     </div>
+
+                                </li>
+                                
+                                    <li class="fancyShare">
+                                    <div class="galleryThumb">
+                                    <a href="https://cdn.s3waas.gov.in/s385d8ce590ad8981ca2c8286f79f59954/uploads/2022/06/2022061615-1024x683.jpg" class="fancybox" title="HDFC The public toilet constructed by Bank Parivartan in Vikas Bhawan was inaugurated by Mr. Sanjeev Ranjan and Mr. Pulkit Garg." rel="PhotoGallery">
+                                     <img decoding="async" src="images/2022061615-pqedpkya6x741pp7ywf5ybfwkyf811ry7gxd2zohk0.jpg" alt="HDFC1">
+                                    </a>
+                                                                        <div class="hide fancySocial clearfix">
+                                         <div class="socialBox">
+                                           <ul>
+                                             <li><a href="https://www.facebook.com/sharer/sharer.php?u=https://siddharthnagar.nic.in/&t=HDFC+The+public+toilet+constructed+by+Bank+Parivartan+in+Vikas+Bhawan+was+inaugurated+by+Mr.+Sanjeev+Ranjan+and+Mr.+Pulkit+Garg." onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=300,width=600');return false;" target="_blank" title="Share on Facebook"><span class="icon-facebook"></span><span class="off-css">Share on Facebook</span></a>
+                                               </li>
+                                               <li>
+                                                 <a href="https://twitter.com/share?url=https://siddharthnagar.nic.in/&via=TWITTER_HANDLE&text=HDFC+The+public+toilet+constructed+by+Bank+Parivartan+in+Vikas+Bhawan+was+inaugurated+by+Mr.+Sanjeev+Ranjan+and+Mr.+Pulkit+Garg." onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=300,width=600');return false;" target="_blank" title="Share on Twitter"><span class="icon-twitter"></span><span class="off-css">Share on Twitter</span></a>
+                                                 </li>
+                                               </ul>
+                                             </div>
+                                           </div>
+                                     </div>
+
+                                </li>
+                                
+                                    <li class="fancyShare">
+                                    <div class="galleryThumb">
+                                    <a href="https://cdn.s3waas.gov.in/s385d8ce590ad8981ca2c8286f79f59954/uploads/2022/06/2022061610-1024x683.jpg" class="fancybox" title="HDFC The public toilet constructed by Bank Parivartan in Vikas Bhawan was inaugurated by Mr. Sanjeev Ranjan and Mr. Pulkit Garg." rel="PhotoGallery">
+                                     <img decoding="async" src="images/2022061610-pqedpj2lt94jehry9vlwtbwze6ohlnkhj7me4fr9wg.jpg" alt="HDFC">
+                                    </a>
+                                                                        <div class="hide fancySocial clearfix">
+                                         <div class="socialBox">
+                                           <ul>
+                                             <li><a href="https://www.facebook.com/sharer/sharer.php?u=https://siddharthnagar.nic.in/&t=HDFC+The+public+toilet+constructed+by+Bank+Parivartan+in+Vikas+Bhawan+was+inaugurated+by+Mr.+Sanjeev+Ranjan+and+Mr.+Pulkit+Garg." onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=300,width=600');return false;" target="_blank" title="Share on Facebook"><span class="icon-facebook"></span><span class="off-css">Share on Facebook</span></a>
+                                               </li>
+                                               <li>
+                                                 <a href="https://twitter.com/share?url=https://siddharthnagar.nic.in/&via=TWITTER_HANDLE&text=HDFC+The+public+toilet+constructed+by+Bank+Parivartan+in+Vikas+Bhawan+was+inaugurated+by+Mr.+Sanjeev+Ranjan+and+Mr.+Pulkit+Garg." onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=300,width=600');return false;" target="_blank" title="Share on Twitter"><span class="icon-twitter"></span><span class="off-css">Share on Twitter</span></a>
+                                                 </li>
+                                               </ul>
+                                             </div>
+                                           </div>
+                                     </div>
+
+                                </li>
+                                
+                                    <li class="fancyShare">
+                                    <div class="galleryThumb">
+                                    <a href="https://cdn.s3waas.gov.in/s385d8ce590ad8981ca2c8286f79f59954/uploads/2022/06/2022061677-1024x768.jpg" class="fancybox" title="The refurbished Dr. Bhimrao Ambedkar Auditorium, Vikas Bhawan was inaugurated by Shri Sanjeev Ranjan by cutting the ribbon." rel="PhotoGallery">
+                                     <img decoding="async" src="images/2022061677-pqedpmtykl9ooxmhnx8f3aytrq5ygfzevq8c1jlp7k.jpg" alt="sabhagar1">
+                                    </a>
+                                                                        <div class="hide fancySocial clearfix">
+                                         <div class="socialBox">
+                                           <ul>
+                                             <li><a href="https://www.facebook.com/sharer/sharer.php?u=https://siddharthnagar.nic.in/&t=The+refurbished+Dr.+Bhimrao+Ambedkar+Auditorium%2C+Vikas+Bhawan+was+inaugurated+by+Shri+Sanjeev+Ranjan+by+cutting+the+ribbon." onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=300,width=600');return false;" target="_blank" title="Share on Facebook"><span class="icon-facebook"></span><span class="off-css">Share on Facebook</span></a>
+                                               </li>
+                                               <li>
+                                                 <a href="https://twitter.com/share?url=https://siddharthnagar.nic.in/&via=TWITTER_HANDLE&text=The+refurbished+Dr.+Bhimrao+Ambedkar+Auditorium%2C+Vikas+Bhawan+was+inaugurated+by+Shri+Sanjeev+Ranjan+by+cutting+the+ribbon." onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=300,width=600');return false;" target="_blank" title="Share on Twitter"><span class="icon-twitter"></span><span class="off-css">Share on Twitter</span></a>
+                                                 </li>
+                                               </ul>
+                                             </div>
+                                           </div>
+                                     </div>
+
+                                </li>
+                                
+                                    <li class="fancyShare">
+                                    <div class="galleryThumb">
+                                    <a href="https://cdn.s3waas.gov.in/s385d8ce590ad8981ca2c8286f79f59954/uploads/2022/06/2022061670-1024x768.jpg" class="fancybox" title="The refurbished Dr. Bhimrao Ambedkar Auditorium, Vikas Bhawan was inaugurated by Shri Sanjeev Ranjan by cutting the ribbon." rel="PhotoGallery">
+                                     <img decoding="async" src="images/2022061670-pqedpopmy9c9c5jrcy1o8ahqyhwovu6vjzjb03iwv4.jpg" alt="sabhagar2">
+                                    </a>
+                                                                        <div class="hide fancySocial clearfix">
+                                         <div class="socialBox">
+                                           <ul>
+                                             <li><a href="https://www.facebook.com/sharer/sharer.php?u=https://siddharthnagar.nic.in/&t=The+refurbished+Dr.+Bhimrao+Ambedkar+Auditorium%2C+Vikas+Bhawan+was+inaugurated+by+Shri+Sanjeev+Ranjan+by+cutting+the+ribbon." onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=300,width=600');return false;" target="_blank" title="Share on Facebook"><span class="icon-facebook"></span><span class="off-css">Share on Facebook</span></a>
+                                               </li>
+                                               <li>
+                                                 <a href="https://twitter.com/share?url=https://siddharthnagar.nic.in/&via=TWITTER_HANDLE&text=The+refurbished+Dr.+Bhimrao+Ambedkar+Auditorium%2C+Vikas+Bhawan+was+inaugurated+by+Shri+Sanjeev+Ranjan+by+cutting+the+ribbon." onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=300,width=600');return false;" target="_blank" title="Share on Twitter"><span class="icon-twitter"></span><span class="off-css">Share on Twitter</span></a>
+                                                 </li>
+                                               </ul>
+                                             </div>
+                                           </div>
+                                     </div>
+
+                                </li>
+                                
+                                    <li class="fancyShare">
+                                    <div class="galleryThumb">
+                                    <a href="https://cdn.s3waas.gov.in/s385d8ce590ad8981ca2c8286f79f59954/uploads/2022/06/2022061679-1024x576.jpg" class="fancybox" title="The refurbished Dr. Bhimrao Ambedkar Auditorium, Vikas Bhawan was inaugurated by Shri Sanjeev Ranjan by cutting the ribbon." rel="PhotoGallery">
+                                     <img decoding="async" src="images/2022061679-pqedppnh53djnrie7ggass97jvs23jalw46shdhiow.jpg" alt="sabhagar3">
+                                    </a>
+                                                                        <div class="hide fancySocial clearfix">
+                                         <div class="socialBox">
+                                           <ul>
+                                             <li><a href="https://www.facebook.com/sharer/sharer.php?u=https://siddharthnagar.nic.in/&t=The+refurbished+Dr.+Bhimrao+Ambedkar+Auditorium%2C+Vikas+Bhawan+was+inaugurated+by+Shri+Sanjeev+Ranjan+by+cutting+the+ribbon." onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=300,width=600');return false;" target="_blank" title="Share on Facebook"><span class="icon-facebook"></span><span class="off-css">Share on Facebook</span></a>
+                                               </li>
+                                               <li>
+                                                 <a href="https://twitter.com/share?url=https://siddharthnagar.nic.in/&via=TWITTER_HANDLE&text=The+refurbished+Dr.+Bhimrao+Ambedkar+Auditorium%2C+Vikas+Bhawan+was+inaugurated+by+Shri+Sanjeev+Ranjan+by+cutting+the+ribbon." onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=300,width=600');return false;" target="_blank" title="Share on Twitter"><span class="icon-twitter"></span><span class="off-css">Share on Twitter</span></a>
+                                                 </li>
+                                               </ul>
+                                             </div>
+                                           </div>
+                                     </div>
+
+                                </li>
+                                
+                                    <li class="fancyShare">
+                                    <div class="galleryThumb">
+                                    <a href="https://cdn.s3waas.gov.in/s385d8ce590ad8981ca2c8286f79f59954/uploads/2022/06/2022061684-1024x576.jpg" class="fancybox" title="The refurbished Dr. Bhimrao Ambedkar Auditorium, Vikas Bhawan was inaugurated by Shri Sanjeev Ranjan by cutting the ribbon." rel="PhotoGallery">
+                                     <img decoding="async" src="images/2022061684-pqedprj5irg4azfnwh9jxrs4qnisixi2kdhrfxeqcg.jpg" alt="sabhagar4">
+                                    </a>
+                                                                        <div class="hide fancySocial clearfix">
+                                         <div class="socialBox">
+                                           <ul>
+                                             <li><a href="https://www.facebook.com/sharer/sharer.php?u=https://siddharthnagar.nic.in/&t=The+refurbished+Dr.+Bhimrao+Ambedkar+Auditorium%2C+Vikas+Bhawan+was+inaugurated+by+Shri+Sanjeev+Ranjan+by+cutting+the+ribbon." onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=300,width=600');return false;" target="_blank" title="Share on Facebook"><span class="icon-facebook"></span><span class="off-css">Share on Facebook</span></a>
+                                               </li>
+                                               <li>
+                                                 <a href="https://twitter.com/share?url=https://siddharthnagar.nic.in/&via=TWITTER_HANDLE&text=The+refurbished+Dr.+Bhimrao+Ambedkar+Auditorium%2C+Vikas+Bhawan+was+inaugurated+by+Shri+Sanjeev+Ranjan+by+cutting+the+ribbon." onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=300,width=600');return false;" target="_blank" title="Share on Twitter"><span class="icon-twitter"></span><span class="off-css">Share on Twitter</span></a>
+                                                 </li>
+                                               </ul>
+                                             </div>
+                                           </div>
+                                     </div>
+
+                                </li>
+                                
+                                    <li class="fancyShare">
+                                    <div class="galleryThumb">
+                                    <a href="https://cdn.s3waas.gov.in/s385d8ce590ad8981ca2c8286f79f59954/uploads/2021/06/2021062488-1024x683.jpeg" class="fancybox" title="Rojgaar Sangam" rel="PhotoGallery">
+                                     <img decoding="async" src="images/2021062488-p94modbkceigwdhm0kwe2x2nz0vtqfgk55zh4xdkgw.jpeg" alt="Inauguration of Rojgaar Sangam fair">
+                                    </a>
+                                                                        <div class="hide fancySocial clearfix">
+                                         <div class="socialBox">
+                                           <ul>
+                                             <li><a href="https://www.facebook.com/sharer/sharer.php?u=https://siddharthnagar.nic.in/&t=Rojgaar+Sangam" onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=300,width=600');return false;" target="_blank" title="Share on Facebook"><span class="icon-facebook"></span><span class="off-css">Share on Facebook</span></a>
+                                               </li>
+                                               <li>
+                                                 <a href="https://twitter.com/share?url=https://siddharthnagar.nic.in/&via=TWITTER_HANDLE&text=Rojgaar+Sangam" onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=300,width=600');return false;" target="_blank" title="Share on Twitter"><span class="icon-twitter"></span><span class="off-css">Share on Twitter</span></a>
+                                                 </li>
+                                               </ul>
+                                             </div>
+                                           </div>
+                                     </div>
+
+                                </li>
+                                
+                                    <li class="fancyShare">
+                                    <div class="galleryThumb">
+                                    <a href="https://cdn.s3waas.gov.in/s385d8ce590ad8981ca2c8286f79f59954/uploads/2021/06/2021062444-1024x683.jpeg" class="fancybox" title="Kala Namak Rice Flag off under ODOP" rel="PhotoGallery">
+                                     <img decoding="async" src="images/2021062444-p94mcb24mxzzwj0egd6r2ynpj0c8y9kkhgl5f39gbk.jpeg" alt="Kala Namak 1">
+                                    </a>
+                                                                        <div class="hide fancySocial clearfix">
+                                         <div class="socialBox">
+                                           <ul>
+                                             <li><a href="https://www.facebook.com/sharer/sharer.php?u=https://siddharthnagar.nic.in/&t=Kala+Namak+Rice+Flag+off+under+ODOP" onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=300,width=600');return false;" target="_blank" title="Share on Facebook"><span class="icon-facebook"></span><span class="off-css">Share on Facebook</span></a>
+                                               </li>
+                                               <li>
+                                                 <a href="https://twitter.com/share?url=https://siddharthnagar.nic.in/&via=TWITTER_HANDLE&text=Kala+Namak+Rice+Flag+off+under+ODOP" onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=300,width=600');return false;" target="_blank" title="Share on Twitter"><span class="icon-twitter"></span><span class="off-css">Share on Twitter</span></a>
+                                                 </li>
+                                               </ul>
+                                             </div>
+                                           </div>
+                                     </div>
+
+                                </li>
+                                
+                                    <li class="fancyShare">
+                                    <div class="galleryThumb">
+                                    <a href="https://cdn.s3waas.gov.in/s385d8ce590ad8981ca2c8286f79f59954/uploads/2021/06/2021062440.jpeg" class="fancybox" title="First lot departure of Kala Namak rice for selling over Flipkart" rel="PhotoGallery">
+                                     <img decoding="async" src="images/2021062440-p94ko5dz8nncuye5qd2bi55ov8ukbmr07pifpkgijk.jpeg" alt="Kalanamak rice selling over Flipkart">
+                                    </a>
+                                                                        <div class="hide fancySocial clearfix">
+                                         <div class="socialBox">
+                                           <ul>
+                                             <li><a href="https://www.facebook.com/sharer/sharer.php?u=https://siddharthnagar.nic.in/&t=First+lot+departure+of+Kala+Namak+rice+for+selling+over+Flipkart" onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=300,width=600');return false;" target="_blank" title="Share on Facebook"><span class="icon-facebook"></span><span class="off-css">Share on Facebook</span></a>
+                                               </li>
+                                               <li>
+                                                 <a href="https://twitter.com/share?url=https://siddharthnagar.nic.in/&via=TWITTER_HANDLE&text=First+lot+departure+of+Kala+Namak+rice+for+selling+over+Flipkart" onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=300,width=600');return false;" target="_blank" title="Share on Twitter"><span class="icon-twitter"></span><span class="off-css">Share on Twitter</span></a>
+                                                 </li>
+                                               </ul>
+                                             </div>
+                                           </div>
+                                     </div>
+
+                                </li>
+                                
+                                    <li class="fancyShare">
+                                    <div class="galleryThumb">
+                                    <a href="https://cdn.s3waas.gov.in/s385d8ce590ad8981ca2c8286f79f59954/uploads/2021/06/2021062490-1024x765.jpeg" class="fancybox" title="ODOP Kala Namak Rice Flag off" rel="PhotoGallery">
+                                     <img decoding="async" src="images/2021062490-p94l2m4kevg7ixdr9m5mvhr1ypjwry6avaxfkv0esg.jpeg" alt="Kala Namak Rice Flag off under ODOP">
+                                    </a>
+                                                                        <div class="hide fancySocial clearfix">
+                                         <div class="socialBox">
+                                           <ul>
+                                             <li><a href="https://www.facebook.com/sharer/sharer.php?u=https://siddharthnagar.nic.in/&t=ODOP+Kala+Namak+Rice+Flag+off" onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=300,width=600');return false;" target="_blank" title="Share on Facebook"><span class="icon-facebook"></span><span class="off-css">Share on Facebook</span></a>
+                                               </li>
+                                               <li>
+                                                 <a href="https://twitter.com/share?url=https://siddharthnagar.nic.in/&via=TWITTER_HANDLE&text=ODOP+Kala+Namak+Rice+Flag+off" onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=300,width=600');return false;" target="_blank" title="Share on Twitter"><span class="icon-twitter"></span><span class="off-css">Share on Twitter</span></a>
+                                                 </li>
+                                               </ul>
+                                             </div>
+                                           </div>
+                                     </div>
+
+                                </li>
+                                                    </ul>
+                    </div>
+    </div>
+
+   <script>
+jQuery(document).ready(function(e) {
+//=========================
+//js for photo gallery component design 2
+     if(jQuery('body').hasClass('mva7-thc-activetheme-district-theme-5')){
+        var itemWidth = 271;
+     }else {
+         var itemWidth = 200;
+     }
+//     (jQuery('body').hasClass('mva7-thc-activetheme-district-theme-5'))?271:
+ jQuery(".HomeGalleryCarasole").flexslider({
+        animation: "slide",
+        controlNav: false,
+        animationLoop: false,
+        slideshow: false,
+        itemWidth: itemWidth,
+        nextText: "<span class='hide'>Next</span>",
+        prevText: "<span class='hide'>Previous</span>",
+ });
+ jQuery("#HomeVideoCarasole").flexslider({
+        animation: "slide",
+        controlNav: false,
+        animationLoop: false,
+        slideshow: false,
+        itemWidth: 200,
+        nextText: "<span class='hide'>Next</span>",
+        prevText: "<span class='hide'>Previous</span>",
+ });
+
+});
+   </script>
+    </div></div><div class="vc_tta-panel" id="videos-tab" data-vc-content=".vc_tta-panel-body"><div class="vc_tta-panel-heading"><h4 class="vc_tta-panel-title"><a href="#videos-tab" data-vc-accordion="" data-vc-container=".vc_tta-container"><i class="vc_tta-icon fa fa-video-camera"></i><span class="vc_tta-title-text">Videos</span></a></h4></div><div class="vc_tta-panel-body">		<div class="video_gallery">
+				<div class="flexslider" id="video_galery">
+		<ul class="slides cmpnt-vdo-thumb">
+		
+						<li>
+				<a class="various fancybox.iframe" href="https://www.youtube.com/embed/p7JzkSZnKlU" title="No Title">
+				<img decoding="async" alt="" style=" width: 400px; height: 151px; max-width: 100%" class="responsive" src="images/0_1.jpg">
+				<div class="video-playbtn"><span class="off-css">Play Video</span><i class="fa fa-play"></i></div>
+			</a>
+			</li>
+			
+			
+				
+						<li>
+				<a class="various fancybox.iframe" href="https://www.youtube.com/embed/y8ktnZBE9bg" title="No Title">
+				<img decoding="async" alt="" style=" width: 400px; height: 151px; max-width: 100%" class="responsive" src="images/0_4.jpg">
+				<div class="video-playbtn"><span class="off-css">Play Video</span><i class="fa fa-play"></i></div>
+			</a>
+			</li>
+			
+			
+				
+						<li>
+				<a class="various fancybox.iframe" href="https://www.youtube.com/embed/j_Deaf59sxY" title="No Title">
+				<img decoding="async" alt="" style=" width: 400px; height: 151px; max-width: 100%" class="responsive" src="images/0_2.jpg">
+				<div class="video-playbtn"><span class="off-css">Play Video</span><i class="fa fa-play"></i></div>
+			</a>
+			</li>
+			
+			
+				
+						<li>
+				<a class="various fancybox.iframe" href="https://www.youtube.com/embed/KYofyUZgcAQ" title="No Title">
+				<img decoding="async" alt="" style=" width: 400px; height: 151px; max-width: 100%" class="responsive" src="images/0.jpg">
+				<div class="video-playbtn"><span class="off-css">Play Video</span><i class="fa fa-play"></i></div>
+			</a>
+			</li>
+			
+			
+				
+						<li>
+				<a class="various fancybox.iframe" href="https://www.youtube.com/embed/TznfKyUtHX4" title="No Title">
+				<img decoding="async" alt="" style=" width: 400px; height: 151px; max-width: 100%" class="responsive" src="images/0_3.jpg">
+				<div class="video-playbtn"><span class="off-css">Play Video</span><i class="fa fa-play"></i></div>
+			</a>
+			</li>
+			
+			
+				
+						<li>
+				<a class="various fancybox.iframe" href="https://www.youtube.com/embed/yocNsk7tt_g" title="No Title">
+				<img decoding="async" alt="" style=" width: 400px; height: 151px; max-width: 100%" class="responsive" src="images/0_6.jpg">
+				<div class="video-playbtn"><span class="off-css">Play Video</span><i class="fa fa-play"></i></div>
+			</a>
+			</li>
+			
+			
+				
+						<li>
+				<a class="various fancybox.iframe" href="https://www.youtube.com/embed/mtZVRCYy2JQ" title="No Title">
+				<img decoding="async" alt="" style=" width: 400px; height: 151px; max-width: 100%" class="responsive" src="images/0_5.jpg">
+				<div class="video-playbtn"><span class="off-css">Play Video</span><i class="fa fa-play"></i></div>
+			</a>
+			</li>
+			
+			
+						</ul>
+		</div>
+		
+		</div>
+<script>
+jQuery(document).ready(function($) {
+	$('#video_galery').flexslider({
+	animation: "slide",
+	controlNav: false,
+	slideshow: false,
+	animationLoop: false,
+	prevText: "<span class='hide'>Previous</span>",
+	nextText: "<span class='hide'>Next</span>",
+	start: function(slider){
+	$('body').removeClass('loading');
+	//$('.flexslider').resize();
+	}
+	});
+	$('[data-vc-accordion]').click(function(){
+        setTimeout(function() {
+            $(window).trigger( 'resize' );
+   }, 100);
+    });
+});
+</script>
+</div></div></div></div></div></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner "><div class="wpb_wrapper">
+		<div class="gen-list no-border no-bg padding-20 border-radius-none default-list importantLinksWrapper col-two normal-font ">
+		<h2 class="heading3"><span class="icon-link"></span> Quick Links</h2>		<ul>
+						<li class="  ">
+								<a href="https://eoffice.gov.in/" title="e-district" target=" _blank" style="">
+								<span class="list-icon -bg  border-radius-round"></span>
+								<div class="list-text">E Office				</div>
+								</a>
+			 				</li>
+								<li class="  ">
+								<a href="https://rtionline.gov.in/" title="Right to Information" target=" _blank" style="">
+								<span class="list-icon -bg  border-radius-round"></span>
+								<div class="list-text">Right to Information Act				</div>
+								</a>
+			 				</li>
+								<li class="  ">
+								<a href="http://jansunwai.up.nic.in/" title="Public Grievance" target=" _blank" style="">
+								<span class="list-icon -bg  border-radius-round"></span>
+								<div class="list-text">Public Grievance				</div>
+								</a>
+			 				</li>
+								<li class="  ">
+								<a href="http://edistrict.up.nic.in/" title="E-District Portal" target=" _blank" style="">
+								<span class="list-icon -bg  border-radius-round"></span>
+								<div class="list-text">E-District Portal				</div>
+								</a>
+			 				</li>
+								<li class="  ">
+								<a href="http://shasanadesh.up.nic.in/" title="Government Order" target=" _blank" style="">
+								<span class="list-icon -bg  border-radius-round"></span>
+								<div class="list-text">Government Order				</div>
+								</a>
+			 				</li>
+								<li class="  ">
+								<a href="http://censusindia.gov.in/" title="Census" target=" _blank" style="">
+								<span class="list-icon -bg  border-radius-round"></span>
+								<div class="list-text">Census				</div>
+								</a>
+			 				</li>
+								<li class="  ">
+								<a href="http://upbhulekh.gov.in/" title="Land Records" target=" _blank" style="">
+								<span class="list-icon -bg  border-radius-round"></span>
+								<div class="list-text">Land Records				</div>
+								</a>
+			 				</li>
+								<li class="  ">
+								<a href="http://digitalindia.gov.in/" title="Digital India" target=" _blank" style="">
+								<span class="list-icon -bg  border-radius-round"></span>
+								<div class="list-text">Digital India				</div>
+								</a>
+			 				</li>
+								<li class="  ">
+								<a href="https://uidai.gov.in/" title="Aadhar Card" target=" _blank" style="">
+								<span class="list-icon -bg  border-radius-round"></span>
+								<div class="list-text">Aadhar Card				</div>
+								</a>
+			 				</li>
+								<li class="  ">
+								<a href="https://etender.up.nic.in/nicgep/app" title="e-tender" target=" _blank" style="">
+								<span class="list-icon -bg  border-radius-round"></span>
+								<div class="list-text">E-Tender				</div>
+								</a>
+			 				</li>
+						</ul>
+				</div>
+		
+		<div class="gen-list no-border no-bg padding-20 border-radius-none default-list importantLinksWrapper col-two normal-font ">
+		<h2 class="heading3"><span class="icon-phone-2"></span> HELPLINE NUMBERS</h2>		<ul>
+						<li class="  ">
+								<a href="https://siddharthnagar.nic.in/helpline-number/" title="Ambulance Service : 102 & 108" target=" _blank" style="">
+								<span class="list-icon -bg  border-radius-round"></span>
+								<div class="list-text">Ambulance Service : 102 & 108				</div>
+								</a>
+			 				</li>
+								<li class="  ">
+								<a href="https://siddharthnagar.nic.in/helpline-number/" title="Child Helpline : 1098" target=" _blank" style="">
+								<span class="list-icon -bg  border-radius-round"></span>
+								<div class="list-text">Child Helpline : 1098				</div>
+								</a>
+			 				</li>
+								<li class="  ">
+								<a href="https://siddharthnagar.nic.in/helpline-number/" title=" Women Helpline : 1090" target=" _blank" style="">
+								<span class="list-icon -bg  border-radius-round"></span>
+								<div class="list-text">Women Helpline : 1090				</div>
+								</a>
+			 				</li>
+								<li class="  ">
+								<a href="https://siddharthnagar.nic.in/helpline-number/" title="Fire:101" target=" _blank" style="">
+								<span class="list-icon -bg  border-radius-round"></span>
+								<div class="list-text">Fire : 101				</div>
+								</a>
+			 				</li>
+								<li class="  ">
+								<a href="https://siddharthnagar.nic.in/helpline-number/" title="Police:100" target=" _blank" style="">
+								<span class="list-icon -bg  border-radius-round"></span>
+								<div class="list-text">Police : 100				</div>
+								</a>
+			 				</li>
+								<li class="  ">
+								<a href="https://siddharthnagar.nic.in/helpline-number/" title=" Chief Minister Helpline: 1076" target=" _blank" style="">
+								<span class="list-icon -bg  border-radius-round"></span>
+								<div class="list-text">Chief Minister Helpline : 1076				</div>
+								</a>
+			 				</li>
+						</ul>
+				</div>
+		</div></div></div></div><div class="vc_row-full-width vc_clearfix"></div><div data-vc-full-width="true" data-vc-full-width-init="false" data-vc-stretch-content="true" class="vc_row wpb_row vc_row-fluid vc_row-no-padding"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner vc_custom_1500617027978"><div class="wpb_wrapper">    <section id="footerScrollbarWrapper" class="footerlogocarousel withbg withborder" aria-label="Other Important Links">
+        <div class="footerlogocarousel-outer item-count-7">
+            <div id="footerScrollbar" class="flexslider">
+                <ul class="slides" aria-label="Important Sites">
+                                                <li>
+                                                                    <a href="https://data.gov.in/" target="_blank" title="Open Government Data (OGD)  Platform India">
+                                        <img decoding="async" src="images/2017053014.png" alt="data.gov.in">                                    </a>
+                                                                </li>
+                                                        <li>
+                                                                    <a href="https://www.incredibleindia.org/" target="_blank" title="Incredible India">
+                                        <img decoding="async" src="images/2017053094.png" alt="Incredible India Site">                                    </a>
+                                                                </li>
+                                                        <li>
+                                                                    <a href="https://www.mygov.in/" target="_blank" title="My Government">
+                                        <img decoding="async" src="images/2017053017.png" alt="mygov">                                    </a>
+                                                                </li>
+                                                        <li>
+                                                                    <a href="https://www.pmnrf.gov.in/" target="_blank" title="Prime Minister’s National Relief Fund">
+                                        <img decoding="async" src="images/2017053039.png" alt="PMNRF">                                    </a>
+                                                                </li>
+                                                        <li>
+                                                                    <a href="http://www.pmindia.gov.in/en/" target="_blank" title="Prime Minister of India">
+                                        <img decoding="async" src="images/2017110781.png" alt="pmindia">                                    </a>
+                                                                </li>
+                                                        <li>
+                                                                    <a href="https://www.india.gov.in/" target="_blank" title="Indian Government Portal">
+                                        <img decoding="async" src="images/2017053023.png" alt="ndia.gov.in">                                    </a>
+                                                                </li>
+                                                        <li>
+                                                                    <a href="http://www.digitalindia.gov.in/" target="_blank" title="Digital India">
+                                        <img decoding="async" src="images/2017072418.png" alt="digital-india">                                    </a>
+                                                                </li>
+                                            </ul>
+            </div>
+        </div>
+    </section>
+    <script type="text/javascript">
+     jQuery(document).ready(function(){
+        jQuery("#footerScrollbar").flexslider({
+        animation: "slide",
+        animationLoop: true,
+        itemWidth: 201,
+        minItems: 2,
+		slideshow: 1,
+		move: 1,
+		controlNav: false,
+		pausePlay: true,
+        prevText: "<span class='hide'>Previous</span>",
+        nextText: "<span class='hide'>Next</span>",
+        pauseText: "<span class='hide'>Pause</span>",
+        playText: "<span class='hide'>Play</span>",
+
+    })
+    });
+    </script>
+    </div></div></div></div><div class="vc_row-full-width vc_clearfix"></div><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="wpb_raw_code wpb_raw_js">
+		<div class="wpb_wrapper">
+			<script src="https://mib.gov.in/sites/all/themes/mib/js/mib-banner.js"></script>
+		</div>
+	</div>
+</div></div></div></div>
+
+</div>
+                    <!-- end of the loop -->
+          
+              </div>
+          </div>
+  </div>
+</div>
+</main>
+
+<footer id="footer" class="footer-home">
+  <div class="container">
+    <div class="footerMenu"><ul id="menu-footer-en" class="menu"><li id="menu-item-22411" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-22411"><a href="https://siddharthnagar.nic.in/website-policies/">Website Policies</a></li>
+<li id="menu-item-22412" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-22412"><a href="https://siddharthnagar.nic.in/help/">Help</a></li>
+<li id="menu-item-22413" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-22413"><a href="https://siddharthnagar.nic.in/contact-us/">Contact Us</a></li>
+<li id="menu-item-22414" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-22414"><a href="https://siddharthnagar.nic.in/feedback/">Feedback</a></li>
+</ul></div>    <div class="copyRights">
+      <div class="pd-bottom5 color-white ctnt-ownd-dis">Content Owned by District Administration</div>
+      <div class="copyRightsText">
+                <p> © District Siddharthnagar, Uttar Pradesh. Developed and hosted by <a href="http://www.nic.in/" target="_blank">National Informatics Centre </a>,<br><a href="http://meity.gov.in/" target="_blank"> Ministry of Electronics & Information Technology</a>, Government of India</p>
+					<p>Last Updated: <strong>Jun 13, 2025</strong></p>                  </div>
+        <div class="copyRightsLogos"> <a href="https://s3waas.gov.in/"><img src="images/S3WaaS.png" alt="Secure, Scalable and Sugamya Website as a Service opens a new window"></a> <a href="http://www.nic.in/"><img src="images/nicLogo.png" alt="National Informatics Centre opens a new window"></a> <a href="http://www.digitalindia.gov.in/"><img src="images/digitalIndia.png" alt="Digital India opens a new window"></a> <!-- <a href="#" class="stqc-logo"><img src="/common_utility/images/STQC-approved.png"  alt="STQC"></a> --> </div>
+      </div>
+    </div>
+  </footer>
+  <script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"\/*"},{"not":{"href_matches":["\/wp-*.php","\/wp-admin\/*","\/s385d8ce590ad8981ca2c8286f79f59954\/uploads\/*","\/wp-content\/*","\/wp-content\/plugins\/*","\/wp-content\/themes\/district-theme\/*","\/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+<script>
+
+  jQuery(document).ready(function($){
+    jQuery('.vc_tta-tabs-list').attr('role','tablist');
+    jQuery('.vc_tta-panel').attr('role','tabpanel');
+    jQuery('.vc_tta-tab a').attr('role','tab');
+
+      if (!String.prototype.startsWith) {
+          String.prototype.startsWith = function(searchString, position) {
+              position = position || 0;
+              return this.indexOf(searchString, position) === position;
+          };
+      }
+      let isS3waasExternal = function(url) {
+          if( !url.match('^(https?:)?(\\/\\/).*$')) return false;
+          return !(location.href.replace("http://", "").replace("https://", "").split("/")[0] === url.replace("http://", "").replace("https://", "").split("/")[0]);
+      }
+
+      jQuery('body').on('targetExternalLinks',function(){
+          
+          jQuery('a').each(function(){
+              var href = jQuery(this).attr('href');
+              if(typeof href == 'undefined' ){
+                  jQuery(this).attr('href','javascript:void(0)');
+                  href = '#';
+              }
+
+             if($(this).attr('hreflang') !== undefined){
+
+                if($(this).attr('hreflang') == 'od'){
+                    $(this).attr({  hreflang: 'or', lang:'or'});
+                }
+
+                if(jQuery(this).attr('aria-label') !== typeof undefined){
+                    jQuery(this).attr('aria-label', jQuery(this).text()).attr('title',jQuery(this).text());
+                }
+              }else if(isS3waasExternal(href)){
+
+                      if(
+                        href.indexOf('cdn.s3waas.gov.in') == -1 
+                        && href.indexOf('auth.s3waas.gov.in') == -1
+                        && href.indexOf('cdnbbsr.s3waas.gov.in') == -1
+                        && href.indexOf('parichay') == -1
+                        && !jQuery(this).hasClass('fancybox.iframe')
+                        && !jQuery(this).hasClass('fancybox')
+                      ) {
+                          if(typeof jQuery(this).attr('onclick') === "undefined"){
+                              jQuery(this).attr("onclick", "return confirm('You are being redirected to an external website. Please note that District Siddharthnagar Government of UP cannot be held responsible for external websites content & privacy policies.');");
+                          }
+                      }
+                      if(typeof jQuery(this).attr('aria-label') === "undefined" || typeof jQuery(this).attr('title') === "undefined"){
+                          var text = '';
+                          if(jQuery(this).text().trim() !== ''){
+                              text = jQuery(this).text().trim()+' - ';
+                          }else {
+                              text = jQuery(this).attr('href')+' - ';
+                          }
+
+                          if(
+                            href.indexOf('cdn.s3waas.gov.in') == -1 
+                            && href.indexOf('auth.s3waas.gov.in') == -1
+                            && href.indexOf('cdnbbsr.s3waas.gov.in') == -1
+                            && href.indexOf('parichay') == -1
+                            && !jQuery(this).hasClass('fancybox.iframe')
+                            && !jQuery(this).hasClass('fancybox')
+                          ){
+
+                              if(typeof jQuery(this).attr('aria-label') === "undefined"){
+                                  jQuery(this).attr('aria-label', text + 'External site that opens in a new window');
+                              }
+                              if(typeof jQuery(this).attr('title') === "undefined"){
+                                  jQuery(this).attr('title', text + 'External site that opens in a new window');
+                              }
+
+                          }
+                      }
+                      if(href.indexOf('auth.s3waas.gov.in') == -1 && href.indexOf('parichay') == -1) {
+                          jQuery(this).prop('target', '_blank');
+                          jQuery(this).prop('rel', 'noopener noreferrer');
+                      }
+              }
+          });
+
+      })
+      jQuery('body').trigger('targetExternalLinks');
+
+    jQuery('body iframe').each(function () {
+        let attrSrc = $(this).attr('src');
+        if(isS3waasExternal(attrSrc)){
+            $(this).attr('sandbox','');
+        }
+
+        if(attrSrc.indexOf('map') > 0){
+            $(this).attr('title','District Map');
+        }
+    });
+
+      $('.flex-direction-nav a.flex-prev').attr({'title' : 'Previous','aria-label':'Previous'});
+      $('.flex-pauseplay a.flex-pause').attr({'title' : 'Play/Pause','aria-label':'Play/Pause'});
+      $('.flex-direction-nav a.flex-next').attr({'title' : 'Next','aria-label':'Next'});
+
+      $('a[download]').each(function(){
+
+          var ariaLabelPrevious = $(this).prev().attr('aria-label');
+          if(typeof ariaLabelPrevious !== typeof undefined){
+              var ariaLabel = $(this).prev().attr('aria-label').split('-')[0];
+              ariaLabel = 'Download ' + ariaLabel;
+              $(this).attr('aria-label',ariaLabel).removeAttr('aria-hidden');
+          }
+      });
+});
+
+  </script>
+          <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-162755955-1"></script>
+        <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+
+            gtag('config', 'UA-162755955-1');
+        </script>
+<link rel="stylesheet" id="flexslider-css" href="css/flexslider.min.css" media="all">
+<link rel="stylesheet" id="custom-flexslider-css" href="css/custom-flexslider.css" media="all">
+<link rel="stylesheet" id="list-style-css" href="css/list-style.min.css" media="all">
+<link rel="stylesheet" id="component-helper-css" href="css/component-helper.css" media="all">
+<link rel="stylesheet" id="events-css-css" href="css/events.css" media="all">
+<link rel="stylesheet" id="vc_tta_style-css" href="css/js_composer_tta.min.css" media="all">
+<link rel="stylesheet" id="min-profile-css" href="css/profile-hm.css" media="all">
+<link rel="stylesheet" id="services-style-css" href="css/list-style.min.css" media="all">
+<link rel="stylesheet" id="services-tabs-style-css" href="css/service-tabs.css" media="all">
+<link rel="stylesheet" id="font-awesome-css" href="css/font-awesome.min.css" media="all">
+<link rel="stylesheet" id="home-gallery-css" href="css/photo-gallery-home.css" media="all">
+<link rel="stylesheet" id="footer-style-css" href="css/footer-logo-carousel.css" media="all">
+<script id="utility-common-js-js-extra">
+var AwaasData = {"ajaxUrl":"https:\/\/siddharthnagar.nic.in\/wp-admin\/admin-ajax.php"};
+</script>
+<script src="js/common.js" id="utility-common-js-js"></script>
+<script src="js/jquery.flexslider.js" id="jquery-flexslider-js-js"></script>
+<script src="js/easyResponsiveTabs.js" id="easyResponsiveTabs-js-js"></script>
+<script src="js/jquery.fancybox.js" id="jquery-fancybox-js-js"></script>
+<script src="js/style.switcher.js" id="style-switcher-js-js"></script>
+<script src="js/menu.js" id="mega-menu-js-js"></script>
+<script src="js/table.min.js" id="table-min-js-js"></script>
+<script src="js/custom.js" id="custom-js-js"></script>
+<script src="js/extra.js" id="extra-js-js"></script>
+<script src="js/js_composer_front.min.js" id="wpb_composer_front_js-js"></script>
+<script src="js/jquery.flexslider-min.js" id="flexslider-js"></script>
+<script src="js/vc-accordion.min.js" id="vc_accordion_script-js"></script>
+<script src="js/vc-tta-autoplay.min.js" id="vc_tta_autoplay_script-js"></script>
+<script src="js/vc-tabs.min.js" id="vc_tabs_script-js"></script>
+        <script>
+            jQuery(document).ready(function($){
+                $.post({
+                    url:ajaxurl,
+                    method:'POST',
+                    dataType: 'JSON',
+                    data:{time: new Date().getTime(),'lang': 'en', action:'s3waas_pll_lang_cookie'},
+                    success:function (responseResults) {}
+                })
+            })
+        </script>
+<script>
+(function() {
+				var expirationDate = new Date();
+				expirationDate.setTime( expirationDate.getTime() + 31536000 * 1000 );
+				document.cookie = "pll_language=en; expires=" + expirationDate.toUTCString() + "; path=/; domain=siddharthnagar.nic.in; secure; SameSite=Lax";
+			}());
+
+</script>
+
+
+
+
+
+
+</body></html><!-- Dynamic page generated in 7.494 seconds. --><!-- Cached page generated by WP-Super-Cache on 2025-06-13 09:40:48 --><!-- super cache -->
