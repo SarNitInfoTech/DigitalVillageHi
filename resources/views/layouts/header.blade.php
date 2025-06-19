@@ -1,4 +1,4 @@
-   <header>
+<header>
       <div id="topBar" class="wrapper make-accessible-header">
         <div class="container">
           <div aria-label="Primary">
@@ -70,7 +70,7 @@
         <div class="container header-container">
           <div class="logo">
             <a href="https://siddharthnagar.nic.in/" title="Go to home" class="emblem" rel="home">
-                              <img class="site_logo" height="100" id="logo" src="images/2018022493.png" alt="logogovtUP">
+                              <img class="site_logo" height="100" id="logo" src="{{url('images/2018022493.png')}}" alt="logogovtUP">
               
             <div class="logo-text">
                               <strong lang="hi" class="site_name_regional">सिद्धार्थनगर </strong>
@@ -83,7 +83,7 @@
             <div class="right-content clearfix">
               <div class="float-element">
                                                       <a aria-label="Digital India - External site that opens in a new window" href="http://www.digitalindia.gov.in/" target="_blank" title="Digital India">
-                      <img class="sw-logo" height="95" src="images/2018062262.png" alt="digitalindia">
+                      <img class="sw-logo" height="95" src="{{('images/2018062262.png')}}" alt="digitalindia">
                     </a>
                                 </div>
             </div>

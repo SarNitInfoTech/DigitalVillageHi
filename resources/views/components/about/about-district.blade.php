@@ -1,13 +1,11 @@
 @extends('layouts.layout')
 @section('bodyContent')
-@include('partials.banner', [
-    'title' => 'About District',
-    'breadcrumbs' => [
-        ['label' => 'About District']
-    ]
-])
+@include('partials.banner')
 
+{{-- @include('partials.breadcrumb', ['breadcrumbTitle' => 'About District']) --}}
 
+ 
+                  
 <div class="wrapper bodyWrapper ">
     <div class="container ">
         <div class="row breadcrumb-outer">
@@ -59,5 +57,4 @@
           </div>
   </div>
 </div>
-
 @endsection

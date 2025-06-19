@@ -1,4 +1,4 @@
-<link rel="stylesheet" id="wp-block-library-css" href="css/style.min.css" media="all">
+<link rel="stylesheet" id="wp-block-library-css" href="{{url('css/style.min.css')}}" media="all">
 <style id="classic-theme-styles-inline-css">
 /*! This file is auto-generated */
 .wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
@@ -9,21 +9,25 @@
 :where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
 :root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
 </style>
-<link rel="stylesheet" id="base-css-css" href="css/base.css" media="all">
-<link rel="stylesheet" id="extra-feature-css-css" href="css/extra.features.css" media="all">
-<link rel="stylesheet" id="contact-form-7-css" href="css/styles.css" media="all">
-<link rel="stylesheet" id="parichay-login-css-css" href="css/login.css" media="all">
-<link rel="stylesheet" id="wsl-widget-css" href="css/style.css" media="all">
-<link rel="stylesheet" id="sliderhelper-css-css" href="css/sliderhelper.css" media="all">
-<link rel="stylesheet" id="main-css-css" href="css/style_1.css" media="all">
-<link rel="stylesheet" id="js_composer_front-css" href="css/js_composer.min.css" media="all">
-<link rel="stylesheet" id="fontawesome-css" href="css/font-awsome.css" media="all">
-<link rel="stylesheet" id="extra_css-css" href="css/extra.css" media="screen">
-<script src="js/jquery.min.js" id="jquery-core-js"></script>
-<script src="js/jquery-migrate.min.js" id="jquery-migrate-js"></script>
-<script src="js/themed-profiles.js" id="tml-themed-profiles-js"></script>
-<script src="js/core.min.js" id="jquery-ui-core-js"></script>
-<script src="js/external.js" id="external-link-js"></script>
+<!-- ✅ Stylesheets -->
+<link rel="stylesheet" id="base-css-css" href="{{ url('css/base.css') }}" media="all">
+<link rel="stylesheet" id="extra-feature-css-css" href="{{ url('css/extra.features.css') }}" media="all">
+<link rel="stylesheet" id="contact-form-7-css" href="{{ url('css/styles.css') }}" media="all">
+<link rel="stylesheet" id="parichay-login-css-css" href="{{ url('css/login.css') }}" media="all">
+<link rel="stylesheet" id="wsl-widget-css" href="{{ url('css/style.css') }}" media="all">
+<link rel="stylesheet" id="sliderhelper-css-css" href="{{ url('css/sliderhelper.css') }}" media="all">
+<link rel="stylesheet" id="main-css-css" href="{{ url('css/style_1.css') }}" media="all">
+<link rel="stylesheet" id="js_composer_front-css" href="{{ url('css/js_composer.min.css') }}" media="all">
+<link rel="stylesheet" id="fontawesome-css" href="{{ url('css/font-awsome.css') }}" media="all">
+<link rel="stylesheet" id="extra_css-css" href="{{ url('css/extra.css') }}" media="screen">
+
+<!-- ✅ Scripts -->
+<script src="{{ url('js/jquery.min.js') }}" id="jquery-core-js"></script>
+<script src="{{ url('js/jquery-migrate.min.js') }}" id="jquery-migrate-js"></script>
+<script src="{{ url('js/themed-profiles.js') }}" id="tml-themed-profiles-js"></script>
+<script src="{{ url('js/core.min.js') }}" id="jquery-ui-core-js"></script>
+<script src="{{ url('js/external.js') }}" id="external-link-js"></script>
+
 <link rel="canonical" href="https://siddharthnagar.nic.in/">
 <link rel="shortlink" href="https://siddharthnagar.nic.in/">
 
@@ -48,35 +52,41 @@
 
 
 </script>
-<link rel="stylesheet" id="flexslider-css" href="css/flexslider.min.css" media="all">
-<link rel="stylesheet" id="custom-flexslider-css" href="css/custom-flexslider.css" media="all">
-<link rel="stylesheet" id="list-style-css" href="css/list-style.min.css" media="all">
-<link rel="stylesheet" id="component-helper-css" href="css/component-helper.css" media="all">
-<link rel="stylesheet" id="events-css-css" href="css/events.css" media="all">
-<link rel="stylesheet" id="vc_tta_style-css" href="css/js_composer_tta.min.css" media="all">
-<link rel="stylesheet" id="min-profile-css" href="css/profile-hm.css" media="all">
-<link rel="stylesheet" id="services-style-css" href="css/list-style.min.css" media="all">
-<link rel="stylesheet" id="services-tabs-style-css" href="css/service-tabs.css" media="all">
-<link rel="stylesheet" id="font-awesome-css" href="css/font-awesome.min.css" media="all">
-<link rel="stylesheet" id="home-gallery-css" href="css/photo-gallery-home.css" media="all">
-<link rel="stylesheet" id="footer-style-css" href="css/footer-logo-carousel.css" media="all">
-<script id="utility-common-js-js-extra">
-var AwaasData = {"ajaxUrl":"https:\/\/siddharthnagar.nic.in\/wp-admin\/admin-ajax.php"};
+<!-- ✅ Stylesheets -->
+<link rel="stylesheet" id="flexslider-css" href="{{ url('css/flexslider.min.css') }}" media="all">
+<link rel="stylesheet" id="custom-flexslider-css" href="{{ url('css/custom-flexslider.css') }}" media="all">
+<link rel="stylesheet" id="list-style-css" href="{{ url('css/list-style.min.css') }}" media="all">
+<link rel="stylesheet" id="component-helper-css" href="{{ url('css/component-helper.css') }}" media="all">
+<link rel="stylesheet" id="events-css-css" href="{{ url('css/events.css') }}" media="all">
+<link rel="stylesheet" id="vc_tta_style-css" href="{{ url('css/js_composer_tta.min.css') }}" media="all">
+<link rel="stylesheet" id="min-profile-css" href="{{ url('css/profile-hm.css') }}" media="all">
+<link rel="stylesheet" id="services-style-css" href="{{ url('css/list-style.min.css') }}" media="all">
+<link rel="stylesheet" id="services-tabs-style-css" href="{{ url('css/service-tabs.css') }}" media="all">
+<link rel="stylesheet" id="font-awesome-css" href="{{ url('css/font-awesome.min.css') }}" media="all">
+<link rel="stylesheet" id="home-gallery-css" href="{{ url('css/photo-gallery-home.css') }}" media="all">
+<link rel="stylesheet" id="footer-style-css" href="{{ url('css/footer-logo-carousel.css') }}" media="all">
+
+<!-- ✅ Scripts -->
+<script>
+    var AwaasData = {
+        ajaxUrl: "{{ url('/wp-admin/admin-ajax.php') }}"
+    };
 </script>
-<script src="js/common.js" id="utility-common-js-js"></script>
-<script src="js/jquery.flexslider.js" id="jquery-flexslider-js-js"></script>
-<script src="js/easyResponsiveTabs.js" id="easyResponsiveTabs-js-js"></script>
-<script src="js/jquery.fancybox.js" id="jquery-fancybox-js-js"></script>
-<script src="js/style.switcher.js" id="style-switcher-js-js"></script>
-<script src="js/menu.js" id="mega-menu-js-js"></script>
-<script src="js/table.min.js" id="table-min-js-js"></script>
-<script src="js/custom.js" id="custom-js-js"></script>
-<script src="js/extra.js" id="extra-js-js"></script>
-<script src="js/js_composer_front.min.js" id="wpb_composer_front_js-js"></script>
-<script src="js/jquery.flexslider-min.js" id="flexslider-js"></script>
-<script src="js/vc-accordion.min.js" id="vc_accordion_script-js"></script>
-<script src="js/vc-tta-autoplay.min.js" id="vc_tta_autoplay_script-js"></script>
-<script src="js/vc-tabs.min.js" id="vc_tabs_script-js"></script>
+<script src="{{ url('js/common.js') }}" id="utility-common-js-js"></script>
+<script src="{{ url('js/jquery.flexslider.js') }}" id="jquery-flexslider-js-js"></script>
+<script src="{{ url('js/easyResponsiveTabs.js') }}" id="easyResponsiveTabs-js-js"></script>
+<script src="{{ url('js/jquery.fancybox.js') }}" id="jquery-fancybox-js-js"></script>
+<script src="{{ url('js/style.switcher.js') }}" id="style-switcher-js-js"></script>
+<script src="{{ url('js/menu.js') }}" id="mega-menu-js-js"></script>
+<script src="{{ url('js/table.min.js') }}" id="table-min-js-js"></script>
+<script src="{{ url('js/custom.js') }}" id="custom-js-js"></script>
+<script src="{{ url('js/extra.js') }}" id="extra-js-js"></script>
+<script src="{{ url('js/js_composer_front.min.js') }}" id="wpb_composer_front_js-js"></script>
+<script src="{{ url('js/jquery.flexslider-min.js') }}" id="flexslider-js"></script>
+<script src="{{ url('js/vc-accordion.min.js') }}" id="vc_accordion_script-js"></script>
+<script src="{{ url('js/vc-tta-autoplay.min.js') }}" id="vc_tta_autoplay_script-js"></script>
+<script src="{{ url('js/vc-tabs.min.js') }}" id="vc_tabs_script-js"></script>
+
         <script>
             jQuery(document).ready(function($){
                 $.post({
