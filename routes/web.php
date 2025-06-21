@@ -1,11 +1,11 @@
-<?php
+<?php 
 
 use Illuminate\Support\Facades\Route;
 
 use App\Http\Controllers\AboutController;
 
 Route::prefix('about')->group(function () {
-    Route::get('/village', [AboutController::class, 'about'])->name('about.district');
+    Route::get('/about-district', [AboutController::class, 'aboutDistrict'])->name('about.district');
     Route::get('/history', [AboutController::class, 'history'])->name('about.history');
     Route::get('/whoiswho', [AboutController::class, 'whoiswho'])->name('about.whoiswho');
     Route::get('/mapofdistrict', [AboutController::class, 'mapOfDistrict'])->name('about.mapofdistrict');
