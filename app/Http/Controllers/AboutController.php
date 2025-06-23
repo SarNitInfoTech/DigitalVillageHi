@@ -7,7 +7,13 @@ use Illuminate\Http\Request;
 class AboutController extends Controller
 {
     
-
+    public function index(){
+        $breadcrumb=[
+            'first'=>"About",
+            'second'=>""
+        ];
+        return view('pages.about.aboutVillage', compact('breadcrumb'));
+    }
     // Root About pages
     public function about() {
         return view('pages.about.aboutVillage');

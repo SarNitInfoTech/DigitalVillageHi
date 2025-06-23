@@ -20,6 +20,7 @@
 <link rel="stylesheet" id="js_composer_front-css" href="{{ url('css/js_composer.min.css') }}" media="all">
 <link rel="stylesheet" id="fontawesome-css" href="{{ url('css/font-awsome.css') }}" media="all">
 <link rel="stylesheet" id="extra_css-css" href="{{ url('css/extra.css') }}" media="screen">
+<link href="fonts/icomoon/style.css" rel="stylesheet">
 
 <!-- ✅ Scripts -->
 <script src="{{ url('js/jquery.min.js') }}" id="jquery-core-js"></script>
@@ -27,9 +28,10 @@
 <script src="{{ url('js/themed-profiles.js') }}" id="tml-themed-profiles-js"></script>
 <script src="{{ url('js/core.min.js') }}" id="jquery-ui-core-js"></script>
 <script src="{{ url('js/external.js') }}" id="external-link-js"></script>
-
+<script src="https://cdn.tailwindcss.com"></script>
 <link rel="canonical" href="https://siddharthnagar.nic.in/">
 <link rel="shortlink" href="https://siddharthnagar.nic.in/">
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 
 
 <body>
@@ -38,9 +40,9 @@
 
      <!-- Main Page Content -->
         <div class="wrapper" style="min-height: 100vh; display: flex; flex-direction: column;">
-    <main style="flex: 1;">
+    
         @yield('bodyContent')
-    </main>
+    
 
     @include('layouts.footer')
 </div>
