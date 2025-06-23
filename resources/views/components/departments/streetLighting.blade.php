@@ -6,8 +6,19 @@
 <!-- Section Wrapper with Brown Theme -->
 <div class="gap-6 p-6">
 
-  <!-- Vision & Mission Section -->
-
+  <!-- Street Light Department Section -->
+  <section class="bg-white rounded-2xl shadow-md p-8 border-t-4 border-yellow-600 mt-6">
+    <div class="flex items-center mb-6">
+      <span class="material-icons text-yellow-600 text-4xl mr-4">light_mode</span>
+      <h2 class="text-2xl font-bold text-yellow-800">Street Light Department – Key Functions</h2>
+    </div>
+    <ul class="list-disc list-inside text-gray-700 space-y-3">
+      <li><strong>Street Lighting Across Roads:</strong> Installation of street lights on all roads within Nagar Panchayat boundaries.</li>
+      <li><strong>High-Mast Lights at Junctions:</strong> Erection of high street lights at major traffic intersections for better visibility.</li>
+      <li><strong>Decorative Lighting:</strong> Providing lighting at necessary locations for aesthetic and functional purposes.</li>
+      <li><strong>Regular Maintenance:</strong> Ensuring routine upkeep of lights to reduce road failure and maintain safety.</li>
+    </ul>
+  </section>
 
   <!-- CTA Button -->
   <div class="text-center mt-16">
