@@ -9,13 +9,13 @@ class AboutController extends Controller
     
     public function index(){
          $breadcrumbTitle="About Pakadi Bharat Khand";
-        return view('pages.about.aboutVillage', compact('breadcrumbTitle'));
+        return view('pages.about.about.aboutVillage', compact('breadcrumbTitle'));
     }
     // Root About pages
     public function about() {
         $breadcrumbTitle="About Pakadi Bharat Khand";
 
-        return view('pages.about.aboutVillage', compact('breadcrumbTitle'));
+        return view('pages.about.about.aboutVillage', compact('breadcrumbTitle'));
     }
 
     public function objective() {
