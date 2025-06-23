@@ -1,7 +1,7 @@
 
 @extends('layouts.layout')
 @section('bodyContent')
-@include('partials.banner')
+@include('common.banner')
 
 <div class="wrapper bodyWrapper ">
     <div class="container ">

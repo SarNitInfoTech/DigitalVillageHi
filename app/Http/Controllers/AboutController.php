@@ -8,21 +8,35 @@ class AboutController extends Controller
 {
     
     public function index(){
-        $breadcrumb=[
-            'first'=>"About",
-            'second'=>""
-        ];
-        return view('pages.about.aboutVillage', compact('breadcrumb'));
+         $breadcrumbTitle="About Pakadi Bharat Khand";
+        return view('pages.about.aboutVillage', compact('breadcrumbTitle'));
     }
     // Root About pages
     public function about() {
-        return view('pages.about.aboutVillage');
+        $breadcrumbTitle="About Pakadi Bharat Khand";
+
+        return view('pages.about.aboutVillage', compact('breadcrumbTitle'));
     }
 
-    public function history() {
-        return view('components.about.history');
+    public function objective() {
+        $breadcrumbTitle="Objectives & Public Services – Pakadi Bharat Khand";
+        return view('pages.about.villageObjective.villageObjective' ,compact('breadcrumbTitle'));
+    }
+    
+    public function overview() {
+        $breadcrumbTitle="Overview – Pakadi Bharat Khand";
+        return view('pages.about.villageOverview.overview' ,compact('breadcrumbTitle'));
     }
 
+     public function visionAndMission() {
+        $breadcrumbTitle="Vision and Mission";
+        return view('pages.about.visionAndMission.visionAndMission' ,compact('breadcrumbTitle'));
+    }
+    
+     public function organizational() {
+        $breadcrumbTitle="Organizational Structure";
+        return view('pages.about.organizational.organizational' ,compact('breadcrumbTitle'));
+    }
     public function whoiswho() {
         return view('components.about.whoiswho');
     }

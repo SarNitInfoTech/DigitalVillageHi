@@ -1,6 +1,6 @@
 @extends('layouts.layout')
 @section('bodyContent')
-@include('partials.banner')
+@include('common.banner')
 
  {{-- @include('partials.breadcrumb', ['breadcrumbTitle' => 'History'])  --}}
 

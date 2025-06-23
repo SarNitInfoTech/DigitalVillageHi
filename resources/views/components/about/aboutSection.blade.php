@@ -1,145 +1,74 @@
-<div class="wrapper bodyWrapper ">
-    <div class="container ">
-        <div class="row breadcrumb-outer">
-            <div class="left-content push-left">
-                <div id="breadcam" role="navigation" aria-label="breadcrumb">
-                    <ul class="breadcrumbs">
-                        <li><a href="/" class="home"><span>Home</span></a></li>
-                        <li class="current">About Village</li>
-                    </ul>
-                </div>
-            </div>
-            <div class="right-content push-right">
-                <div class="printShare">
-                    <ul>
-                        <li><a href="#" id="print" title="Print Page Content" aria-label="Print Page Content"><span
-                                    class="icon-printer"></span> <span class="off-css">Print</span></a></li>
-                        <li><span class="share-text"><em class="icon-share"></em><span
-                                    class="off-css">Share</span></span></li>
-                        <li>
-                            <a href="https://www.facebook.com/sharer/sharer.php?u=#"
-                                onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=300,width=600');return false;"
-                                target="_blank" title="Share on Facebook"
-                                aria-label="Facebook that opens in a new window" rel="noopener noreferrer"><span
-                                    class="icon-facebook"></span><span class="off-css">Facebook</span></a>
-                        </li>
-                        <li>
-                            <a href="https://twitter.com/share?url=#&text=About+Village"
-                                onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=300,width=600');return false;"
-                                target="_blank" title="Share on Twitter" aria-label="Twitter that opens in a new window"
-                                rel="noopener noreferrer"><span class="icon-twitter"></span><span
-                                    class="off-css">Twitter</span></a>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-        </div>
+<!-- Google Material Icons (include in <head>) -->
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" />
 
-        <div id="SkipContent" tabindex="-1"></div>
+<!-- Digital Village Main Section -->
+@include("common.breadcrumb")
 
+<div class="grid grid-cols-1 lg:grid-cols-3 gap-6 p-6 bg-gray-100">
 
-        <div class="row" id="row-content">
-            <div class="col-12">
-                <h1>About Village</h1>
-                       <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
-          <div class="col-span-1 md:col-span-2">
+  <!-- Left Column: About Village -->
+  <div class="lg:col-span-2 bg-white p-6 rounded-lg shadow-sm">
+    <h1 class="text-3xl font-extrabold mb-6 text-[#5c2e0d] tracking-tight uppercase">ABOUT Pakadi Bharat Khand</h1>
 
-                        <div id="post-1532" class="post-1532 page type-page status-publish hentry">
-                            <p><strong>Pakadi Bharat Khand</strong> is a village located in the <strong>Nichlaul
-                                    block</strong> of <strong>Maharajganj district</strong> in the state of
-                                <strong>Uttar Pradesh</strong>, India. The village lies in the northeastern part of the
-                                state and is situated near the Indo-Nepal border.</p>
+    <!-- Full Content -->
+    <div class="space-y-5 text-justify text-gray-700 leading-relaxed text-[15px]">
+      <p><strong>Pakadi Bharat Khand</strong> is a rural village situated in the <strong>Nichlaul Block</strong> of <strong>Maharajganj district</strong> in the Indian state of <strong>Uttar Pradesh</strong>. It falls under the <strong>Gorakhpur Division</strong> and is part of the <strong>Siswa Assembly Constituency</strong> and <strong>Maharajganj Lok Sabha Parliamentary Constituency</strong>. With an approximate population of 1,200, the village reflects a unique mix of cultural traditions and emerging digital aspirations.</p>
 
-                            <p>The area is part of the fertile Terai region and is known for its agricultural
-                                productivity. Major crops include rice, wheat, sugarcane, and seasonal vegetables. The
-                                local economy is primarily agrarian, with farming and dairy serving as the main sources
-                                of livelihood.</p>
+      <p>The majority of residents rely on agriculture and daily wage labor for livelihood. In recent years, infrastructure development has begun to transform the rural landscape, supported by government schemes and local leadership. The area enjoys road connectivity, basic electricity supply, and mobile network access, helping villagers stay informed and connected.</p>
 
-                            <p><strong>Administrative Setup:</strong> The village falls under Nichlaul Tehsil and is
-                                governed by a Gram Panchayat. Politically, it is part of the <strong>Nichlaul Vidhan
-                                    Sabha constituency</strong> and the <strong>Maharajganj Lok Sabha
-                                    constituency</strong>.</p>
+      <p>As part of the “<strong>Digital Village</strong>” initiative, Pakadi Bharat Khand is transitioning towards digital governance. Key facilities include digital grievance redressal systems, access to e-governance portals, awareness sessions for villagers on their rights, and assistance with online services such as birth/death certificates, ration card applications, and Ayushman Bharat cards.</p>
 
-                            <p><strong>Transport and Connectivity:</strong> Pakadi Bharat Khand is well-connected by
-                                local roads to Nichlaul (approximately 12 km away) and Maharajganj (around 25 km). The
-                                nearest railway station is in Maharajganj, while the nearest bus depot is in Nichlaul.
-                                Shared auto-rickshaws and buses provide transport to nearby towns and markets.</p>
+      <p>The village has shown increased participation in online education, especially among girls and adolescents. Local schools are being linked to digital resources, and the Panchayat Bhawan has started maintaining digital records. Women Self-Help Groups (SHGs) are also being digitally trained to manage records, savings, and income-generating activities.</p>
 
-                            <p><strong>Demographics:</strong> According to local estimates, the village has a population
-                                of approximately 3,800 people. It has a balanced sex ratio and is home to people of
-                                various communities coexisting peacefully. Over the past few years, literacy levels have
-                                improved due to government schooling initiatives and awareness programs.</p>
+      <p>Pakadi Bharat Khand lies at an elevation of <strong>94 meters above sea level</strong> and uses the <strong>STD code 05523</strong>. The postal code is <strong>273163</strong>, and the area is served by the <strong>Siswa Bazar Post Office</strong>. The village operates under the Indian Standard Time zone (IST, UTC+5:30).</p>
 
-                            <p><strong>Education & Health:</strong> The village has one government primary school and
-                                access to secondary schools in nearby towns. Efforts are ongoing to improve digital
-                                education and girl child enrollment. A primary health sub-centre provides basic medical
-                                care, with more advanced services available in Nichlaul and Maharajganj.</p>
-
-                            <p><strong>Cultural and Social Life:</strong> The village observes festivals like Holi,
-                                Diwali, Eid, and Chhath with great enthusiasm. Community participation in local
-                                governance and rural development schemes has increased in recent years, contributing to
-                                a more vibrant civic life.</p>
-
-                            <h2>Nearby Institutions:</h2>
-                            <p>The nearest major higher education institution is <strong>Siddharth University</strong>,
-                                located in Kapilvastu, Siddharthnagar. Several students from the village pursue
-                                education there and in Gorakhpur and Maharajganj.</p>
-                        </div>
-                    </div>
-                    <div class="col-span-1">
-  <!-- Image -->
-  <img src="{{url('images/about/about.jpeg')}}" alt="Pakadi Bharat Khand" class="w-full h-auto rounded mb-4 shadow-md">
-
-  <!-- Heading -->
-  <h2 class="text-base font-semibold text-center mb-3">Pakadi Bharat Khand</h2>
-
-  <!-- Summary Table -->
-  <div class="space-y-2">
-    <div class="flex justify-between border-b pb-1">
-      <span class="font-medium text-gray-600">Location</span>
-      <span class="text-right">Nichlaul, Maharajganj, UP</span>
-    </div>
-    <div class="flex justify-between border-b pb-1">
-      <span class="font-medium text-gray-600">Country</span>
-      <span class="text-right">India</span>
-    </div>
-    <div class="flex justify-between border-b pb-1">
-      <span class="font-medium text-gray-600">State</span>
-      <span class="text-right">Uttar Pradesh</span>
-    </div>
-    <div class="flex justify-between border-b pb-1">
-      <span class="font-medium text-gray-600">District</span>
-      <span class="text-right">Maharajganj</span>
-    </div>
-    <div class="flex justify-between border-b pb-1">
-      <span class="font-medium text-gray-600">Tehsil</span>
-      <span class="text-right">Nichlaul</span>
-    </div>
-    <div class="flex justify-between border-b pb-1">
-      <span class="font-medium text-gray-600">Population</span>
-      <span class="text-right">~3,800</span>
-    </div>
-    <div class="flex justify-between border-b pb-1">
-      <span class="font-medium text-gray-600">Language</span>
-      <span class="text-right">Hindi, Bhojpuri</span>
-    </div>
-    <div class="flex justify-between border-b pb-1">
-      <span class="font-medium text-gray-600">Nearest Town</span>
-      <span class="text-right">Nichlaul</span>
-    </div>
-    <div class="flex justify-between border-b pb-1">
-      <span class="font-medium text-gray-600">Nearest Railway</span>
-      <span class="text-right">Maharajganj</span>
-    </div>
-    <div class="flex justify-between border-b">
-      <span class="font-medium text-gray-600">Lok Sabha Seat</span>
-      <span class="text-right">Maharajganj</span>
+      <p>The Digital Village model promotes transparency, accountability, and real-time feedback loops for developmental schemes. With continued investments in ICT infrastructure and community mobilization, Pakadi Bharat Khand is setting an example for how small villages can leap into the digital age while preserving their heritage and values.</p>
     </div>
   </div>
-</div>
 
-                </div>
-            </div>
-        </div>
+  <!-- Right Column: Key Leaders -->
+  <div class="lg:col-span-1 bg-white p-6 rounded-lg shadow-sm">
+    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-2 gap-6 text-center text-gray-700 text-sm">
+      
+      <!-- Yogi Adityanath -->
+      <div class="hover:shadow-md transition duration-300">
+        <img src="images/about/1.jpeg" alt="Yogi Adityanath" class="w-full h-60 object-cover rounded-lg border-4 border-gray-200 mb-3">
+        <div class="font-bold text-[11px] text-gray-800">Hon'ble Yogi Adityanath</div>
+        <div class="text-[10px] text-gray-500">(Chief Minister, Uttar Pradesh)</div>
+      </div>
+
+      <!-- Arvind Kumar Sharma -->
+      <div class="hover:shadow-md transition duration-300">
+        <img src="images/about/2.jpeg" alt="A.K. Sharma" class="w-full h-60 object-cover rounded-lg border-4 border-gray-200 mb-3">
+        <div class="font-bold text-[11px] text-gray-800">Hon'ble Arvind Kumar Sharma</div>
+        <div class="text-[10px] text-gray-500">(Minister of Urban Development & Energy, U.P.)</div>
+      </div>
+
+      <!-- Santosh Kumar Sharma (IAS) -->
+      <div class="hover:shadow-md transition duration-300">
+        <img src="images/about/4.jpeg" alt="Santosh Kumar Sharma" class="w-full h-60 object-cover rounded-lg border-4 border-gray-200 mb-3">
+        <div class="font-bold text-[11px] text-gray-800">Hon'ble Santosh Kumar Sharma (IAS)</div>
+        <div class="text-[10px] text-gray-500">(District Magistrate, Maharajganj)</div>
+      </div>
+
+      <!-- Executive Officer -->
+      <div class="hover:shadow-md transition duration-300">
+        <img src="images/about/3.jpeg" alt="Abhinav Srivastava" class="w-full h-60 object-cover rounded-lg border-4 border-gray-200 mb-3">
+        <div class="font-bold text-[11px] text-gray-800">Mr. Abhinav Srivastava</div>
+        <div class="text-[10px] text-gray-500">(Executive Officer)</div>
+      </div>
+
+      <div class="hover:shadow-md transition duration-300">
+        <img src="images/about/3.jpeg" alt="Abhinav Srivastava" class="w-full h-60 object-cover rounded-lg border-4 border-gray-200 mb-3">
+        <div class="font-bold text-[11px] text-gray-800">Mr. Abhinav Srivastava</div>
+        <div class="text-[10px] text-gray-500">(Executive Officer)</div>
+      </div>
+
+      <div class="hover:shadow-md transition duration-300">
+        <img src="images/about/3.jpeg" alt="Abhinav Srivastava" class="w-full h-60 object-cover rounded-lg border-4 border-gray-200 mb-3">
+        <div class="font-bold text-[11px] text-gray-800">Mr. Abhinav Srivastava</div>
+        <div class="text-[10px] text-gray-500">(Executive Officer)</div>
+      </div>
     </div>
+  </div>
 </div>

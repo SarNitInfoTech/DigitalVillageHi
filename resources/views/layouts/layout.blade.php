@@ -39,7 +39,7 @@
         @include('layouts.header')
 
      <!-- Main Page Content -->
-        <div class="wrapper" style="min-height: 100vh; display: flex; flex-direction: column;">
+        <div class="wrapper" style="min-height: 80vh; display: flex; flex-direction: column;">
     
         @yield('bodyContent')
     

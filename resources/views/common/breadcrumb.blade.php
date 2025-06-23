@@ -1,11 +1,11 @@
-<div class="row breadcrumb-outer" style="background: #f5f5f5; padding: 3px 5px; display: flex; justify-content: space-between; flex-wrap: wrap; align-items: center;">
+<div class="w-full bg-gray-100 py-2 px-10 flex flex-wrap justify-between text-bold items-center text-[14px]">
     <div class="left-content push-left">
         <div id="breadcam" role="navigation" aria-label="breadcrumb">
             <ul class="breadcrumbs" style="list-style: none; display: flex; gap: 5px; padding: 0; margin: 0;">
                 <li>
-                    <a href="{{ url('/') }}" class="home"><span>Home</span></a>
+                    <a href="{{ url('/') }}" class="home"><span class="text-bold">Home</span></a>
                 </li>
-                <li class="current">
+                <li class="current text-bold">
                     {{ $breadcrumbTitle ?? 'Page Title' }}
                 </li>
             </ul>
