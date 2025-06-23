@@ -107,14 +107,14 @@
     <li class="menu-item menu-item-has-children {{ request()->routeIs('eGovernance*') ? 'active current-menu-item' : '' }}">
       <a href="#">E-Governance</a>
       <ul class="sub-menu">
-        <li class="{{ request()->routeIs('eGovernance.propertyTax') ? 'active current-menu-item' : '' }}">
+        {{-- <li class="{{ request()->routeIs('eGovernance.propertyTax') ? 'active current-menu-item' : '' }}">
           <a href="{{ route('eGovernance.propertyTax') }}">Property Tax</a>
-        </li>
-        <li class="{{ request()->routeIs('eGovernance.waterSewerageCharges') ? 'active current-menu-item' : '' }}">
+        </li> --}}
+        {{-- <li class="{{ request()->routeIs('eGovernance.waterSewerageCharges') ? 'active current-menu-item' : '' }}">
           <a href="{{ route('eGovernance.waterSewerageCharges') }}">Water & Sewerage Charges</a>
-        </li>
+        </li> --}}
         <li class="{{ request()->routeIs('eGovernance.mutations') ? 'active current-menu-item' : '' }}">
-          <a href="{{ route('eGovernance.mutations') }}">Mutations</a>
+          <a href="https://e-nagarsewaup.gov.in/ulbappsmain/home">Mutations</a>
         </li>
         <li class="{{ request()->routeIs('eGovernance.forIssuingLicenses') ? 'active current-menu-item' : '' }}">
           <a href="{{ route('eGovernance.forIssuingLicenses') }}">For Issuing Licenses</a>
@@ -123,17 +123,17 @@
           <a href="{{ route('eGovernance.advertisementTax') }}">Advertisement Tax</a>
         </li>
         <li class="{{ request()->routeIs('eGovernance.birthDeathRegistration') ? 'active current-menu-item' : '' }}">
-          <a href="{{ route('eGovernance.birthDeathRegistration') }}">Birth and Death Registration</a>
+          <a href="https://dc.crsorgi.gov.in/">Birth and Death Registration</a>
         </li>
-        <li class="{{ request()->routeIs('eGovernance.buildingPermission') ? 'active current-menu-item' : '' }}">
+        {{-- <li class="{{ request()->routeIs('eGovernance.buildingPermission') ? 'active current-menu-item' : '' }}">
           <a href="{{ route('eGovernance.buildingPermission') }}">Building Permission</a>
-        </li>
+        </li> --}}
         <li class="{{ request()->routeIs('eGovernance.eProcurement') ? 'active current-menu-item' : '' }}">
-          <a href="{{ route('eGovernance.eProcurement') }}">E-Procurement</a>
+          <a href="https://etender.up.nic.in/nicgep/app">E-Procurement</a>
         </li>
-        <li class="{{ request()->routeIs('eGovernance.grievanceRedressal') ? 'active current-menu-item' : '' }}">
+        {{-- <li class="{{ request()->routeIs('eGovernance.grievanceRedressal') ? 'active current-menu-item' : '' }}">
           <a href="{{ route('eGovernance.grievanceRedressal') }}">Grievance Redressal</a>
-        </li>
+        </li> --}}
       </ul>
     </li>
 
