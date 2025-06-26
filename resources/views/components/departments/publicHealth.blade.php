@@ -9,7 +9,7 @@
   <!-- Health Department Section -->
   <section class="bg-white rounded-2xl shadow-md p-8 border-t-4 border-green-700 mt-6">
     <div class="flex items-center mb-6">
-      <span class="material-icons text-green-700 text-4xl mr-4">health_and_safety</span>
+      <span class="material-icons notranslate  text-green-700 text-4xl mr-4">health_and_safety</span>
       <h2 class="text-2xl font-bold text-green-800">Health Department – Public Health Services</h2>
     </div>
     <ul class="list-disc list-inside text-gray-700 space-y-3">
@@ -28,7 +28,7 @@
   <!-- CTA Button -->
   <div class="text-center mt-16">
     <a href="#contact" class="inline-flex items-center gap-2 bg-yellow-900 text-white px-8 py-3 rounded-full text-lg font-medium hover:bg-yellow-800 transition-shadow shadow-md">
-      <span class="material-icons">connect_without_contact</span>
+      <span class="material-icons notranslate  notranslate">connect_without_contact</span>
       Contact Village Office
     </a>
   </div>

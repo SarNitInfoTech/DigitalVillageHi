@@ -9,7 +9,7 @@
   <!-- Public Works Department Section -->
   <section class="bg-white rounded-2xl shadow-md p-8 border-t-4 border-yellow-800">
     <div class="flex items-center mb-6">
-      <span class="material-icons text-yellow-800 text-4xl mr-4">engineering</span>
+      <span class="material-icons notranslate  text-yellow-800 text-4xl mr-4">engineering</span>
       <h2 class="text-2xl font-bold text-yellow-900">Public Works Department – Key Activities</h2>
     </div>
     <ul class="list-disc list-inside text-gray-700 space-y-3">
@@ -25,7 +25,7 @@
   <!-- Suggested Plan Section -->
   <section class="bg-gray-50 rounded-2xl shadow-md p-8 border-l-4 border-yellow-700 mt-10">
     <div class="flex items-center mb-6">
-      <span class="material-icons text-yellow-700 text-3xl mr-3">task_alt</span>
+      <span class="material-icons notranslate  text-yellow-700 text-3xl mr-3">task_alt</span>
       <h3 class="text-xl font-semibold text-yellow-800">Suggested Work Plan for Pakadi Bharat Khand</h3>
     </div>
     <div class="overflow-x-auto">
@@ -76,7 +76,7 @@
   <!-- CTA Button -->
   <div class="text-center mt-16">
     <a href="#contact" class="inline-flex items-center gap-2 bg-yellow-900 text-white px-8 py-3 rounded-full text-lg font-medium hover:bg-yellow-800 transition-shadow shadow-md">
-      <span class="material-icons">connect_without_contact</span>
+      <span class="material-icons notranslate  notranslate">connect_without_contact</span>
       Contact Village Office
     </a>
   </div>

@@ -10,16 +10,16 @@
       <div class="bg-[#5c2e0d] text-white text-[12px] font-bold px-3 py-1">WHAT'S NEW</div>
       <div class="text-[#5c2e0d] text-[14px] font-semibold pl-3">PRESS RELEASE</div></div>
       <button id="toggleMarquee" onclick="toggleMarquee()" class="absolute right-3 top-1.5 text-[#5c2e0d] hover:text-[#3a1c06] transition">
-        <span id="marqueeIcon" class="material-icons text-sm">pause</span>
+        <span id="marqueeIcon" class="material-icons notranslate  text-sm notranslate">pause</span>
       </button>
     </div>
 
     <div class="relative h-[80%] overflow-hidden">
       <ul id="marqueeList" class="absolute top-0 left-0 w-full h-[80%] animate-marquee space-y-2 text-[#5c2e0d] text-[12px] p-4 leading-snug">
-        <li class="flex items-center"><span class="material-icons text-xs mr-1">arrow_right</span><a href="#" class="hover:underline">Gram Sabha meetings scheduled for July 10</a></li>
-        <li class="flex items-center"><span class="material-icons text-xs mr-1">arrow_right</span><a href="#" class="hover:underline">New Primary Health Center inaugurated</a></li>
-        <li class="flex items-center"><span class="material-icons text-xs mr-1">arrow_right</span><a href="#" class="hover:underline">Smart Village Initiative launched</a></li>
-        <li class="flex items-center"><span class="material-icons text-xs mr-1">arrow_right</span><a href="#" class="hover:underline">Digital grievance portal now live</a></li>
+        <li class="flex items-center"><span class="material-icons notranslate  text-xs mr-1 notranslate">arrow_right</span><a href="#" class="hover:underline">Gram Sabha meetings scheduled for July 10</a></li>
+        <li class="flex items-center"><span class="material-icons notranslate  text-xs mr-1 notranslate">arrow_right</span><a href="#" class="hover:underline">New Primary Health Center inaugurated</a></li>
+        <li class="flex items-center"><span class="material-icons notranslate  text-xs mr-1 notranslate">arrow_right</span><a href="#" class="hover:underline">Smart Village Initiative launched</a></li>
+        <li class="flex items-center"><span class="material-icons notranslate  text-xs mr-1 notranslate">arrow_right</span><a href="#" class="hover:underline">Digital grievance portal now live</a></li>
       </ul>
     </div>
 
@@ -36,16 +36,16 @@
       <div class="flex items-center justify-between"><div class="bg-[#5c2e0d] text-white text-[12px] font-bold px-3 py-1">TENDERS</div>
       <div class="text-[#5c2e0d] text-[14px] font-semibold pl-3">ACTIVE LIST</div></div>
       <button id="toggleTenderMarquee" onclick="toggleTenderMarquee()" class="absolute right-3 top-1.5 text-[#5c2e0d] hover:text-[#3a1c06] transition">
-        <span id="tenderMarqueeIcon" class="material-icons text-sm">pause</span>
+        <span id="tenderMarqueeIcon" class="material-icons notranslate  text-sm notranslate">pause</span>
       </button>
     </div>
 
     <div class="relative h-[80%] overflow-hidden">
       <ul id="tenderMarqueeList" class="absolute top-0 left-0 w-full h-[80%] animate-marquee space-y-2 text-[#5c2e0d] text-[12px] p-4 leading-snug">
-        <li class="flex items-center"><span class="material-icons text-xs mr-1">arrow_right</span><a href="#" class="hover:underline">eProcurement notice open till July 30</a></li>
-        <li class="flex items-center"><span class="material-icons text-xs mr-1">arrow_right</span><a href="#" class="hover:underline">PWD road project tender announced</a></li>
-        <li class="flex items-center"><span class="material-icons text-xs mr-1">arrow_right</span><a href="#" class="hover:underline">Vendor registration extended</a></li>
-        <li class="flex items-center"><span class="material-icons text-xs mr-1">arrow_right</span><a href="#" class="hover:underline">Community hall construction bids invited</a></li>
+        <li class="flex items-center"><span class="material-icons notranslate  text-xs mr-1 notranslate">arrow_right</span><a href="#" class="hover:underline">eProcurement notice open till July 30</a></li>
+        <li class="flex items-center"><span class="material-icons notranslate  text-xs mr-1 notranslate">arrow_right</span><a href="#" class="hover:underline">PWD road project tender announced</a></li>
+        <li class="flex items-center"><span class="material-icons notranslate  text-xs mr-1 notranslate">arrow_right</span><a href="#" class="hover:underline">Vendor registration extended</a></li>
+        <li class="flex items-center"><span class="material-icons notranslate  text-xs mr-1 notranslate">arrow_right</span><a href="#" class="hover:underline">Community hall construction bids invited</a></li>
       </ul>
     </div>
 
@@ -59,7 +59,7 @@
   <!-- OTHER LINKS -->
 <div class="bg-white border border-[#e6c2a2] p-5 rounded-lg shadow-md">
   <h3 class="text-[14px] font-bold text-[#5c2e0d] mb-4 flex items-center gap-2 uppercase tracking-wide">
-    <span class="material-icons text-[#5c2e0d] text-[18px]">link</span>
+    <span class="material-icons notranslate  text-[#5c2e0d] text-[18px]">link</span>
     Other Links
   </h3>
 
@@ -67,7 +67,7 @@
     <!-- Card 1 -->
     <div class="bg-[#faf8f5] hover:bg-[#f2ece5] border border-[#e6c2a2] rounded-xl p-4 shadow-sm transition-all duration-200 hover:shadow-md">
       <a href="#" class="text-[#5c2e0d] text-[12px] font-semibold flex items-center gap-2">
-        <span class="material-icons text-sm">arrow_right</span>
+        <span class="material-icons notranslate  text-sm notranslate">arrow_right</span>
         District Helpline
       </a>
     </div>
@@ -75,7 +75,7 @@
     <!-- Card 2 -->
     <div class="bg-[#faf8f5] hover:bg-[#f2ece5] border border-[#e6c2a2] rounded-xl p-4 shadow-sm transition-all duration-200 hover:shadow-md">
       <a href="#" class="text-[#5c2e0d] text-[12px] font-semibold flex items-center gap-2">
-        <span class="material-icons text-sm">arrow_right</span>
+        <span class="material-icons notranslate  text-sm notranslate">arrow_right</span>
         Grievance Redressal Portal
       </a>
     </div>
@@ -83,7 +83,7 @@
     <!-- Card 3 -->
     <div class="bg-[#faf8f5] hover:bg-[#f2ece5] border border-[#e6c2a2] rounded-xl p-4 shadow-sm transition-all duration-200 hover:shadow-md">
       <a href="#" class="text-[#5c2e0d] text-[12px] font-semibold flex items-center gap-2">
-        <span class="material-icons text-sm">arrow_right</span>
+        <span class="material-icons notranslate  text-sm notranslate">arrow_right</span>
         Digital Certificate Services
       </a>
     </div>
@@ -91,7 +91,7 @@
     <!-- Card 4 -->
     <div class="bg-[#faf8f5] hover:bg-[#f2ece5] border border-[#e6c2a2] rounded-xl p-4 shadow-sm transition-all duration-200 hover:shadow-md">
       <a href="#" class="text-[#5c2e0d] text-[12px] font-semibold flex items-center gap-2">
-        <span class="material-icons text-sm">arrow_right</span>
+        <span class="material-icons notranslate  text-sm notranslate">arrow_right</span>
         Ayushman Bharat Info
       </a>
     </div>
@@ -102,7 +102,7 @@
   <!-- MAP -->
  <div class="bg-white border border-[#e6c2a2] p-5 rounded-xl shadow-md">
   <h3 class="text-[12px] font-semibold text-[#5c2e0d] mb-4 flex items-center gap-2 uppercase tracking-wide">
-    <span class="material-icons text-[18px]">map</span>
+    <span class="material-icons notranslate  text-[18px]">map</span>
     Location Map
   </h3>
 

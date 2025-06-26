@@ -72,13 +72,92 @@
                       Contrast</span></a></li>
               </ul>
             </li>
-            <li>
-              <a href="#" class="change-language link-selected" title="English">English</a>
-              <ul class="socialIcons select-lang">
-                <li class="lang-item lang-item-hi mFocus"><a lang="hi" href="https://siddharthnagar.nic.in/hi/"
-                    title="हिन्दी">हिन्दी</a></li>
-              </ul>
-            </li>
+            <!-- Language Switcher in Header -->
+<li class="language-switch">
+  <a href="#" class="change-language link-selected" title="English">English</a>
+  <ul class="socialIcons select-lang">
+    <li class="lang-item lang-item-hi mFocus">
+      <a href="#" onclick="doGTranslate('en|hi'); return false;" lang="hi" title="हिन्दी">हिन्दी</a>
+    </li>
+    <li class="lang-item lang-item-en">
+      <a href="#" onclick="doGTranslate('hi|en'); return false;" lang="en" title="English">English</a>
+    </li>
+  </ul>
+</li>
+
+<!-- Hidden Google Translate Element -->
+<div id="google_translate_element" style="display: none;"></div>
+
+<!-- Google Translate Script -->
+<script type="text/javascript">
+  function googleTranslateElementInit() {
+    new google.translate.TranslateElement({
+      pageLanguage: 'en',
+      includedLanguages: 'en,hi',
+      layout: google.translate.TranslateElement.InlineLayout.SIMPLE,
+      autoDisplay: false
+    }, 'google_translate_element');
+  }
+</script>
+
+<script src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+
+<!-- Custom Trigger Script -->
+<script>
+  function waitForTranslateDropdown(callback, retries = 0) {
+    const select = document.querySelector('.goog-te-combo');
+    if (select) {
+      callback(select);
+    } else if (retries < 20) {
+      setTimeout(() => waitForTranslateDropdown(callback, retries + 1), 300);
+    } else {
+      console.warn('Google Translate widget not ready.');
+    }
+  }
+
+  function doGTranslate(langPair) {
+    if (!langPair) return;
+    const lang = langPair.split('|')[1];
+
+    waitForTranslateDropdown((select) => {
+      select.value = lang;
+      select.dispatchEvent(new Event('change'));
+
+      // Persist via cookie
+      document.cookie = `googtrans=/en/${lang}; path=/;`;
+    });
+  }
+
+  function GTranslateGetCurrentLang() {
+    const match = document.cookie.match(/googtrans=\/en\/(\w+)/);
+    return match ? match[1] : null;
+  }
+
+  function hideTranslateBar() {
+    const frame = document.querySelector('iframe.goog-te-banner-frame');
+    if (frame) frame.style.display = 'none';
+    document.body.style.top = '0px';
+  }
+
+  document.addEventListener('DOMContentLoaded', () => {
+    // Auto-switch if /hi is in URL
+    if (window.location.pathname.startsWith('/hi')) {
+      doGTranslate('en|hi');
+    } else {
+      const savedLang = GTranslateGetCurrentLang();
+      if (savedLang && savedLang !== 'en') {
+        doGTranslate('en|' + savedLang);
+      }
+    }
+
+    // Hide toolbar
+    setTimeout(hideTranslateBar, 1000);
+    const observer = new MutationObserver(hideTranslateBar);
+    observer.observe(document.body, { childList: true, subtree: true });
+  });
+</script>
+
+
           </ul>
         </div>
       </div>

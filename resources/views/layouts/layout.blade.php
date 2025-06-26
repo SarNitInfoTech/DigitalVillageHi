@@ -39,7 +39,7 @@
         @include('layouts.header')
 
      <!-- Main Page Content -->
-        <div class="wrapper" style="min-height: 80vh; display: flex; flex-direction: column;">
+        <div class="wrapper " id="google_translate_element" style="min-height: 80vh; display: flex; flex-direction: column;">
     
         @yield('bodyContent')
     
@@ -110,6 +110,6 @@
 </script>
 
 
-
-
-
+<style>.skiptranslate{
+display: none !important;
+}</style>

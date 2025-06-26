@@ -14,8 +14,8 @@
     <div class="flex items-center justify-between px-4 py-2 border-b border-[#e6c2a2]">
       <div class="bg-[#5c2e0d] text-white text-[12px] font-bold px-3 py-1">PHOTO GALLERY</div>
       <div class="flex items-center gap-2">
-        <button onclick="prevImage()" class="material-icons text-[#5c2e0d] text-[20px] hover:text-black">chevron_left</button>
-        <button onclick="nextImage()" class="material-icons text-[#5c2e0d] text-[20px] hover:text-black">chevron_right</button>
+        <button onclick="prevImage()" class="material-icons notranslate  text-[#5c2e0d] text-[20px] hover:text-black">chevron_left</button>
+        <button onclick="nextImage()" class="material-icons notranslate  text-[#5c2e0d] text-[20px] hover:text-black">chevron_right</button>
         <a href="#" class="text-white bg-black text-[12px] font-semibold px-3 py-1 rounded hover:bg-gray-800 transition">VIEW ALL</a>
       </div>
     </div>
