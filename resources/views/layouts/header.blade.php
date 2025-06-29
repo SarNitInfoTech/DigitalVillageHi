@@ -44,9 +44,9 @@
       <span class="off-css">Social Media Links</span>
     </a>
     <ul class="socialIcons">
-      <li><a href="https://www.facebook.com/dmsdr" target="_blank"><span class="material-icons">facebook</span></a></li>
+      <li><a href="https://www.facebook.com/" target="_blank"><span class="material-icons">facebook</span></a></li>
       <li><a href="https://twitter.com/login" target="_blank"><span class="material-icons">close</span></a></li>
-      <li><a href="https://www.youtube.com/watch?v=aH21BZMt5sc" target="_blank"><span class="material-icons">smart_display</span></a></li>
+      <li><a href="https://www.youtube.com/" target="_blank"><span class="material-icons">smart_display</span></a></li>
     </ul>
   </li>
   <li>
@@ -93,6 +93,7 @@
       </div>
     </div>
   </div>
+<link rel="icon" type="image/x-icon" href="{{ url('images/favicon.ico') }}">
 
   <div class="wrapper header-wrapper">
     <div class="container header-container">
