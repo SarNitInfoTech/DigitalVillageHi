@@ -3,50 +3,50 @@
 
 @include('common.breadcrumb')
 
-<!-- Section Wrapper with Brown Theme -->
+<!-- ब्राउन थीम के साथ सेक्शन रैपर -->
 <div class="gap-6 p-6">
 
-  <!-- Licence Tax Service Section -->
+  <!-- लाइसेंस कर सेवा अनुभाग -->
   <section class="bg-white rounded-2xl shadow-md p-8 border-t-4 border-yellow-700 mt-6">
     <div class="flex items-center mb-6">
-      <span class="material-icons notranslate  text-yellow-700 text-4xl mr-4">gavel</span>
-      <h2 class="text-2xl font-bold text-yellow-900">License Tax Service – Rules & Process</h2>
+      <span class="material-icons notranslate text-yellow-700 text-4xl mr-4">gavel</span>
+      <h2 class="text-2xl font-bold text-yellow-900">लाइसेंस कर सेवा – नियम एवं प्रक्रिया</h2>
     </div>
 
-    <!-- License Types -->
+    <!-- जारी किए जाने वाले लाइसेंस -->
     <div class="mb-6">
-      <h3 class="text-xl font-semibold text-gray-800 mb-2">Types of Licenses Issued</h3>
+      <h3 class="text-xl font-semibold text-gray-800 mb-2">जारी किए जाने वाले लाइसेंस के प्रकार</h3>
       <ul class="list-disc list-inside text-gray-700 space-y-2">
-        <li><strong>Industry, Factory & Trade License:</strong> As per Section 313 of BPMC Act, 1949, it is mandatory to obtain permission from the Municipal Commissioner before starting any industry, factory, or trade.</li>
-        <li><strong>Storage License:</strong> Under Section 376 of the BPMC Act, 1949, listed commodities or trade involving storage must have a valid license. A list of such commodities is displayed publicly.</li>
+        <li><strong>उद्योग, फैक्ट्री एवं व्यापार लाइसेंस:</strong> बीपीएमसी अधिनियम, 1949 की धारा 313 के अनुसार, किसी भी उद्योग, फैक्ट्री या व्यापार शुरू करने से पहले नगर आयुक्त से अनुमति प्राप्त करना अनिवार्य है।</li>
+        <li><strong>भंडारण लाइसेंस:</strong> बीपीएमसी अधिनियम, 1949 की धारा 376 के अंतर्गत, सूचीबद्ध वस्तुओं या भंडारण से संबंधित व्यापार के लिए वैध लाइसेंस आवश्यक है। इन वस्तुओं की सूची सार्वजनिक रूप से प्रदर्शित की जाती है।</li>
       </ul>
     </div>
 
-    <!-- License Validity & Renewal -->
+    <!-- लाइसेंस वैधता और नवीनीकरण -->
     <div class="mb-6">
-      <h3 class="text-xl font-semibold text-gray-800 mb-2">Validity & Renewal</h3>
+      <h3 class="text-xl font-semibold text-gray-800 mb-2">लाइसेंस की वैधता और नवीनीकरण</h3>
       <p class="text-gray-700">
-        Licenses are valid for a period of one year – from January to December. Renewal is allowed for up to 3 years. License holders must apply for renewal in December every year.
+        लाइसेंस एक वर्ष के लिए वैध होता है – जनवरी से दिसंबर तक। इसका नवीनीकरण अधिकतम 3 वर्षों तक किया जा सकता है। प्रत्येक वर्ष दिसंबर माह में लाइसेंसधारकों को नवीनीकरण हेतु आवेदन करना आवश्यक है।
       </p>
     </div>
 
-    <!-- Application Process -->
+    <!-- आवेदन प्रक्रिया -->
     <div>
-      <h3 class="text-xl font-semibold text-gray-800 mb-2">How to Apply</h3>
+      <h3 class="text-xl font-semibold text-gray-800 mb-2">आवेदन कैसे करें</h3>
       <ul class="list-disc list-inside text-gray-700 space-y-2">
-        <li>Submit application form to the Nagar Panchayat office.</li>
-        <li>Attach required documents: shop registration, tax receipt, rent agreement (if rented), food license, drug license, MPCB clearance, MSME registration, or relevant license based on business type.</li>
-        <li>Pay applicable licensing fees.</li>
-        <li>License is issued within 7 working days after verification.</li>
+        <li>नगर पंचायत कार्यालय में आवेदन पत्र जमा करें।</li>
+        <li>आवश्यक दस्तावेज़ संलग्न करें: दुकान पंजीकरण, कर रसीद, किरायानामा (यदि किराए पर है), खाद्य लाइसेंस, औषधि लाइसेंस, एमपीसीबी क्लियरेंस, एमएसएमई पंजीकरण या व्यापार के प्रकार के अनुसार अन्य लाइसेंस।</li>
+        <li>लाइसेंस शुल्क का भुगतान करें।</li>
+        <li>सत्यापन के उपरांत 7 कार्यदिवसों के भीतर लाइसेंस जारी किया जाएगा।</li>
       </ul>
     </div>
   </section>
 
-  <!-- CTA Button -->
+  <!-- CTA बटन -->
   <div class="text-center mt-16">
     <a href="#contact" class="inline-flex items-center gap-2 bg-yellow-900 text-white px-8 py-3 rounded-full text-lg font-medium hover:bg-yellow-800 transition-shadow shadow-md">
-      <span class="material-icons notranslate  notranslate">connect_without_contact</span>
-      Contact Village Office
+      <span class="material-icons notranslate">connect_without_contact</span>
+      ग्राम कार्यालय से संपर्क करें
     </a>
   </div>
 </div>

@@ -3,35 +3,35 @@
 
 @include('common.breadcrumb')
 
-<!-- Section Wrapper with Brown Theme -->
+<!-- ब्राउन थीम के साथ सेक्शन रैपर -->
 <div class="gap-6 p-6">
 
-  <!-- Hydraulic Department Section -->
+  <!-- हाइड्रोलिक विभाग अनुभाग -->
   <section class="bg-white rounded-2xl shadow-md p-8 border-t-4 border-yellow-800 mt-6">
     <div class="flex items-center mb-6">
-      <span class="material-icons notranslate  text-yellow-800 text-4xl mr-4">plumbing</span>
-      <h2 class="text-2xl font-bold text-yellow-900">Hydraulic Department – Water Supply Management</h2>
+      <span class="material-icons notranslate text-yellow-800 text-4xl mr-4">plumbing</span>
+      <h2 class="text-2xl font-bold text-yellow-900">हाइड्रोलिक विभाग – जल आपूर्ति प्रबंधन</h2>
     </div>
 
-    <!-- Department Functions -->
+    <!-- विभागीय जिम्मेदारियाँ -->
     <div class="mb-6">
-      <h3 class="text-xl font-semibold text-gray-800 mb-2">Key Responsibilities</h3>
+      <h3 class="text-xl font-semibold text-gray-800 mb-2">मुख्य जिम्मेदारियाँ</h3>
       <ul class="list-disc list-inside text-gray-700 space-y-2">
-        <li>Long-term planning, design, and implementation of water supply schemes based on master plans.</li>
-        <li>Development and expansion of water sources, construction of new water distribution stations, and upgrading of existing water treatment plants, intake wells, underground tanks, and overhead tanks.</li>
-        <li>Designing and laying of transmission and distribution pipelines, procurement and installation of valves, floating of public tenders, and appointment of approved contractors through Nagar Panchayat authorities.</li>
-        <li>Issuance of new licenses and renewal of existing licenses for plumbers.</li>
-        <li>Deployment of water tankers in low-supply areas and response to complaints regarding water quality and quantity through pipeline supply.</li>
-        <li>Maintenance of treatment plants, water distribution stations, valves, and pipelines through departmental staff or authorized private entities.</li>
+        <li>मास्टर प्लान के अनुसार जल आपूर्ति योजनाओं की दीर्घकालिक योजना बनाना, डिजाइन करना और उन्हें लागू करना।</li>
+        <li>जल स्रोतों का विकास और विस्तार, नए जल वितरण केंद्रों का निर्माण, और मौजूदा जल शुद्धिकरण संयंत्रों, इनटेक कुओं, भूमिगत टैंकों एवं ऊँचाई वाले टैंकों का उन्नयन।</li>
+        <li>ट्रांसमिशन और डिस्ट्रीब्यूशन पाइपलाइनों की डिजाइनिंग और बिछाने का कार्य, वाल्वों की खरीद और स्थापना, सार्वजनिक निविदाएं निकालना, तथा नगर पंचायत के माध्यम से स्वीकृत ठेकेदारों की नियुक्ति।</li>
+        <li>प्लंबरों के लिए नए लाइसेंस जारी करना और पुराने लाइसेंसों का नवीनीकरण।</li>
+        <li>कम आपूर्ति वाले क्षेत्रों में पानी के टैंकरों की तैनाती और पाइपलाइन द्वारा आपूर्ति किए जा रहे पानी की गुणवत्ता और मात्रा से संबंधित शिकायतों का समाधान।</li>
+        <li>शुद्धिकरण संयंत्रों, जल वितरण केंद्रों, वाल्वों और पाइपलाइनों का रखरखाव विभागीय कर्मचारियों या अधिकृत निजी एजेंसियों के माध्यम से।</li>
       </ul>
     </div>
   </section>
 
-  <!-- CTA Button -->
+  <!-- CTA बटन -->
   <div class="text-center mt-16">
     <a href="#contact" class="inline-flex items-center gap-2 bg-yellow-900 text-white px-8 py-3 rounded-full text-lg font-medium hover:bg-yellow-800 transition-shadow shadow-md">
-      <span class="material-icons notranslate  notranslate">connect_without_contact</span>
-      Contact Village Office
+      <span class="material-icons notranslate">connect_without_contact</span>
+      ग्राम कार्यालय से संपर्क करें
     </a>
   </div>
 

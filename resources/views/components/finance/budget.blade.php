@@ -3,43 +3,41 @@
 
 @include('common.breadcrumb')
 
-<!-- Section Wrapper with Brown Theme -->
+<!-- ब्राउन थीम के साथ सेक्शन रैपर -->
 <div class="gap-6 p-6">
-<!-- Budget Section -->
+
+<!-- बजट अनुभाग -->
 <section class="bg-white rounded-2xl shadow-md p-8 border-t-4 border-yellow-700 mt-6">
   <div class="flex items-center mb-6">
-    <span class="material-icons notranslate  text-yellow-700 text-4xl mr-4">account_balance_wallet</span>
-    <h2 class="text-2xl font-bold text-yellow-900">Village Budget – Pakadi Bharat Khand, Maharajganj</h2>
+    <span class="material-icons notranslate text-yellow-700 text-4xl mr-4">account_balance_wallet</span>
+    <h2 class="text-2xl font-bold text-yellow-900">ग्राम बजट – पकरडी भारत खंड, महराजगंज</h2>
   </div>
 
-  <!-- Budget Overview -->
+  <!-- बजट का अवलोकन -->
   <div class="mb-4">
-    <h3 class="text-xl font-semibold text-gray-800 mb-2">Estimated Budget (FY 2023–24)</h3>
+    <h3 class="text-xl font-semibold text-gray-800 mb-2">अनुमानित बजट (वित्तीय वर्ष 2023–24)</h3>
     <ul class="list-disc list-inside text-gray-700 space-y-2">
-      <li><strong>Total Budget Allocated:</strong> ₹18,50,000</li>
-      <li><strong>Road Construction:</strong> ₹6,00,000</li>
-      <li><strong>Drainage Projects:</strong> ₹3,50,000</li>
-      <li><strong>Street Lighting:</strong> ₹2,00,000</li>
-      <li><strong>Drinking Water Infrastructure:</strong> ₹3,00,000</li>
-      <li><strong>Sanitation & Cleaning:</strong> ₹2,00,000</li>
-      <li><strong>Miscellaneous Development:</strong> ₹1,00,000</li>
+      <li><strong>कुल आवंटित बजट:</strong> ₹18,50,000</li>
+      <li><strong>सड़क निर्माण:</strong> ₹6,00,000</li>
+      <li><strong>जल निकासी परियोजनाएं:</strong> ₹3,50,000</li>
+      <li><strong>सड़क प्रकाश व्यवस्था:</strong> ₹2,00,000</li>
+      <li><strong>पेयजल संरचना:</strong> ₹3,00,000</li>
+      <li><strong>स्वच्छता एवं सफाई:</strong> ₹2,00,000</li>
+      <li><strong>विविध विकास कार्य:</strong> ₹1,00,000</li>
     </ul>
   </div>
 
-  <!-- Source -->
+  <!-- स्रोत -->
   <p class="text-sm text-gray-600 mt-4">
-    *Note: These are sample figures. Please verify with the Nagar Panchayat office or District Planning Board.
+    *नोट: ये आंकड़े केवल उदाहरण के लिए हैं। कृपया सत्यापन के लिए नगर पंचायत कार्यालय या जिला योजना बोर्ड से संपर्क करें।
   </p>
 </section>
 
-  <!-- Vision & Mission Section -->
-
-
-  <!-- CTA Button -->
-  <div class="text-center mt-16">
-    <a href="#contact" class="inline-flex items-center gap-2 bg-yellow-900 text-white px-8 py-3 rounded-full text-lg font-medium hover:bg-yellow-800 transition-shadow shadow-md">
-      <span class="material-icons notranslate  notranslate">connect_without_contact</span>
-      Contact Village Office
-    </a>
-  </div>
+<!-- CTA बटन -->
+<div class="text-center mt-16">
+  <a href="#contact" class="inline-flex items-center gap-2 bg-yellow-900 text-white px-8 py-3 rounded-full text-lg font-medium hover:bg-yellow-800 transition-shadow shadow-md">
+    <span class="material-icons notranslate">connect_without_contact</span>
+    ग्राम कार्यालय से संपर्क करें
+  </a>
+</div>
 </div>

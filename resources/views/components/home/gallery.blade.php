@@ -40,20 +40,20 @@
 <div class="bg-white border border-[#e6c2a2] rounded-lg shadow-md p-6 text-center">
   <!-- Profile Image: 50% Width -->
   <div class="flex justify-center mb-4">
-    <img src="images/user/1.jpeg" alt="Pradhan Profile"
+    <img src="images/about/3.jpeg" alt="Pradhan Profile"
          class="w-1/2 max-w-[300px] h-auto aspect-square rounded-[6px] object-cover shadow-md">
   </div>
 
   <!-- Name & Title -->
-  <h3 class="text-[#5c2e0d] text-[16px] font-bold uppercase tracking-wide mb-1">Mr. Pradhan Kumar</h3>
-  <p class="text-[13px] text-gray-700 font-semibold mb-3">Village Head, Pakdi Gram Panchayat</p>
+  <h3 class="text-[#5c2e0d] text-[16px] font-bold uppercase tracking-wide mb-1">श्री प्रधान अंकित कुमार</h3>
+  <p class="text-[13px] text-gray-700 font-semibold mb-3"> ग्राम प्रधान, पकड़ी ग्राम पंचायत</p>
 
   <!-- Personal Details -->
   <div class="text-[12px] text-gray-600 leading-relaxed space-y-2 text-left px-2">
-    <p><span class="font-bold text-[#5c2e0d]">Tenure:</span> Serving since April 2021</p>
-    <p><span class="font-bold text-[#5c2e0d]">Education:</span> Bachelor of Arts in Rural Development</p>
-    <p><span class="font-bold text-[#5c2e0d]">Contact:</span> +91-9876543210</p>
-    <p><span class="font-bold text-[#5c2e0d]">Email:</span> pradhan.kumar@pakdigram.in</p>
+    <p><span class="font-bold text-[#5c2e0d]">कार्यकाल:</span> अप्रैल 2021 से सेवा में हैं</p>
+    <p><span class="font-bold text-[#5c2e0d]">शिक्षा:</span>  ग्रामीण विकास में स्नातक (बी.ए.)</p>
+    <p><span class="font-bold text-[#5c2e0d]">संपर्क:</span> +91-9876543210</p>
+    <p><span class="font-bold text-[#5c2e0d]">ईमेल:</span> pradhan.kumar@pakdigram.in</p>
   </div>
 
 </div>

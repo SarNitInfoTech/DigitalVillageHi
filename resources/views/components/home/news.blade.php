@@ -16,16 +16,16 @@
 
     <div class="relative h-[80%] overflow-hidden">
       <ul id="marqueeList" class="absolute top-0 left-0 w-full h-[80%] animate-marquee space-y-2 text-[#5c2e0d] text-[12px] p-4 leading-snug">
-        <li class="flex items-center"><span class="material-icons notranslate  text-xs mr-1 notranslate">arrow_right</span><a href="#" class="hover:underline">Gram Sabha meetings scheduled for July 10</a></li>
-        <li class="flex items-center"><span class="material-icons notranslate  text-xs mr-1 notranslate">arrow_right</span><a href="#" class="hover:underline">New Primary Health Center inaugurated</a></li>
-        <li class="flex items-center"><span class="material-icons notranslate  text-xs mr-1 notranslate">arrow_right</span><a href="#" class="hover:underline">Smart Village Initiative launched</a></li>
-        <li class="flex items-center"><span class="material-icons notranslate  text-xs mr-1 notranslate">arrow_right</span><a href="#" class="hover:underline">Digital grievance portal now live</a></li>
+        <li class="flex items-center"><span class="material-icons notranslate  text-xs mr-1 notranslate">arrow_right</span><a href="#" class="hover:underline">ग्राम सभा की बैठकें 10 जुलाई को निर्धारित हैं</a></li>
+        <li class="flex items-center"><span class="material-icons notranslate  text-xs mr-1 notranslate">arrow_right</span><a href="#" class="hover:underline">नया प्राथमिक स्वास्थ्य केंद्र उद्घाटित किया गया</a></li>
+        <li class="flex items-center"><span class="material-icons notranslate  text-xs mr-1 notranslate">arrow_right</span><a href="#" class="hover:underline">स्मार्ट विलेज पहल शुरू की गई</a></li>
+        <li class="flex items-center"><span class="material-icons notranslate  text-xs mr-1 notranslate">arrow_right</span><a href="#" class="hover:underline"> डिजिटल शिकायत पोर्टल अब सक्रिय है</a></li>
       </ul>
     </div>
 
     <div class="p-4 pt-0 flex justify-end">
       <a href="#" class="text-[#5c2e0d] text-[12px] border border-[#5c2e0d] px-4 py-1 rounded hover:bg-[#5c2e0d] hover:text-white transition">
-        READ MORE &gt;
+       और पढ़ें >
       </a>
     </div>
   </div>
@@ -42,16 +42,16 @@
 
     <div class="relative h-[80%] overflow-hidden">
       <ul id="tenderMarqueeList" class="absolute top-0 left-0 w-full h-[80%] animate-marquee space-y-2 text-[#5c2e0d] text-[12px] p-4 leading-snug">
-        <li class="flex items-center"><span class="material-icons notranslate  text-xs mr-1 notranslate">arrow_right</span><a href="#" class="hover:underline">eProcurement notice open till July 30</a></li>
-        <li class="flex items-center"><span class="material-icons notranslate  text-xs mr-1 notranslate">arrow_right</span><a href="#" class="hover:underline">PWD road project tender announced</a></li>
-        <li class="flex items-center"><span class="material-icons notranslate  text-xs mr-1 notranslate">arrow_right</span><a href="#" class="hover:underline">Vendor registration extended</a></li>
-        <li class="flex items-center"><span class="material-icons notranslate  text-xs mr-1 notranslate">arrow_right</span><a href="#" class="hover:underline">Community hall construction bids invited</a></li>
+        <li class="flex items-center"><span class="material-icons notranslate  text-xs mr-1 notranslate">arrow_right</span><a href="#" class="hover:underline">ई-प्रोक्योरमेंट सूचना 30 जुलाई तक खुली है</a></li>
+        <li class="flex items-center"><span class="material-icons notranslate  text-xs mr-1 notranslate">arrow_right</span><a href="#" class="hover:underline">पीडब्ल्यूडी सड़क परियोजना का टेंडर घोषित किया गया</a></li>
+        <li class="flex items-center"><span class="material-icons notranslate  text-xs mr-1 notranslate">arrow_right</span><a href="#" class="hover:underline">विक्रेता पंजीकरण की अवधि बढ़ाई गई</a></li>
+        <li class="flex items-center"><span class="material-icons notranslate  text-xs mr-1 notranslate">arrow_right</span><a href="#" class="hover:underline">सामुदायिक भवन निर्माण के लिए निविदाएं आमंत्रित की गईं</a></li>
       </ul>
     </div>
 
     <div class="p-4 pt-0 flex justify-end">
       <a href="#" class="text-[#5c2e0d] text-[12px] border border-[#5c2e0d] px-4 py-1 rounded hover:bg-[#5c2e0d] hover:text-white transition">
-        READ MORE &gt;
+       और पढ़ें >
       </a>
     </div>
   </div>
@@ -68,7 +68,7 @@
     <div class="bg-[#faf8f5] hover:bg-[#f2ece5] border border-[#e6c2a2] rounded-xl p-4 shadow-sm transition-all duration-200 hover:shadow-md">
       <a href="#" class="text-[#5c2e0d] text-[12px] font-semibold flex items-center gap-2">
         <span class="material-icons notranslate  text-sm notranslate">arrow_right</span>
-        District Helpline
+        जिला हेल्पलाइन
       </a>
     </div>
 
@@ -76,7 +76,7 @@
     <div class="bg-[#faf8f5] hover:bg-[#f2ece5] border border-[#e6c2a2] rounded-xl p-4 shadow-sm transition-all duration-200 hover:shadow-md">
       <a href="#" class="text-[#5c2e0d] text-[12px] font-semibold flex items-center gap-2">
         <span class="material-icons notranslate  text-sm notranslate">arrow_right</span>
-        Grievance Redressal Portal
+         शिकायत निवारण पोर्टल
       </a>
     </div>
 
@@ -84,7 +84,7 @@
     <div class="bg-[#faf8f5] hover:bg-[#f2ece5] border border-[#e6c2a2] rounded-xl p-4 shadow-sm transition-all duration-200 hover:shadow-md">
       <a href="#" class="text-[#5c2e0d] text-[12px] font-semibold flex items-center gap-2">
         <span class="material-icons notranslate  text-sm notranslate">arrow_right</span>
-        Digital Certificate Services
+         डिजिटल प्रमाणपत्र सेवाएं
       </a>
     </div>
 
@@ -92,7 +92,7 @@
     <div class="bg-[#faf8f5] hover:bg-[#f2ece5] border border-[#e6c2a2] rounded-xl p-4 shadow-sm transition-all duration-200 hover:shadow-md">
       <a href="#" class="text-[#5c2e0d] text-[12px] font-semibold flex items-center gap-2">
         <span class="material-icons notranslate  text-sm notranslate">arrow_right</span>
-        Ayushman Bharat Info
+        आयुष्मान भारत जानकारी
       </a>
     </div>
   </div>
@@ -103,7 +103,7 @@
  <div class="bg-white border border-[#e6c2a2] p-5 rounded-xl shadow-md">
   <h3 class="text-[12px] font-semibold text-[#5c2e0d] mb-4 flex items-center gap-2 uppercase tracking-wide">
     <span class="material-icons notranslate  text-[18px]">map</span>
-    Location Map
+     स्थान मानचित्र
   </h3>
 
   <div class="rounded-lg overflow-hidden shadow-inner">
@@ -120,7 +120,7 @@
 
   <p class="text-[12px] text-right text-[#5c2e0d] mt-2">
     <a href="https://maps.app.goo.gl/ECTsCsPDRDoGmcUm9" style="color: #5c2e0d; font-weight: bold;" target="_blank" class="hover:underline">
-      Open in Google Maps
+       गूगल मैप्स में खोलें
     </a>
   </p>
 </div>

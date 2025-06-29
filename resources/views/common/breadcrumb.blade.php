@@ -3,10 +3,10 @@
         <div id="breadcam" role="navigation" aria-label="breadcrumb">
             <ul class="breadcrumbs" style="list-style: none; display: flex; gap: 5px; padding: 0; margin: 0;">
                 <li>
-                    <a href="{{ url('/') }}" class="home"><span class="text-bold">Home</span></a>
+                    <a href="{{ url('/') }}" class="home"><span class="text-bold">मुखपृष्ठ</span></a>
                 </li>
                 <li class="current text-bold">
-                    {{ $breadcrumbTitle ?? 'Page Title' }}
+                    {{ $breadcrumbTitle ?? 'पृष्ठ शीर्षक' }}
                 </li>
             </ul>
         </div>
@@ -15,27 +15,27 @@
         <div class="printShare">
             <ul style="list-style: none; display: flex; gap: 8px; padding: 0; margin: 0;">
                 <li>
-                    <a href="#" onclick="window.print();" id="print" title="Print Page Content" aria-label="Print Page Content">
-                        <span class="icon-printer"></span> <span class="off-css">Print</span>
+                    <a href="#" onclick="window.print();" id="print" title="पृष्ठ सामग्री प्रिंट करें" aria-label="पृष्ठ सामग्री प्रिंट करें">
+                        <span class="icon-printer"></span> <span class="off-css">प्रिंट</span>
                     </a>
                 </li>
                 <li>
                     <span class="share-text">
-                        <em class="icon-share"></em><span class="off-css">Share</span>
+                        <em class="icon-share"></em><span class="off-css">साझा करें</span>
                     </span>
                 </li>
                 <li>
-                    <a href="https://www.facebook.com/sharer/sharer.php?u={{ urlencode(Request::url()) }}&amp;t={{ urlencode($breadcrumbTitle ?? 'Page Title') }}"
+                    <a href="https://www.facebook.com/sharer/sharer.php?u={{ urlencode(Request::url()) }}&amp;t={{ urlencode($breadcrumbTitle ?? 'पृष्ठ शीर्षक') }}"
                        onclick="window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=300,width=600');return false;"
-                       target="_blank" title="Share on Facebook" aria-label="Facebook that opens in a new window" rel="noopener noreferrer">
-                        <span class="icon-facebook"></span><span class="off-css">Facebook</span>
+                       target="_blank" title="फेसबुक पर साझा करें" aria-label="फेसबुक पर साझा करें (नई विंडो में खुलेगा)" rel="noopener noreferrer">
+                        <span class="icon-facebook"></span><span class="off-css">फेसबुक</span>
                     </a>
                 </li>
                 <li>
-                    <a href="https://twitter.com/share?url={{ urlencode(Request::url()) }}&amp;via=TWITTER_HANDLE&amp;text={{ urlencode($breadcrumbTitle ?? 'Page Title') }}"
+                    <a href="https://twitter.com/share?url={{ urlencode(Request::url()) }}&amp;via=TWITTER_HANDLE&amp;text={{ urlencode($breadcrumbTitle ?? 'पृष्ठ शीर्षक') }}"
                        onclick="window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=300,width=600');return false;"
-                       target="_blank" title="Share on Twitter" aria-label="Twitter that opens in a new window" rel="noopener noreferrer">
-                        <span class="icon-twitter"></span><span class="off-css">Twitter</span>
+                       target="_blank" title="ट्विटर पर साझा करें" aria-label="ट्विटर पर साझा करें (नई विंडो में खुलेगा)" rel="noopener noreferrer">
+                        <span class="icon-twitter"></span><span class="off-css">ट्विटर</span>
                     </a>
                 </li>
             </ul>

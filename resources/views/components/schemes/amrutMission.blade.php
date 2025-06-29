@@ -3,71 +3,71 @@
 
 @include('common.breadcrumb')
 
-<!-- Section Wrapper with Brown Theme -->
+<!-- ब्राउन थीम के साथ सेक्शन रैपर -->
 <div class="gap-6 p-6">
 
-  <!-- Amrit Mission Section -->
+  <!-- अमृत मिशन अनुभाग -->
   <section class="bg-white rounded-2xl shadow-md p-8 border-t-4 border-yellow-800 mt-6">
     <div class="flex items-center mb-6">
-      <span class="material-icons notranslate  text-yellow-800 text-4xl mr-4">water_drop</span>
-      <h2 class="text-2xl font-bold text-yellow-900">Amrit Mission – Urban Transformation</h2>
+      <span class="material-icons notranslate text-yellow-800 text-4xl mr-4">water_drop</span>
+      <h2 class="text-2xl font-bold text-yellow-900">अमृत मिशन – शहरी परिवर्तन</h2>
     </div>
 
-    <!-- Mission Overview -->
+    <!-- मिशन अवलोकन -->
     <div class="mb-6">
       <p class="text-gray-700">
-        The Atal Mission for Rejuvenation and Urban Transformation (AMRUT) focuses on providing essential urban services such as water supply, sewage, storm water drainage, and urban transport to improve the quality of life, especially for the poor and differently-abled residents of Pakadi Bharat Khand.
+        अटल मिशन फॉर रीजुवेनेशन एंड अर्बन ट्रांसफॉर्मेशन (AMRUT) का उद्देश्य पकरडी भारत खंड के निवासियों, विशेषकर गरीबों और दिव्यांगजनों की जीवन गुणवत्ता में सुधार लाने के लिए जल आपूर्ति, सीवरेज, वर्षा जल निकासी और शहरी परिवहन जैसी आवश्यक शहरी सेवाएं प्रदान करना है।
       </p>
     </div>
 
-    <!-- Key Components -->
+    <!-- मुख्य घटक -->
     <div class="mb-6">
-      <h3 class="text-xl font-semibold text-gray-800 mb-2">Core Elements of AMRUT Mission</h3>
+      <h3 class="text-xl font-semibold text-gray-800 mb-2">अमृत मिशन के प्रमुख घटक</h3>
 
-      <h4 class="font-medium text-gray-800 mt-4">1. Water Supply</h4>
+      <h4 class="font-medium text-gray-800 mt-4">1. जल आपूर्ति</h4>
       <ul class="list-disc list-inside text-gray-700 space-y-1">
-        <li>Construction and maintenance of water supply systems</li>
-        <li>Rehabilitation of old water pipelines and treatment plants</li>
-        <li>Revival of traditional water bodies</li>
-        <li>Special water arrangements for remote areas</li>
+        <li>जल आपूर्ति प्रणालियों का निर्माण एवं रखरखाव</li>
+        <li>पुरानी पाइपलाइनों और जल शोधन संयंत्रों का पुनर्वास</li>
+        <li>पारंपरिक जल स्रोतों का पुनरुद्धार</li>
+        <li>दूरस्थ क्षेत्रों के लिए विशेष जल आपूर्ति व्यवस्था</li>
       </ul>
 
-      <h4 class="font-medium text-gray-800 mt-4">2. Sewerage Facilities</h4>
+      <h4 class="font-medium text-gray-800 mt-4">2. सीवरेज सुविधाएं</h4>
       <ul class="list-disc list-inside text-gray-700 space-y-1">
-        <li>Construction and maintenance of underground sewage systems</li>
-        <li>Rehabilitation of outdated sewer lines and treatment plants</li>
-        <li>Reuse and recycling of wastewater</li>
+        <li>भूमिगत सीवरेज प्रणालियों का निर्माण और रखरखाव</li>
+        <li>पुरानी सीवर लाइनों और शोधन संयंत्रों का पुनर्वास</li>
+        <li>गंदे पानी का पुन: उपयोग और पुनर्चक्रण</li>
       </ul>
 
-      <h4 class="font-medium text-gray-800 mt-4">3. Septage Management</h4>
+      <h4 class="font-medium text-gray-800 mt-4">3. सेप्टेज प्रबंधन</h4>
       <ul class="list-disc list-inside text-gray-700 space-y-1">
-        <li>Scientific and mechanical cleaning of septic tanks and drains</li>
+        <li>सेप्टिक टैंकों और नालियों की वैज्ञानिक व यांत्रिक सफाई</li>
       </ul>
 
-      <h4 class="font-medium text-gray-800 mt-4">4. Storm Water Drainage</h4>
+      <h4 class="font-medium text-gray-800 mt-4">4. वर्षा जल निकासी</h4>
       <ul class="list-disc list-inside text-gray-700 space-y-1">
-        <li>Effective stormwater drainage systems to prevent urban flooding</li>
+        <li>शहरी बाढ़ को रोकने के लिए प्रभावी वर्षा जल निकासी प्रणाली</li>
       </ul>
 
-      <h4 class="font-medium text-gray-800 mt-4">5. Urban Transport</h4>
+      <h4 class="font-medium text-gray-800 mt-4">5. शहरी परिवहन</h4>
       <ul class="list-disc list-inside text-gray-700 space-y-1">
-        <li>Development of footpaths and non-motorized transport infrastructure</li>
-        <li>Construction of multi-level parking facilities</li>
-        <li>Setup of Bus Rapid Transport Systems (BRTS)</li>
+        <li>फुटपाथ और गैर-मोटर चालित यातायात ढांचे का विकास</li>
+        <li>मल्टी-लेवल पार्किंग सुविधाओं का निर्माण</li>
+        <li>बस रैपिड ट्रांजिट सिस्टम (BRTS) की स्थापना</li>
       </ul>
 
-      <h4 class="font-medium text-gray-800 mt-4">6. Support Services</h4>
+      <h4 class="font-medium text-gray-800 mt-4">6. सहायक सेवाएं</h4>
       <ul class="list-disc list-inside text-gray-700 space-y-1">
-        <li>Integration with services like telecommunication, health, and education</li>
+        <li>दूरसंचार, स्वास्थ्य और शिक्षा जैसी सेवाओं के साथ एकीकरण</li>
       </ul>
     </div>
   </section>
 
-  <!-- CTA Button -->
+  <!-- CTA बटन -->
   <div class="text-center mt-16">
     <a href="#contact" class="inline-flex items-center gap-2 bg-yellow-900 text-white px-8 py-3 rounded-full text-lg font-medium hover:bg-yellow-800 transition-shadow shadow-md">
-      <span class="material-icons notranslate  notranslate">connect_without_contact</span>
-      Contact Village Office
+      <span class="material-icons notranslate">connect_without_contact</span>
+      ग्राम कार्यालय से संपर्क करें
     </a>
   </div>
 </div>

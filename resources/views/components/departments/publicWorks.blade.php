@@ -10,15 +10,15 @@
   <section class="bg-white rounded-2xl shadow-md p-8 border-t-4 border-yellow-800">
     <div class="flex items-center mb-6">
       <span class="material-icons notranslate  text-yellow-800 text-4xl mr-4">engineering</span>
-      <h2 class="text-2xl font-bold text-yellow-900">Public Works Department – Key Activities</h2>
+      <h2 class="text-2xl font-bold text-yellow-900"> लोक निर्माण विभाग – मुख्य गतिविधियां</h2>
     </div>
     <ul class="list-disc list-inside text-gray-700 space-y-3">
-      <li><strong>Road Construction & Connectivity:</strong> Building new village roads and link roads to nearby areas.</li>
-      <li><strong>Repair & Maintenance:</strong> Regular patch repair, pothole filling, and CC road/interlocking upkeep.</li>
-      <li><strong>Drainage Construction:</strong> Covered and open slope drains to prevent waterlogging.</li>
-      <li><strong>Bridge & Culvert Work:</strong> Small bridges and culverts for seasonal water crossings.</li>
-      <li><strong>Footpath Development:</strong> Brick and tile walkways to schools, markets, and community spaces.</li>
-      <li><strong>Public Utilities:</strong> Street lighting, signage boards, and road shoulder strengthening.</li>
+      <li><strong>सड़क निर्माण एवं संपर्क सुविधा:</strong> आसपास के क्षेत्रों से जोड़ने वाली नई गांव की सड़कों और संपर्क मार्गों का निर्माण।.</li>
+      <li><strong>मरम्मत और रखरखाव:</strong> नियमित पैच मरम्मत, गड्ढों को भरना, तथा सीसी सड़क/इंटरलॉकिंग का रखरखाव।.</li>
+      <li><strong>नाली निर्माण:</strong> जलभराव रोकने के लिए ढंकी और खुली ढालू नालियों का निर्माण।.</li>
+      <li><strong> पुल एवं पुलिया कार्य:</strong> मौसमी जल प्रवाह को पार करने हेतु छोटे पुल और पुलियों का निर्माण।.</li>
+      <li><strong>पैदल पथ का विकास:</strong>स्कूलों, बाजारों और सामुदायिक स्थलों तक ईंट और टाइलों के पैदल मार्गों का निर्माण।.</li>
+      <li><strong>सार्वजनिक उपयोगिताएं:</strong>सड़क प्रकाश व्यवस्था, संकेतक बोर्डों की स्थापना, और सड़क किनारे की मजबूतीकरण।.</li>
     </ul>
   </section>
 
@@ -26,47 +26,48 @@
   <section class="bg-gray-50 rounded-2xl shadow-md p-8 border-l-4 border-yellow-700 mt-10">
     <div class="flex items-center mb-6">
       <span class="material-icons notranslate  text-yellow-700 text-3xl mr-3">task_alt</span>
-      <h3 class="text-xl font-semibold text-yellow-800">Suggested Work Plan for Pakadi Bharat Khand</h3>
+      <h3 class="text-xl font-semibold text-yellow-800">पकड़ी भारत खंड के लिए प्रस्तावित कार्य योजना</h3>
     </div>
     <div class="overflow-x-auto">
       <table class="min-w-full text-left text-gray-700 border border-gray-200">
         <thead class="bg-yellow-100 text-yellow-900">
           <tr>
-            <th class="px-4 py-2 border">S. No.</th>
-            <th class="px-4 py-2 border">Activity</th>
-            <th class="px-4 py-2 border">Description</th>
+            <th class="px-4 py-2 border">क्रम संख्या</th>
+            <th class="px-4 py-2 border">गतिविधि</th>
+            <th class="px-4 py-2 border"> विवरण</th>
           </tr>
         </thead>
         <tbody class="bg-white">
           <tr class="hover:bg-yellow-50">
             <td class="px-4 py-2 border">1</td>
-            <td class="px-4 py-2 border">Road Construction & Widening</td>
-            <td class="px-4 py-2 border">Connecting the village to main block roads.</td>
+            <td class="px-4 py-2 border">सड़क निर्माण एवं चौड़ीकरण</td>
+            <td class="px-4 py-2 border">गांव को मुख्य ब्लॉक सड़कों से जोड़ना</td>
           </tr>
           <tr class="hover:bg-yellow-50">
             <td class="px-4 py-2 border">2</td>
-            <td class="px-4 py-2 border">Local Repairs</td>
-            <td class="px-4 py-2 border">Patch repair, pothole filling, interlocking, CC work.</td>
+            <td class="px-4 py-2 border">स्थानीय मरम्मत कार्य</td>
+            <td class="px-4 py-2 border">पैच मरम्मत, गड्ढों को भरना, इंटरलॉकिंग, सीसी कार्य।
+.</td>
           </tr>
           <tr class="hover:bg-yellow-50">
             <td class="px-4 py-2 border">3</td>
-            <td class="px-4 py-2 border">Drainage Improvements</td>
-            <td class="px-4 py-2 border">Open and covered drains to manage stormwater.</td>
+            <td class="px-4 py-2 border"> नाली सुधार कार्य</td>
+            <td class="px-4 py-2 border">बारिश के पानी के प्रबंधन हेतु खुली और ढंकी नालियों का निर्माण।</td>
           </tr>
           <tr class="hover:bg-yellow-50">
             <td class="px-4 py-2 border">4</td>
-            <td class="px-4 py-2 border">Culvert & Bridge Works</td>
-            <td class="px-4 py-2 border">Safe crossings over seasonal streams and water channels.</td>
+            <td class="px-4 py-2 border">पुलिया एवं पुल निर्माण कार्य</td>
+            <td class="px-4 py-2 border">मौसमी नालों और जल धाराओं पर सुरक्षित पार मार्गों का निर्माण।</td>
           </tr>
           <tr class="hover:bg-yellow-50">
             <td class="px-4 py-2 border">5</td>
-            <td class="px-4 py-2 border">Footpath Development</td>
-            <td class="px-4 py-2 border">Walkways for access to schools, temples, and markets.</td>
+            <td class="px-4 py-2 border">पैदल पथ का विकास</td>
+            <td class="px-4 py-2 border">स्कूलों, मंदिरों और बाजारों तक पहुंच के लिए पैदल मार्गों का निर्माण।.</td>
           </tr>
           <tr class="hover:bg-yellow-50">
             <td class="px-4 py-2 border">6</td>
-            <td class="px-4 py-2 border">Utility Upgrades</td>
-            <td class="px-4 py-2 border">Lighting, signage, and road shoulder strengthening.</td>
+            <td class="px-4 py-2 border">उपयोगिता उन्नयन</td>
+            <td class="px-4 py-2 border">प्रकाश व्यवस्था, संकेतक बोर्ड, और सड़क किनारों का सुदृढ़ीकरण।.</td>
           </tr>
         </tbody>
       </table>

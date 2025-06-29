@@ -3,53 +3,53 @@
 
 @include('common.breadcrumb')
 
-<!-- Section Wrapper with Brown Theme -->
+<!-- ब्राउन थीम के साथ सेक्शन रैपर -->
 <div class="gap-6 p-6">
 
-  <!-- Town Development Department Section -->
+  <!-- नगर विकास विभाग अनुभाग -->
   <section class="bg-white rounded-2xl shadow-md p-8 border-t-4 border-yellow-800 mt-6">
     <div class="flex items-center mb-6">
-      <span class="material-icons notranslate  text-yellow-800 text-4xl mr-4">apartment</span>
-      <h2 class="text-2xl font-bold text-yellow-900">Town Development Department – Functions</h2>
+      <span class="material-icons notranslate text-yellow-800 text-4xl mr-4">apartment</span>
+      <h2 class="text-2xl font-bold text-yellow-900">नगर विकास विभाग – कार्य</h2>
     </div>
 
-    <!-- Introduction -->
+    <!-- परिचय -->
     <div class="mb-6">
-      <h3 class="text-xl font-semibold text-gray-800 mb-2">Introduction</h3>
+      <h3 class="text-xl font-semibold text-gray-800 mb-2">परिचय</h3>
       <p class="text-gray-700">
-        The Town Development Department is responsible for the regulation, supervision, and structured development of town-level infrastructure and construction within Pakadi Bharat Khand, Maharajganj.
+        नगर विकास विभाग, पकरडी भारत खंड (महराजगंज) में नगर स्तर के बुनियादी ढांचे और निर्माण की निगरानी, नियमन और संरचित विकास के लिए जिम्मेदार है।
       </p>
     </div>
 
-    <!-- Centralized Functions -->
+    <!-- केंद्रीकृत कार्य -->
     <div class="mb-6">
-      <h3 class="text-xl font-semibold text-gray-800 mb-2">Centralized Functions</h3>
+      <h3 class="text-xl font-semibold text-gray-800 mb-2">केंद्रीकृत कार्य</h3>
       <ul class="list-disc list-inside text-gray-700 space-y-2">
-        <li>Permission for high-rise and commercial layout development</li>
-        <li>Supervision of high-rise and commercial buildings</li>
-        <li>Permission for hoardings on private properties</li>
-        <li>Registration of architects, engineers, and structural designers as per DCR (Development Control Regulations)</li>
-        <li>Formulation of policies related to the department</li>
+        <li>ऊँची इमारतों और वाणिज्यिक लेआउट के विकास की अनुमति देना</li>
+        <li>ऊँची इमारतों और वाणिज्यिक भवनों की निगरानी</li>
+        <li>निजी संपत्तियों पर होर्डिंग्स की अनुमति देना</li>
+        <li>विकास नियंत्रण विनियम (DCR) के अनुसार वास्तुविदों, अभियंताओं और संरचनात्मक डिजाइनरों का पंजीकरण</li>
+        <li>विभाग से संबंधित नीतियों का निर्माण</li>
       </ul>
     </div>
 
-    <!-- Decentralized Functions -->
+    <!-- विकेंद्रीकृत कार्य -->
     <div>
-      <h3 class="text-xl font-semibold text-gray-800 mb-2">Decentralized Functions</h3>
+      <h3 class="text-xl font-semibold text-gray-800 mb-2">विकेंद्रीकृत कार्य</h3>
       <ul class="list-disc list-inside text-gray-700 space-y-2">
-        <li>Permission for development of low-rise non-commercial buildings</li>
-        <li>Supervision of all development activities other than high-rise or commercial buildings</li>
-        <li>Approvals for temporary structures in fairs, exhibitions, etc.</li>
-        <li>Permissions related to telecommunication towers</li>
+        <li>कम ऊँचाई वाले गैर-वाणिज्यिक भवनों के विकास की अनुमति देना</li>
+        <li>ऊँची या वाणिज्यिक इमारतों के अलावा सभी विकास गतिविधियों की निगरानी</li>
+        <li>मेलों, प्रदर्शनों आदि में अस्थायी ढांचों की स्वीकृति</li>
+        <li>दूरसंचार टावरों से संबंधित अनुमतियाँ</li>
       </ul>
     </div>
   </section>
 
-  <!-- CTA Button -->
+  <!-- CTA बटन -->
   <div class="text-center mt-16">
     <a href="#contact" class="inline-flex items-center gap-2 bg-yellow-900 text-white px-8 py-3 rounded-full text-lg font-medium hover:bg-yellow-800 transition-shadow shadow-md">
-      <span class="material-icons notranslate  notranslate">connect_without_contact</span>
-      Contact Village Office
+      <span class="material-icons notranslate">connect_without_contact</span>
+      ग्राम कार्यालय से संपर्क करें
     </a>
   </div>
 

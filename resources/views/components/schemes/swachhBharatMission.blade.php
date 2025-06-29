@@ -3,52 +3,52 @@
 
 @include('common.breadcrumb')
 
-<!-- Section Wrapper with Brown Theme -->
+<!-- ब्राउन थीम के साथ सेक्शन रैपर -->
 <div class="gap-6 p-6">
 
-  <!-- Swachh Bharat Mission Section -->
+  <!-- स्वच्छ भारत मिशन अनुभाग -->
   <section class="bg-white rounded-2xl shadow-md p-8 border-t-4 border-yellow-800 mt-6">
     <div class="flex items-center mb-6">
-      <span class="material-icons notranslate  text-yellow-800 text-4xl mr-4">clean_hands</span>
-      <h2 class="text-2xl font-bold text-yellow-900">Swachh Bharat Mission – Clean India Initiative</h2>
+      <span class="material-icons notranslate text-yellow-800 text-4xl mr-4">clean_hands</span>
+      <h2 class="text-2xl font-bold text-yellow-900">स्वच्छ भारत मिशन – स्वच्छ भारत अभियान</h2>
     </div>
 
-    <!-- Mission Overview -->
+    <!-- मिशन अवलोकन -->
     <div class="mb-6">
       <p class="text-gray-700">
-        With India's rapidly growing population, access to basic sanitation and sewage infrastructure has become a challenge. Improper sanitation systems have contributed to water pollution and disease outbreaks. To address this, the Ministry of Drinking Water and Sanitation and the Ministry of Urban Development launched the Swachh Bharat Mission with the aim of achieving nationwide sanitation and waste management by October 2, 2019.
+        भारत की तेजी से बढ़ती जनसंख्या के कारण बुनियादी स्वच्छता और सीवेज अवसंरचना तक पहुंच एक बड़ी चुनौती बन गई है। असंगठित स्वच्छता प्रणाली के कारण जल प्रदूषण और बीमारियों का प्रसार हुआ है। इस समस्या को हल करने के लिए पेयजल एवं स्वच्छता मंत्रालय तथा शहरी विकास मंत्रालय ने मिलकर स्वच्छ भारत मिशन की शुरुआत की, जिसका लक्ष्य 2 अक्टूबर 2019 तक देशव्यापी स्वच्छता और कचरा प्रबंधन प्राप्त करना था।
       </p>
     </div>
 
-    <!-- Objectives -->
+    <!-- उद्देश्य -->
     <div class="mb-6">
-      <h3 class="text-xl font-semibold text-gray-800 mb-2">Mission Objectives</h3>
+      <h3 class="text-xl font-semibold text-gray-800 mb-2">मिशन के उद्देश्य</h3>
       <ul class="list-disc list-inside text-gray-700 space-y-2">
-        <li>Eliminate open defecation</li>
-        <li>Abolish manual scavenging</li>
-        <li>Implement modern scientific solid waste management</li>
-        <li>Encourage behavioral change towards healthy sanitation practices</li>
-        <li>Raise awareness on health and hygiene</li>
+        <li>खुले में शौच की प्रथा को समाप्त करना</li>
+        <li>मानव द्वारा मल सफाई (मैनुअल स्कैवेंजिंग) को समाप्त करना</li>
+        <li>आधुनिक और वैज्ञानिक ठोस कचरा प्रबंधन को लागू करना</li>
+        <li>स्वच्छता के प्रति व्यवहार में बदलाव लाना</li>
+        <li>स्वास्थ्य और स्वच्छता के प्रति जागरूकता बढ़ाना</li>
       </ul>
     </div>
 
-    <!-- Key Components -->
+    <!-- प्रमुख घटक -->
     <div>
-      <h3 class="text-xl font-semibold text-gray-800 mb-2">Key Components</h3>
+      <h3 class="text-xl font-semibold text-gray-800 mb-2">प्रमुख घटक</h3>
       <ul class="list-disc list-inside text-gray-700 space-y-2">
-        <li>Construction of household toilets</li>
-        <li>Construction and maintenance of public toilets</li>
-        <li>Solid Waste Management (SWM)</li>
-        <li>Information, Education & Communication (IEC) and public awareness campaigns</li>
+        <li>घरेलू शौचालयों का निर्माण</li>
+        <li>सार्वजनिक शौचालयों का निर्माण एवं रख-रखाव</li>
+        <li>ठोस कचरा प्रबंधन (Solid Waste Management - SWM)</li>
+        <li>सूचना, शिक्षा और संचार (IEC) एवं जन जागरूकता अभियान</li>
       </ul>
     </div>
   </section>
 
-  <!-- CTA Button -->
+  <!-- CTA बटन -->
   <div class="text-center mt-16">
     <a href="#contact" class="inline-flex items-center gap-2 bg-yellow-900 text-white px-8 py-3 rounded-full text-lg font-medium hover:bg-yellow-800 transition-shadow shadow-md">
-      <span class="material-icons notranslate  notranslate">connect_without_contact</span>
-      Contact Village Office
+      <span class="material-icons notranslate">connect_without_contact</span>
+      ग्राम कार्यालय से संपर्क करें
     </a>
   </div>
 </div>

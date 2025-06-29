@@ -1,7 +1,7 @@
 @extends('layouts.layout')
 @section('bodyContent')
 
-@include('components.about.about.aboutSection')
+@include('components.about.about.aboutVillage')
  
                   
 

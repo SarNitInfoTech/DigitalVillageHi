@@ -3,77 +3,77 @@
 
 @include('common.breadcrumb')
 
-<!-- Section Wrapper with Brown Theme -->
+<!-- ब्राउन थीम के साथ सेक्शन रैपर -->
 <div class="gap-6 p-6">
 
-  <!-- Town Planning Department Section -->
+  <!-- नगर नियोजन विभाग अनुभाग -->
   <section class="bg-white rounded-2xl shadow-md p-8 border-t-4 border-yellow-700 mt-6">
     <div class="flex items-center mb-6">
-      <span class="material-icons notranslate  text-yellow-700 text-4xl mr-4">location_city</span>
-      <h2 class="text-2xl font-bold text-yellow-900">Town Planning Department – Key Functions</h2>
+      <span class="material-icons notranslate text-yellow-700 text-4xl mr-4">location_city</span>
+      <h2 class="text-2xl font-bold text-yellow-900">नगर नियोजन विभाग – प्रमुख कार्य</h2>
     </div>
 
-    <!-- Section 1: Local Planning -->
+    <!-- अनुभाग 1: स्थानीय योजना -->
     <div class="mb-6">
-      <h3 class="text-xl font-semibold text-gray-800 mb-2">1. Local Planning of Nagar Panchayat</h3>
+      <h3 class="text-xl font-semibold text-gray-800 mb-2">1. नगर पंचायत की स्थानीय योजना</h3>
       <ul class="list-disc list-inside text-gray-700 space-y-2">
-        <li>Development planning</li>
-        <li>Physical and strategic plans</li>
-        <li>Micro-level town planning initiatives</li>
+        <li>विकास योजना तैयार करना</li>
+        <li>भौतिक और रणनीतिक योजनाएं</li>
+        <li>सूक्ष्म-स्तरीय नगर नियोजन पहल</li>
       </ul>
     </div>
 
-    <!-- Section 2: Land Acquisition -->
+    <!-- अनुभाग 2: भूमि अधिग्रहण -->
     <div class="mb-6">
-      <h3 class="text-xl font-semibold text-gray-800 mb-2">2. Land Acquisition</h3>
+      <h3 class="text-xl font-semibold text-gray-800 mb-2">2. भूमि अधिग्रहण</h3>
       <ul class="list-disc list-inside text-gray-700 space-y-2">
-        <li>For public purposes</li>
-        <li>For road widening</li>
-        <li>Improvement charges</li>
-        <li>Rehabilitation</li>
+        <li>सार्वजनिक कार्यों हेतु</li>
+        <li>सड़कों को चौड़ा करने हेतु</li>
+        <li>सुधार शुल्क</li>
+        <li>पुनर्वास</li>
       </ul>
     </div>
 
-    <!-- Section 3: Alignment and Allocation -->
+    <!-- अनुभाग 3: संरेखण और आवंटन -->
     <div class="mb-6">
-      <h3 class="text-xl font-semibold text-gray-800 mb-2">3. Alignment and Allocation</h3>
+      <h3 class="text-xl font-semibold text-gray-800 mb-2">3. संरेखण और आवंटन</h3>
       <ul class="list-disc list-inside text-gray-700 space-y-2">
-        <li>Road realignment and widening</li>
-        <li>Land and property settlement</li>
-        <li>Land development</li>
-        <li>Allotment of housing, shops, and offices</li>
-        <li>Management of rentals and utility areas (e.g., parking)</li>
-        <li>Advertisement rights</li>
+        <li>सड़कों का पुनः संरेखण और चौड़ीकरण</li>
+        <li>भूमि और संपत्ति का निपटारा</li>
+        <li>भूमि विकास</li>
+        <li>आवास, दुकान और कार्यालय का आवंटन</li>
+        <li>किराए और उपयोग क्षेत्र (जैसे पार्किंग) का प्रबंधन</li>
+        <li>विज्ञापन अधिकारों का प्रबंधन</li>
       </ul>
     </div>
 
-    <!-- Section 4: Development Control -->
+    <!-- अनुभाग 4: विकास नियंत्रण -->
     <div class="mb-6">
-      <h3 class="text-xl font-semibold text-gray-800 mb-2">4. Development Control</h3>
+      <h3 class="text-xl font-semibold text-gray-800 mb-2">4. विकास नियंत्रण</h3>
       <ul class="list-disc list-inside text-gray-700 space-y-2">
-        <li>Land and property regulation</li>
-        <li>Hoarding control</li>
-        <li>Encroachment removal</li>
-        <li>Collection of fees and charges</li>
-        <li>Designated hawking zones</li>
+        <li>भूमि और संपत्ति का विनियमन</li>
+        <li>होर्डिंग नियंत्रण</li>
+        <li>अवैध अतिक्रमण हटाना</li>
+        <li>शुल्क और कर संग्रह</li>
+        <li>निर्धारित ठेला जोन</li>
       </ul>
     </div>
 
-    <!-- Section 5: Special Projects -->
+    <!-- अनुभाग 5: विशेष परियोजनाएं -->
     <div>
-      <h3 class="text-xl font-semibold text-gray-800 mb-2">5. Special Projects</h3>
+      <h3 class="text-xl font-semibold text-gray-800 mb-2">5. विशेष परियोजनाएं</h3>
       <ul class="list-disc list-inside text-gray-700 space-y-2">
-        <li>Integrated road design</li>
-        <li>Architectural and building design</li>
+        <li>समेकित सड़क डिज़ाइन</li>
+        <li>वास्तुकला और भवन डिज़ाइन</li>
       </ul>
     </div>
   </section>
 
-  <!-- CTA Button -->
+  <!-- CTA बटन -->
   <div class="text-center mt-16">
     <a href="#contact" class="inline-flex items-center gap-2 bg-yellow-900 text-white px-8 py-3 rounded-full text-lg font-medium hover:bg-yellow-800 transition-shadow shadow-md">
-      <span class="material-icons notranslate  notranslate">connect_without_contact</span>
-      Contact Village Office
+      <span class="material-icons notranslate">connect_without_contact</span>
+      ग्राम कार्यालय से संपर्क करें
     </a>
   </div>
 

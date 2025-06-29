@@ -71,29 +71,37 @@
 <footer id="footer" class="footer-home">
   <div class="container">
     <div class="footerMenu">
-      <ul id="menu-footer-en" class="menu">
-        <li class="menu-item"><a href="https://siddharthnagar.nic.in/website-policies/">Website Policies</a></li>
-        <li class="menu-item"><a href="https://siddharthnagar.nic.in/help/">Help</a></li>
-        <li class="menu-item"><a href="https://siddharthnagar.nic.in/contact-us/">Contact Us</a></li>
-        <li class="menu-item"><a href="https://siddharthnagar.nic.in/feedback/">Feedback</a></li>
+      <ul id="menu-footer-hi" class="menu">
+        <li class="menu-item"><a href="https://siddharthnagar.nic.in/website-policies/">वेबसाइट नीति</a></li>
+        <li class="menu-item"><a href="https://siddharthnagar.nic.in/help/">सहायता</a></li>
+        <li class="menu-item"><a href="https://siddharthnagar.nic.in/contact-us/">संपर्क करें</a></li>
+        <li class="menu-item"><a href="https://siddharthnagar.nic.in/feedback/">प्रतिक्रिया</a></li>
       </ul>
     </div>
 
     <div class="copyRights">
       <div class="pd-bottom5 color-white ctnt-ownd-dis">
-        Website Content Managed by <strong>Pakadi Bharat Khand, District Maharajganj</strong>
+        वेबसाइट सामग्री का प्रबंधन <strong>पकड़ी भरतखंड, जिला महाराजगंज</strong> द्वारा किया गया है
       </div>
       <div class="copyRightsText">
-        <p>© Pakadi Bharat Khand, District Maharajganj. Designed, Developed and Hosted by
-          <a href="https://www.sarnitinfotech.com" target="_blank">SarnitInfotech</a>
+        <p>© पकड़ी भरतखंड, जिला महाराजगंज। डिज़ाइन, विकास और होस्टिंग द्वारा:
+         <a href="#" id="sarnit-link">SarnitInfotech</a>
+
+<script>
+  document.getElementById("sarnit-link").addEventListener("click", function (e) {
+    e.preventDefault();
+    window.open("https://sarnitinfotech.com");
+  });
+</script>
+
+
         </p>
-        <p>Last Updated: <strong>Jun 13, 2025</strong></p>
+        <p>अंतिम अद्यतन: <strong>13 जून, 2025</strong></p>
       </div>
     </div>
   </div>
 </footer>
 
-<script type="speculationrules">
-{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"\/*"},{"not":{"href_matches":["\/wp-*.php","\/wp-admin\/*","\/s385d8ce590ad8981ca2c8286f79f59954\/uploads\/*","\/wp-content\/*","\/wp-content\/plugins\/*","\/wp-content\/themes\/district-theme\/*","\/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
-</script>
+
 <script>
+ 

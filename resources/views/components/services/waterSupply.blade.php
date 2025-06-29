@@ -3,43 +3,43 @@
 
 @include('common.breadcrumb')
 
-<!-- Section Wrapper with Brown Theme -->
+<!-- ब्राउन थीम के साथ सेक्शन रैपर -->
 <div class="gap-6 p-6">
 
-  <!-- Water Tax Department Section -->
+  <!-- जल कर विभाग अनुभाग -->
   <section class="bg-white rounded-2xl shadow-md p-8 border-t-4 border-yellow-800 mt-6">
     <div class="flex items-center mb-6">
-      <span class="material-icons notranslate  text-yellow-800 text-4xl mr-4">water</span>
-      <h2 class="text-2xl font-bold text-yellow-900">Water Tax Department – Responsibilities</h2>
+      <span class="material-icons notranslate text-yellow-800 text-4xl mr-4">water</span>
+      <h2 class="text-2xl font-bold text-yellow-900">जल कर विभाग – जिम्मेदारियाँ</h2>
     </div>
 
-    <!-- Overview -->
+    <!-- अवलोकन -->
     <div class="mb-6">
       <p class="text-gray-700">
-        The Water Tax Department of Pakadi Bharat Khand is responsible for organizing, designing, executing, and monitoring various water supply schemes as per the town’s master plan. These responsibilities aim to ensure efficient water distribution and infrastructure management.
+        पकरडी भारत खंड का जल कर विभाग नगर मास्टर प्लान के अनुसार विभिन्न जल आपूर्ति योजनाओं का नियोजन, डिज़ाइन, क्रियान्वयन और निगरानी करने के लिए जिम्मेदार है। इन कार्यों का उद्देश्य कुशल जल वितरण और बुनियादी ढांचे का प्रबंधन सुनिश्चित करना है।
       </p>
     </div>
 
-    <!-- Key Responsibilities -->
+    <!-- मुख्य कार्य -->
     <div>
-      <h3 class="text-xl font-semibold text-gray-800 mb-2">Key Functions</h3>
+      <h3 class="text-xl font-semibold text-gray-800 mb-2">मुख्य कार्य</h3>
       <ul class="list-disc list-inside text-gray-700 space-y-2">
-        <li>Planning and implementation of new water sources, water tap connections, and distribution stations.</li>
-        <li>Upgradation of existing water treatment plants, underground reservoirs, and construction of overhead tanks.</li>
-        <li>Laying of water transmission and distribution pipelines and installation of valves.</li>
-        <li>Execution of all works through public tenders and authorized contractors approved by the Nagar Panchayat authorities.</li>
-        <li>Issuing new plumber licenses and renewing existing ones as per official procedures.</li>
-        <li>Providing water tankers in areas facing complaints regarding water quality or insufficient supply.</li>
-        <li>Maintenance of water treatment plants, distribution stations, valves, and pipelines through departmental teams or private participants.</li>
+        <li>नए जल स्रोतों, नल कनेक्शनों और वितरण स्टेशनों की योजना बनाना और उन्हें लागू करना।</li>
+        <li>मौजूदा जल शोधन संयंत्रों, भूमिगत जलाशयों का उन्नयन, और ऊँचाई वाले टैंकों का निर्माण।</li>
+        <li>जल आपूर्ति की पाइपलाइनों का बिछाना तथा आवश्यक वाल्वों की स्थापना।</li>
+        <li>सभी कार्यों को सार्वजनिक निविदाओं और नगर पंचायत द्वारा अनुमोदित अधिकृत ठेकेदारों के माध्यम से पूरा कराना।</li>
+        <li>नए प्लंबर लाइसेंस जारी करना और मौजूदा लाइसेंसों का नवीनीकरण करना।</li>
+        <li>जिन क्षेत्रों में पानी की गुणवत्ता या आपूर्ति की कमी की शिकायतें हैं, वहां जल टैंकरों की व्यवस्था करना।</li>
+        <li>जल शोधन संयंत्रों, वितरण केंद्रों, वाल्वों और पाइपलाइनों का रखरखाव विभागीय टीमों या निजी सहभागियों के माध्यम से।</li>
       </ul>
     </div>
   </section>
 
-  <!-- CTA Button -->
+  <!-- CTA बटन -->
   <div class="text-center mt-16">
     <a href="#contact" class="inline-flex items-center gap-2 bg-yellow-900 text-white px-8 py-3 rounded-full text-lg font-medium hover:bg-yellow-800 transition-shadow shadow-md">
-      <span class="material-icons notranslate  notranslate">connect_without_contact</span>
-      Contact Village Office
+      <span class="material-icons notranslate">connect_without_contact</span>
+      ग्राम कार्यालय से संपर्क करें
     </a>
   </div>
 </div>

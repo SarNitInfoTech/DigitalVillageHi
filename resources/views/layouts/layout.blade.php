@@ -68,12 +68,7 @@
 <link rel="stylesheet" id="home-gallery-css" href="{{ url('css/photo-gallery-home.css') }}" media="all">
 <link rel="stylesheet" id="footer-style-css" href="{{ url('css/footer-logo-carousel.css') }}" media="all">
 
-<!-- ✅ Scripts -->
-<script>
-    var AwaasData = {
-        ajaxUrl: "{{ url('/wp-admin/admin-ajax.php') }}"
-    };
-</script>
+
 <script src="{{ url('js/common.js') }}" id="utility-common-js-js"></script>
 <script src="{{ url('js/jquery.flexslider.js') }}" id="jquery-flexslider-js-js"></script>
 <script src="{{ url('js/easyResponsiveTabs.js') }}" id="easyResponsiveTabs-js-js"></script>
@@ -88,28 +83,3 @@
 <script src="{{ url('js/vc-accordion.min.js') }}" id="vc_accordion_script-js"></script>
 <script src="{{ url('js/vc-tta-autoplay.min.js') }}" id="vc_tta_autoplay_script-js"></script>
 <script src="{{ url('js/vc-tabs.min.js') }}" id="vc_tabs_script-js"></script>
-
-        <script>
-            jQuery(document).ready(function($){
-                $.post({
-                    url:ajaxurl,
-                    method:'POST',
-                    dataType: 'JSON',
-                    data:{time: new Date().getTime(),'lang': 'en', action:'s3waas_pll_lang_cookie'},
-                    success:function (responseResults) {}
-                })
-            })
-        </script>
-<script>
-(function() {
-				var expirationDate = new Date();
-				expirationDate.setTime( expirationDate.getTime() + 31536000 * 1000 );
-				document.cookie = "pll_language=en; expires=" + expirationDate.toUTCString() + "; path=/; domain=siddharthnagar.nic.in; secure; SameSite=Lax";
-			}());
-
-</script>
-
-
-<style>.skiptranslate{
-display: none !important;
-}</style>
