@@ -7,12 +7,12 @@ use Illuminate\Http\Request;
 class StaticPageController extends Controller
 {
     public function citizenCharter() {
-        $breadcrumbTitle = "Citizen Charter";
+        $breadcrumbTitle = "नागरिक चार्टर";
         return view('pages.static.citizenCharter', compact('breadcrumbTitle'));
     }
 
     public function contactUs() {
-        $breadcrumbTitle = "Contact Us";
+        $breadcrumbTitle = "संपर्क करें";
         return view('pages.static.contactUs', compact('breadcrumbTitle'));
     }
 }

@@ -88,3 +88,7 @@ Route::prefix('about')->group(function () {
 
     Route::get('/directory', [AboutController::class, 'directory'])->name('about.directory');
 });
+
+Route::fallback(function () {
+    return redirect()->route('home');
+});

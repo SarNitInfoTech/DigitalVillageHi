@@ -8,8 +8,8 @@
             <div class="left-content push-left">
                 <div id="breadcam" role="navigation" aria-label="breadcrumb">
                     <ul class="breadcrumbs">
-                        <li><a href="https://siddharthnagar.nic.in/" class="home"><span>Home</span></a></li>
-                        <li><a href="https://siddharthnagar.nic.in/about-district/">About District</a></li>
+                        <li><a href="" class="home"><span>Home</span></a></li>
+                        <li><a href="about-district/">About District</a></li>
                         <li class="current">Map of District</li>
                     </ul>
                 </div>

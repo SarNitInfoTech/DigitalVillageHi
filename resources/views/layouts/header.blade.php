@@ -4,161 +4,91 @@
       <div aria-label="Primary">
         <div id="accessibility">
           <ul id="accessibilityMenu">
-            <li>
-              <a href="#SkipContent" class="skip-to-content" title="Skip to main content">
-                <span class="icon-skip-to-main responsive-show"></span>
-                <strong class="responsive-hide">SKIP TO MAIN CONTENT</strong>
-              </a>
-            </li>
-            <li>
-              <a lang="hi" href="http://up.gov.in/" target="_blank" title="उत्तर प्रदेश सरकार">
-                उत्तर प्रदेश सरकार
-              </a>
-            </li>
-            <li>
-              <a lang="en" href="http://up.gov.in/" target="_blank">Government of Uttar Pradesh</a>
-            </li>
-            <li class="searchbox">
-              <a href="#" title="Site Search" aria-label="Site Search">
-                <img class="show-con" src="images/search-icon.png" title="Search Icon" alt="Search Icon">
-              </a>
-              <div class="goiSearch">
-                <form onsubmit="return search_validation()" action="https://siddharthnagar.nic.in/" method="get">
-                  <label for="search" class="hide">Search</label>
-                  <input type="hidden" name="csrf_nonce" value="1d38c56e4e">
-                  <input type="hidden" name="_wp_http_referer" value="/">
-                  <input type="search" name="s" id="search" placeholder="Search..." title="Enter Text">
-                  <button type="submit" title="Search">
-                    <small class="tcon">Search</small>
-                    <span class="icon-search" aria-hidden="true"></span>
-                  </button>
-                </form>
-              </div>
-            </li>
-            <li>
-              <a href="#" title="Social Media Links" class="show-social-links">
-                <img class="show-con" src="images/social-icon.png" title="Social Icon" alt="Social Icon">
-                <span class="off-css">Social Media Links</span>
-              </a>
-              <ul class="socialIcons">
-                <li><a href="https://www.facebook.com/dmsdr" target="_blank">
-                    <img src="images/ico-facebook.png" alt="Facebook"></a></li>
-                <li><a href="https://twitter.com/login" target="_blank">
-                    <img src="images/ico-twitter.png" alt="Twitter"></a></li>
-                <li><a href="https://www.youtube.com/watch?v=aH21BZMt5sc" target="_blank">
-                    <img src="images/ico-youtube.png" alt="Youtube"></a></li>
-              </ul>
-            </li>
-            <li>
-              <a href="https://siddharthnagar.nic.in/site-map/" title="Sitemap">
-                <img class="show-con" src="images/sitemap-icon.png" alt="Sitemap Icon">
-                <span class="off-css">Site Map</span>
-              </a>
-            </li>
-            <li>
-              <a href="#" title="Accessibility Links" class="accessible-icon">
-                <img class="show-con" src="images/accessibility.png" alt="Accessibility Icon">
-                <span class="off-css">Accessibility Links</span>
-              </a>
-              <ul class="accessiblelinks textSizing">
-                <li class="fontSizeEvent"><a data-event-type="increase" href="#">A+<span class="off-css"> Font Size
-                      Increase</span></a></li>
-                <li class="fontSizeEvent"><a data-event-type="normal" href="#">A<span class="off-css"> Normal
-                      Font</span></a></li>
-                <li class="fontSizeEvent"><a data-event-type="decrease" href="#">A-<span class="off-css"> Font Size
-                      Decrease</span></a></li>
-                <li class="highContrast dark"><a href="#">A <span class="tcon">High Contrast</span></a></li>
-                <li class="highContrast light"><a class="link-selected" href="#">A <span class="tcon">Normal
-                      Contrast</span></a></li>
-              </ul>
-            </li>
-            <!-- Language Switcher in Header -->
-<li class="language-switch">
-  <a href="#" class="change-language link-selected" title="English">English</a>
-  <ul class="socialIcons select-lang">
-    <li class="lang-item lang-item-hi mFocus">
-      <a href="#" onclick="doGTranslate('en|hi'); return false;" lang="hi" title="हिन्दी">हिन्दी</a>
-    </li>
-    <li class="lang-item lang-item-en">
-      <a href="#" onclick="doGTranslate('hi|en'); return false;" lang="en" title="English">English</a>
-    </li>
-  </ul>
-</li>
+  <li>
+   <a href="#SkipContent" class="skip-to-content" title="Skip to main content">
+  <strong class="responsive-hide" style="display: inline-flex; align-items: center;">
+    <span class="material-icons" style="margin-right: 4px;">keyboard_double_arrow_down</span>
+    SKIP TO MAIN CONTENT
+  </strong>
+</a>
 
-<!-- Hidden Google Translate Element -->
-<div id="google_translate_element" style="display: none;"></div>
+  </li>
+  <li>
+    <a lang="hi" href="http://up.gov.in/" target="_blank" title="उत्तर प्रदेश सरकार">
+      उत्तर प्रदेश सरकार
+    </a>
+  </li>
+  <li>
+    <a lang="en" href="http://up.gov.in/" target="_blank">Government of Uttar Pradesh</a>
+  </li>
+  <li class="searchbox">
+    <a href="#" title="Site Search" aria-label="Site Search">
+      <span class="material-icons">search</span>
+    </a>
+    <div class="goiSearch">
+      <form onsubmit="return search_validation()" action="" method="get">
+        <label for="search" class="hide">Search</label>
+        <input type="hidden" name="csrf_nonce" value="1d38c56e4e">
+        <input type="hidden" name="_wp_http_referer" value="/">
+        <input type="search" name="s" id="search" placeholder="Search..." title="Enter Text">
+        <button type="submit" title="Search">
+          <small class="tcon">Search</small>
+          <span class="material-icons" aria-hidden="true">search</span>
+        </button>
+      </form>
+    </div>
+  </li>
+  <li>
+    <a href="#" title="Social Media Links" class="show-social-links">
+      <span class="material-icons">share</span>
+      <span class="off-css">Social Media Links</span>
+    </a>
+    <ul class="socialIcons">
+      <li><a href="https://www.facebook.com/dmsdr" target="_blank"><span class="material-icons">facebook</span></a></li>
+      <li><a href="https://twitter.com/login" target="_blank"><span class="material-icons">close</span></a></li>
+      <li><a href="https://www.youtube.com/watch?v=aH21BZMt5sc" target="_blank"><span class="material-icons">smart_display</span></a></li>
+    </ul>
+  </li>
+  <li>
+    <a href="site-map/" title="Sitemap">
+      <span class="material-icons">map</span>
+      <span class="off-css">Site Map</span>
+    </a>
+  </li>
+  <li>
+    <a href="#" title="Accessibility Links" class="accessible-icon">
+      <span class="material-icons">accessibility</span>
+      <span class="off-css">Accessibility Links</span>
+    </a>
+    <ul class="accessiblelinks textSizing">
+      <li class="fontSizeEvent"><a data-event-type="increase" href="#">A+<span class="off-css"> Font Size Increase</span></a></li>
+      <li class="fontSizeEvent"><a data-event-type="normal" href="#">A<span class="off-css"> Normal Font</span></a></li>
+      <li class="fontSizeEvent"><a data-event-type="decrease" href="#">A-<span class="off-css"> Font Size Decrease</span></a></li>
+      <li class="highContrast dark"><a href="#">A <span class="tcon">High Contrast</span></a></li>
+      <li class="highContrast light"><a class="link-selected" href="#">A <span class="tcon">Normal Contrast</span></a></li>
+    </ul>
+  </li>
 
-<!-- Google Translate Script -->
-<script type="text/javascript">
-  function googleTranslateElementInit() {
-    new google.translate.TranslateElement({
-      pageLanguage: 'en',
-      includedLanguages: 'en,hi',
-      layout: google.translate.TranslateElement.InlineLayout.SIMPLE,
-      autoDisplay: false
-    }, 'google_translate_element');
-  }
-</script>
+  <!-- Language Switcher -->
+  <li class="language-switch">
+    <a href="#" class="change-language link-selected" title="English">English</a>
+    <ul class="socialIcons select-lang">
+      <li class="lang-item lang-item-hi mFocus">
+        <a href="https://preview.sarnitthemes.com/sndv25/digitalvillagehi/public" onclick="doGTranslate('en|hi'); return false;" lang="hi" title="हिन्दी">हिन्दी</a>
+      </li>
+      <li class="lang-item lang-item-en">
+        <a href="https://preview.sarnitthemes.com/sndv25/digitalvillage/public" onclick="doGTranslate('hi|en'); return false;" lang="en" title="English">English</a>
+      </li>
+    </ul>
+  </li>
 
-<script src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+  <!-- Google Translate Container and Scripts (unchanged) -->
+  <div id="google_translate_element" style="display: none;"></div>
+</ul>
 
-<!-- Custom Trigger Script -->
-<script>
-  function waitForTranslateDropdown(callback, retries = 0) {
-    const select = document.querySelector('.goog-te-combo');
-    if (select) {
-      callback(select);
-    } else if (retries < 20) {
-      setTimeout(() => waitForTranslateDropdown(callback, retries + 1), 300);
-    } else {
-      console.warn('Google Translate widget not ready.');
-    }
-  }
+<!-- Ensure Material Icons CDN is linked -->
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" />
 
-  function doGTranslate(langPair) {
-    if (!langPair) return;
-    const lang = langPair.split('|')[1];
-
-    waitForTranslateDropdown((select) => {
-      select.value = lang;
-      select.dispatchEvent(new Event('change'));
-
-      // Persist via cookie
-      document.cookie = `googtrans=/en/${lang}; path=/;`;
-    });
-  }
-
-  function GTranslateGetCurrentLang() {
-    const match = document.cookie.match(/googtrans=\/en\/(\w+)/);
-    return match ? match[1] : null;
-  }
-
-  function hideTranslateBar() {
-    const frame = document.querySelector('iframe.goog-te-banner-frame');
-    if (frame) frame.style.display = 'none';
-    document.body.style.top = '0px';
-  }
-
-  document.addEventListener('DOMContentLoaded', () => {
-    // Auto-switch if /hi is in URL
-    if (window.location.pathname.startsWith('/hi')) {
-      doGTranslate('en|hi');
-    } else {
-      const savedLang = GTranslateGetCurrentLang();
-      if (savedLang && savedLang !== 'en') {
-        doGTranslate('en|' + savedLang);
-      }
-    }
-
-    // Hide toolbar
-    setTimeout(hideTranslateBar, 1000);
-    const observer = new MutationObserver(hideTranslateBar);
-    observer.observe(document.body, { childList: true, subtree: true });
-  });
-</script>
-
-
-          </ul>
         </div>
       </div>
     </div>
@@ -169,8 +99,8 @@
       <div class="logo flex items-center gap-4">
   <!-- Logo/Image Section -->
   <div>
-    <a href="https://siddharthnagar.nic.in/" title="Go to home" class="emblem block">
-      <img class="site_logo h-28 w-auto" id="logo" src="{{ url('images/2018022493.png') }}"
+    <a href="" title="Go to home" class="emblem block">
+      <img class="site_logo h-28 w-auto" id="logo" src="{{ url('images/logo.png') }}"
         alt="Siddharthnagar Logo">
     </a>
   </div>
@@ -188,13 +118,13 @@
 
 
 
-      <div class="header-right">
+      {{-- <div class="header-right">
         <div class="float-element">
           <a href="http://www.digitalindia.gov.in/" target="_blank" title="Digital India">
             <img class="sw-logo" height="95" src="{{('images/2018062262.png')}}" alt="Digital India">
           </a>
         </div>
-      </div>
+      </div> --}}
       <a class="menuToggle" href="#" title="Mobile Menu">
         <span class="icon-menu"></span><span class="tcon">Menu Toggle</span>
       </a>

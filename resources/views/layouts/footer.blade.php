@@ -3,13 +3,13 @@
     <div class="footerMenu">
       <ul id="menu-footer-en" class="menu">
         <li id="menu-item-22411" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-22411"><a
-            href="https://siddharthnagar.nic.in/website-policies/">Website Policies</a></li>
+            href="website-policies/">Website Policies</a></li>
         <li id="menu-item-22412" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-22412"><a
-            href="https://siddharthnagar.nic.in/help/">Help</a></li>
+            href="help/">Help</a></li>
         <li id="menu-item-22413" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-22413"><a
-            href="https://siddharthnagar.nic.in/contact-us/">Contact Us</a></li>
+            href="contact-us/">Contact Us</a></li>
         <li id="menu-item-22414" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-22414"><a
-            href="https://siddharthnagar.nic.in/feedback/">Feedback</a></li>
+            href="feedback/">Feedback</a></li>
       </ul>
     </div>
     <div class="copyRights">
@@ -30,6 +30,8 @@
     </div>
   </div>
 </footer> --}}
+
+@include('common.footerCarousel')
 
 
 </section>
@@ -72,10 +74,10 @@
   <div class="container">
     <div class="footerMenu">
       <ul id="menu-footer-hi" class="menu">
-        <li class="menu-item"><a href="https://siddharthnagar.nic.in/website-policies/">वेबसाइट नीति</a></li>
-        <li class="menu-item"><a href="https://siddharthnagar.nic.in/help/">सहायता</a></li>
-        <li class="menu-item"><a href="https://siddharthnagar.nic.in/contact-us/">संपर्क करें</a></li>
-        <li class="menu-item"><a href="https://siddharthnagar.nic.in/feedback/">प्रतिक्रिया</a></li>
+        <li class="menu-item"><a href="">वेबसाइट नीति</a></li>
+        <li class="menu-item"><a href="">सहायता</a></li>
+        <li class="menu-item"><a href="">संपर्क करें</a></li>
+        <li class="menu-item"><a href="">प्रतिक्रिया</a></li>
       </ul>
     </div>
 

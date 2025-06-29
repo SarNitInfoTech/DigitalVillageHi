@@ -7,7 +7,7 @@
         <div class="row breadcrumb-outer">
         <div class="left-content push-left">
             <div id="breadcam" role="navigation" aria-label="breadcrumb">
-                <ul class="breadcrumbs"><li><a href="https://siddharthnagar.nic.in/" class="home"><span>Home</span></a></li><li><a href="https://siddharthnagar.nic.in/about-district/">About District</a></li><li><a href="https://siddharthnagar.nic.in/administrative-setup/">Administrative Setup</a></li>  <li class="current">Tehsil</li></ul>            </div>
+                <ul class="breadcrumbs"><li><a href="" class="home"><span>Home</span></a></li><li><a href="about-district/">About District</a></li><li><a href="administrative-setup/">Administrative Setup</a></li>  <li class="current">Tehsil</li></ul>            </div>
         </div>
         <div class="right-content push-right">
             <div class="printShare">
@@ -17,10 +17,10 @@
                                                 <span class="share-text"><em class="icon-share"></em><span class="off-css">Share</span></span>
                     </li>
                     <li>
-                        <a href="https://www.facebook.com/sharer/sharer.php?u=https://siddharthnagar.nic.in/administrative-setup/tehsil/&amp;t=Tehsil" onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=300,width=600');return false;" target="_blank" title="Share on Facebook" aria-label="Facebook that opens in a new window" rel="noopener noreferrer"><span class="icon-facebook"></span><span class="off-css">Facebook</span></a>
+                        <a href="https://www.facebook.com/sharer/sharer.php?u=administrative-setup/tehsil/&amp;t=Tehsil" onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=300,width=600');return false;" target="_blank" title="Share on Facebook" aria-label="Facebook that opens in a new window" rel="noopener noreferrer"><span class="icon-facebook"></span><span class="off-css">Facebook</span></a>
                     </li>
                     <li>
-                        <a href="https://twitter.com/share?url=https://siddharthnagar.nic.in/administrative-setup/tehsil/&amp;via=TWITTER_HANDLE&amp;text=Tehsil" onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=300,width=600');return false;" target="_blank" title="Share on Twitter" aria-label="Twitter that opens in a new window" rel="noopener noreferrer"><span class="icon-twitter"></span><span class="off-css">Twitter</span></a>
+                        <a href="https://twitter.com/share?url=administrative-setup/tehsil/&amp;via=TWITTER_HANDLE&amp;text=Tehsil" onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=300,width=600');return false;" target="_blank" title="Share on Twitter" aria-label="Twitter that opens in a new window" rel="noopener noreferrer"><span class="icon-twitter"></span><span class="off-css">Twitter</span></a>
                     </li>
                 </ul>
             </div>

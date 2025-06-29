@@ -6,37 +6,37 @@ use Illuminate\Http\Request;
 
 class AboutController extends Controller
 {
-    
     public function index(){
-         $breadcrumbTitle="About Pakadi Bharat Khand";
+        $breadcrumbTitle = "पकड़ी भरत खंड के बारे में";
         return view('pages.about.about.aboutVillage', compact('breadcrumbTitle'));
     }
+
     // Root About pages
     public function about() {
-        $breadcrumbTitle="About Pakadi Bharat Khand";
-
+        $breadcrumbTitle = "पकड़ी भरत खंड के बारे में";
         return view('pages.about.about.aboutVillage', compact('breadcrumbTitle'));
     }
 
     public function objective() {
-        $breadcrumbTitle="Objectives & Public Services – Pakadi Bharat Khand";
-        return view('pages.about.villageObjective.villageObjective' ,compact('breadcrumbTitle'));
-    }
-    
-    public function overview() {
-        $breadcrumbTitle="Overview – Pakadi Bharat Khand";
-        return view('pages.about.villageOverview.overview' ,compact('breadcrumbTitle'));
+        $breadcrumbTitle = "उद्देश्य एवं सार्वजनिक सेवाएं – पकड़ी भरत खंड";
+        return view('pages.about.villageObjective.villageObjective', compact('breadcrumbTitle'));
     }
 
-     public function visionAndMission() {
-        $breadcrumbTitle="Vision and Mission";
-        return view('pages.about.visionAndMission.visionAndMission' ,compact('breadcrumbTitle'));
+    public function overview() {
+        $breadcrumbTitle = "संक्षिप्त विवरण – पकड़ी भरत खंड";
+        return view('pages.about.villageOverview.overview', compact('breadcrumbTitle'));
     }
-    
-     public function organizational() {
-        $breadcrumbTitle="Organizational Structure";
-        return view('pages.about.organizational.organizational' ,compact('breadcrumbTitle'));
+
+    public function visionAndMission() {
+        $breadcrumbTitle = "दृष्टि और मिशन";
+        return view('pages.about.visionAndMission.visionAndMission', compact('breadcrumbTitle'));
     }
+
+    public function organizational() {
+        $breadcrumbTitle = "संगठनात्मक संरचना";
+        return view('pages.about.organizational.organizational', compact('breadcrumbTitle'));
+    }
+
     public function whoiswho() {
         return view('components.about.whoiswho');
     }
@@ -83,4 +83,3 @@ class AboutController extends Controller
         return view('components.about.directory.directory');
     }
 }
-

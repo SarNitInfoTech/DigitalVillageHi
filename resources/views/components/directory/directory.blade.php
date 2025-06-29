@@ -9,7 +9,7 @@
         <div id="breadcam" role="navigation" aria-label="breadcrumb">
           <ul class="breadcrumbs">
             <li>
-              <a href="https://siddharthnagar.nic.in/" class="home"><span>होम</span></a>
+              <a href="" class="home"><span>होम</span></a>
             </li>
             <li class="current">निर्देशिका</li>
           </ul>
@@ -31,7 +31,7 @@
               </span>
             </li>
             <li>
-              <a href="https://www.facebook.com/sharer/sharer.php?u=https://siddharthnagar.nic.in/directory/&amp;t=Directory"
+              <a href="https://www.facebook.com/sharer/sharer.php?u=directory/&amp;t=Directory"
                 onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=300,width=600');return false;"
                 target="_blank" title="फेसबुक पर साझा करें" aria-label="फेसबुक पर साझा करें (नई विंडो में खुलेगा)" rel="noopener noreferrer">
                 <span class="icon-facebook"></span>
@@ -39,7 +39,7 @@
               </a>
             </li>
             <li>
-              <a href="https://twitter.com/share?url=https://siddharthnagar.nic.in/directory/&amp;via=TWITTER_HANDLE&amp;text=Directory"
+              <a href="https://twitter.com/share?url=directory/&amp;via=TWITTER_HANDLE&amp;text=Directory"
                 onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=300,width=600');return false;"
                 target="_blank" title="ट्विटर पर साझा करें" aria-label="ट्विटर पर साझा करें (नई विंडो में खुलेगा)" rel="noopener noreferrer">
                 <span class="icon-twitter"></span>

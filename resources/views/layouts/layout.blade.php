@@ -29,15 +29,15 @@
 <script src="{{ url('js/core.min.js') }}" id="jquery-ui-core-js"></script>
 <script src="{{ url('js/external.js') }}" id="external-link-js"></script>
 <script src="https://cdn.tailwindcss.com"></script>
-<link rel="canonical" href="https://siddharthnagar.nic.in/">
-<link rel="shortlink" href="https://siddharthnagar.nic.in/">
+<link rel="canonical" href="">
+<link rel="shortlink" href="">
 <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 
 
 <body>
 	  <!-- Header Include -->
         @include('layouts.header')
-
+<div id="SkipContent"></div>
      <!-- Main Page Content -->
         <div class="wrapper " id="google_translate_element" style="min-height: 80vh; display: flex; flex-direction: column;">
     

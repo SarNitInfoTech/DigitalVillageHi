@@ -6,13 +6,13 @@ use Illuminate\Http\Request;
 
 class FinanceController extends Controller
 {
- public function budget() {
-    $breadcrumbTitle = "Budget";
-    return view('pages.finance.budget', compact('breadcrumbTitle'));
-}
+    public function budget() {
+        $breadcrumbTitle = "बजट";
+        return view('pages.finance.budget', compact('breadcrumbTitle'));
+    }
 
-public function auditBalanceSheet() {
-    $breadcrumbTitle = "Audit Balance Sheet";
-    return view('pages.finance.auditBalanceSheet', compact('breadcrumbTitle'));
-}
+    public function auditBalanceSheet() {
+        $breadcrumbTitle = "लेखा परीक्षण और बैलेंस शीट";
+        return view('pages.finance.auditBalanceSheet', compact('breadcrumbTitle'));
+    }
 }

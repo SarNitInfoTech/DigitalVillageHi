@@ -13,7 +13,6 @@
           @include('components.home.gallery')
           @include('components.home.news')
           @include('components.home.servicesUtilities')
-          @include('components.home.footerCarousel')
           <script src="https://mib.gov.in/sites/all/themes/mib/js/mib-banner.js"></script>
 
         </div>
