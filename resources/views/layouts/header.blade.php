@@ -5,21 +5,12 @@
         <div id="accessibility">
           <ul id="accessibilityMenu">
   <li>
-   <a href="#SkipContent" class="skip-to-content" title="Skip to main content">
+     <a href="#SkipContent" class="skip-to-content" title="Skip to main content">
   <strong class="responsive-hide" style="display: inline-flex; align-items: center;">
     <span class="material-icons" style="margin-right: 4px;">keyboard_double_arrow_down</span>
     SKIP TO MAIN CONTENT
   </strong>
 </a>
-
-  </li>
-  <li>
-    <a lang="hi" href="http://up.gov.in/" target="_blank" title="उत्तर प्रदेश सरकार">
-      उत्तर प्रदेश सरकार
-    </a>
-  </li>
-  <li>
-    <a lang="en" href="http://up.gov.in/" target="_blank">Government of Uttar Pradesh</a>
   </li>
   <li class="searchbox">
     <a href="#" title="Site Search" aria-label="Site Search">
